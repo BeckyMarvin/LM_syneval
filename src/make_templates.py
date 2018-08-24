@@ -8,8 +8,8 @@ from TestCases import TestCase
                           
 class MakeAgreementTemplate():
     def __init__(self):
-        self.terminals = AgreementTerminals.terminals
-        self.rules = AgreementTemplate.rules
+        self.terminals = AgreementTerminals().terminals
+        self.rules = AgreementTemplate().rules
 
     def switch_number(self, wrds, verb=False):
         new_wrds = []
@@ -70,8 +70,8 @@ class MakeAgreementTemplate():
 
 class MakeNPITemplate():
     def __init__(self):
-        self.terminals = NPITerminals.terminals
-        self.rules = NPITemplate.rules
+        self.terminals = NPITerminals().terminals
+        self.rules = NPITemplate().rules
 
     def switch_tense(self, preterms):
         new_preterms = preterms[:]
