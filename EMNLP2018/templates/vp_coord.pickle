@@ -1,0 +1,4208 @@
+(dp0
+S'sing_MS_MV_MV'
+p1
+(lp2
+(S'the author laughs and swims'
+p3
+S'the author laughs and swim'
+p4
+tp5
+a(S'the author laughs and smiles'
+p6
+S'the author laughs and smile'
+p7
+tp8
+a(S'the author laughs and is tall'
+p9
+S'the author laughs and are tall'
+p10
+tp11
+a(S'the author laughs and is old'
+p12
+S'the author laughs and are old'
+p13
+tp14
+a(S'the author laughs and is young'
+p15
+S'the author laughs and are young'
+p16
+tp17
+a(S'the author laughs and is short'
+p18
+S'the author laughs and are short'
+p19
+tp20
+a(S'the author swims and laughs'
+p21
+S'the author swims and laugh'
+p22
+tp23
+a(S'the author swims and smiles'
+p24
+S'the author swims and smile'
+p25
+tp26
+a(S'the author swims and is tall'
+p27
+S'the author swims and are tall'
+p28
+tp29
+a(S'the author swims and is old'
+p30
+S'the author swims and are old'
+p31
+tp32
+a(S'the author swims and is young'
+p33
+S'the author swims and are young'
+p34
+tp35
+a(S'the author swims and is short'
+p36
+S'the author swims and are short'
+p37
+tp38
+a(S'the author smiles and laughs'
+p39
+S'the author smiles and laugh'
+p40
+tp41
+a(S'the author smiles and swims'
+p42
+S'the author smiles and swim'
+p43
+tp44
+a(S'the author smiles and is tall'
+p45
+S'the author smiles and are tall'
+p46
+tp47
+a(S'the author smiles and is old'
+p48
+S'the author smiles and are old'
+p49
+tp50
+a(S'the author smiles and is young'
+p51
+S'the author smiles and are young'
+p52
+tp53
+a(S'the author smiles and is short'
+p54
+S'the author smiles and are short'
+p55
+tp56
+a(S'the author is tall and laughs'
+p57
+S'the author is tall and laugh'
+p58
+tp59
+a(S'the author is tall and swims'
+p60
+S'the author is tall and swim'
+p61
+tp62
+a(S'the author is tall and smiles'
+p63
+S'the author is tall and smile'
+p64
+tp65
+a(S'the author is tall and is old'
+p66
+S'the author is tall and are old'
+p67
+tp68
+a(S'the author is tall and is young'
+p69
+S'the author is tall and are young'
+p70
+tp71
+a(S'the author is tall and is short'
+p72
+S'the author is tall and are short'
+p73
+tp74
+a(S'the author is old and laughs'
+p75
+S'the author is old and laugh'
+p76
+tp77
+a(S'the author is old and swims'
+p78
+S'the author is old and swim'
+p79
+tp80
+a(S'the author is old and smiles'
+p81
+S'the author is old and smile'
+p82
+tp83
+a(S'the author is old and is tall'
+p84
+S'the author is old and are tall'
+p85
+tp86
+a(S'the author is old and is young'
+p87
+S'the author is old and are young'
+p88
+tp89
+a(S'the author is old and is short'
+p90
+S'the author is old and are short'
+p91
+tp92
+a(S'the author is young and laughs'
+p93
+S'the author is young and laugh'
+p94
+tp95
+a(S'the author is young and swims'
+p96
+S'the author is young and swim'
+p97
+tp98
+a(S'the author is young and smiles'
+p99
+S'the author is young and smile'
+p100
+tp101
+a(S'the author is young and is tall'
+p102
+S'the author is young and are tall'
+p103
+tp104
+a(S'the author is young and is old'
+p105
+S'the author is young and are old'
+p106
+tp107
+a(S'the author is young and is short'
+p108
+S'the author is young and are short'
+p109
+tp110
+a(S'the author is short and laughs'
+p111
+S'the author is short and laugh'
+p112
+tp113
+a(S'the author is short and swims'
+p114
+S'the author is short and swim'
+p115
+tp116
+a(S'the author is short and smiles'
+p117
+S'the author is short and smile'
+p118
+tp119
+a(S'the author is short and is tall'
+p120
+S'the author is short and are tall'
+p121
+tp122
+a(S'the author is short and is old'
+p123
+S'the author is short and are old'
+p124
+tp125
+a(S'the author is short and is young'
+p126
+S'the author is short and are young'
+p127
+tp128
+a(S'the pilot laughs and swims'
+p129
+S'the pilot laughs and swim'
+p130
+tp131
+a(S'the pilot laughs and smiles'
+p132
+S'the pilot laughs and smile'
+p133
+tp134
+a(S'the pilot laughs and is tall'
+p135
+S'the pilot laughs and are tall'
+p136
+tp137
+a(S'the pilot laughs and is old'
+p138
+S'the pilot laughs and are old'
+p139
+tp140
+a(S'the pilot laughs and is young'
+p141
+S'the pilot laughs and are young'
+p142
+tp143
+a(S'the pilot laughs and is short'
+p144
+S'the pilot laughs and are short'
+p145
+tp146
+a(S'the pilot swims and laughs'
+p147
+S'the pilot swims and laugh'
+p148
+tp149
+a(S'the pilot swims and smiles'
+p150
+S'the pilot swims and smile'
+p151
+tp152
+a(S'the pilot swims and is tall'
+p153
+S'the pilot swims and are tall'
+p154
+tp155
+a(S'the pilot swims and is old'
+p156
+S'the pilot swims and are old'
+p157
+tp158
+a(S'the pilot swims and is young'
+p159
+S'the pilot swims and are young'
+p160
+tp161
+a(S'the pilot swims and is short'
+p162
+S'the pilot swims and are short'
+p163
+tp164
+a(S'the pilot smiles and laughs'
+p165
+S'the pilot smiles and laugh'
+p166
+tp167
+a(S'the pilot smiles and swims'
+p168
+S'the pilot smiles and swim'
+p169
+tp170
+a(S'the pilot smiles and is tall'
+p171
+S'the pilot smiles and are tall'
+p172
+tp173
+a(S'the pilot smiles and is old'
+p174
+S'the pilot smiles and are old'
+p175
+tp176
+a(S'the pilot smiles and is young'
+p177
+S'the pilot smiles and are young'
+p178
+tp179
+a(S'the pilot smiles and is short'
+p180
+S'the pilot smiles and are short'
+p181
+tp182
+a(S'the pilot is tall and laughs'
+p183
+S'the pilot is tall and laugh'
+p184
+tp185
+a(S'the pilot is tall and swims'
+p186
+S'the pilot is tall and swim'
+p187
+tp188
+a(S'the pilot is tall and smiles'
+p189
+S'the pilot is tall and smile'
+p190
+tp191
+a(S'the pilot is tall and is old'
+p192
+S'the pilot is tall and are old'
+p193
+tp194
+a(S'the pilot is tall and is young'
+p195
+S'the pilot is tall and are young'
+p196
+tp197
+a(S'the pilot is tall and is short'
+p198
+S'the pilot is tall and are short'
+p199
+tp200
+a(S'the pilot is old and laughs'
+p201
+S'the pilot is old and laugh'
+p202
+tp203
+a(S'the pilot is old and swims'
+p204
+S'the pilot is old and swim'
+p205
+tp206
+a(S'the pilot is old and smiles'
+p207
+S'the pilot is old and smile'
+p208
+tp209
+a(S'the pilot is old and is tall'
+p210
+S'the pilot is old and are tall'
+p211
+tp212
+a(S'the pilot is old and is young'
+p213
+S'the pilot is old and are young'
+p214
+tp215
+a(S'the pilot is old and is short'
+p216
+S'the pilot is old and are short'
+p217
+tp218
+a(S'the pilot is young and laughs'
+p219
+S'the pilot is young and laugh'
+p220
+tp221
+a(S'the pilot is young and swims'
+p222
+S'the pilot is young and swim'
+p223
+tp224
+a(S'the pilot is young and smiles'
+p225
+S'the pilot is young and smile'
+p226
+tp227
+a(S'the pilot is young and is tall'
+p228
+S'the pilot is young and are tall'
+p229
+tp230
+a(S'the pilot is young and is old'
+p231
+S'the pilot is young and are old'
+p232
+tp233
+a(S'the pilot is young and is short'
+p234
+S'the pilot is young and are short'
+p235
+tp236
+a(S'the pilot is short and laughs'
+p237
+S'the pilot is short and laugh'
+p238
+tp239
+a(S'the pilot is short and swims'
+p240
+S'the pilot is short and swim'
+p241
+tp242
+a(S'the pilot is short and smiles'
+p243
+S'the pilot is short and smile'
+p244
+tp245
+a(S'the pilot is short and is tall'
+p246
+S'the pilot is short and are tall'
+p247
+tp248
+a(S'the pilot is short and is old'
+p249
+S'the pilot is short and are old'
+p250
+tp251
+a(S'the pilot is short and is young'
+p252
+S'the pilot is short and are young'
+p253
+tp254
+a(S'the surgeon laughs and swims'
+p255
+S'the surgeon laughs and swim'
+p256
+tp257
+a(S'the surgeon laughs and smiles'
+p258
+S'the surgeon laughs and smile'
+p259
+tp260
+a(S'the surgeon laughs and is tall'
+p261
+S'the surgeon laughs and are tall'
+p262
+tp263
+a(S'the surgeon laughs and is old'
+p264
+S'the surgeon laughs and are old'
+p265
+tp266
+a(S'the surgeon laughs and is young'
+p267
+S'the surgeon laughs and are young'
+p268
+tp269
+a(S'the surgeon laughs and is short'
+p270
+S'the surgeon laughs and are short'
+p271
+tp272
+a(S'the surgeon swims and laughs'
+p273
+S'the surgeon swims and laugh'
+p274
+tp275
+a(S'the surgeon swims and smiles'
+p276
+S'the surgeon swims and smile'
+p277
+tp278
+a(S'the surgeon swims and is tall'
+p279
+S'the surgeon swims and are tall'
+p280
+tp281
+a(S'the surgeon swims and is old'
+p282
+S'the surgeon swims and are old'
+p283
+tp284
+a(S'the surgeon swims and is young'
+p285
+S'the surgeon swims and are young'
+p286
+tp287
+a(S'the surgeon swims and is short'
+p288
+S'the surgeon swims and are short'
+p289
+tp290
+a(S'the surgeon smiles and laughs'
+p291
+S'the surgeon smiles and laugh'
+p292
+tp293
+a(S'the surgeon smiles and swims'
+p294
+S'the surgeon smiles and swim'
+p295
+tp296
+a(S'the surgeon smiles and is tall'
+p297
+S'the surgeon smiles and are tall'
+p298
+tp299
+a(S'the surgeon smiles and is old'
+p300
+S'the surgeon smiles and are old'
+p301
+tp302
+a(S'the surgeon smiles and is young'
+p303
+S'the surgeon smiles and are young'
+p304
+tp305
+a(S'the surgeon smiles and is short'
+p306
+S'the surgeon smiles and are short'
+p307
+tp308
+a(S'the surgeon is tall and laughs'
+p309
+S'the surgeon is tall and laugh'
+p310
+tp311
+a(S'the surgeon is tall and swims'
+p312
+S'the surgeon is tall and swim'
+p313
+tp314
+a(S'the surgeon is tall and smiles'
+p315
+S'the surgeon is tall and smile'
+p316
+tp317
+a(S'the surgeon is tall and is old'
+p318
+S'the surgeon is tall and are old'
+p319
+tp320
+a(S'the surgeon is tall and is young'
+p321
+S'the surgeon is tall and are young'
+p322
+tp323
+a(S'the surgeon is tall and is short'
+p324
+S'the surgeon is tall and are short'
+p325
+tp326
+a(S'the surgeon is old and laughs'
+p327
+S'the surgeon is old and laugh'
+p328
+tp329
+a(S'the surgeon is old and swims'
+p330
+S'the surgeon is old and swim'
+p331
+tp332
+a(S'the surgeon is old and smiles'
+p333
+S'the surgeon is old and smile'
+p334
+tp335
+a(S'the surgeon is old and is tall'
+p336
+S'the surgeon is old and are tall'
+p337
+tp338
+a(S'the surgeon is old and is young'
+p339
+S'the surgeon is old and are young'
+p340
+tp341
+a(S'the surgeon is old and is short'
+p342
+S'the surgeon is old and are short'
+p343
+tp344
+a(S'the surgeon is young and laughs'
+p345
+S'the surgeon is young and laugh'
+p346
+tp347
+a(S'the surgeon is young and swims'
+p348
+S'the surgeon is young and swim'
+p349
+tp350
+a(S'the surgeon is young and smiles'
+p351
+S'the surgeon is young and smile'
+p352
+tp353
+a(S'the surgeon is young and is tall'
+p354
+S'the surgeon is young and are tall'
+p355
+tp356
+a(S'the surgeon is young and is old'
+p357
+S'the surgeon is young and are old'
+p358
+tp359
+a(S'the surgeon is young and is short'
+p360
+S'the surgeon is young and are short'
+p361
+tp362
+a(S'the surgeon is short and laughs'
+p363
+S'the surgeon is short and laugh'
+p364
+tp365
+a(S'the surgeon is short and swims'
+p366
+S'the surgeon is short and swim'
+p367
+tp368
+a(S'the surgeon is short and smiles'
+p369
+S'the surgeon is short and smile'
+p370
+tp371
+a(S'the surgeon is short and is tall'
+p372
+S'the surgeon is short and are tall'
+p373
+tp374
+a(S'the surgeon is short and is old'
+p375
+S'the surgeon is short and are old'
+p376
+tp377
+a(S'the surgeon is short and is young'
+p378
+S'the surgeon is short and are young'
+p379
+tp380
+a(S'the farmer laughs and swims'
+p381
+S'the farmer laughs and swim'
+p382
+tp383
+a(S'the farmer laughs and smiles'
+p384
+S'the farmer laughs and smile'
+p385
+tp386
+a(S'the farmer laughs and is tall'
+p387
+S'the farmer laughs and are tall'
+p388
+tp389
+a(S'the farmer laughs and is old'
+p390
+S'the farmer laughs and are old'
+p391
+tp392
+a(S'the farmer laughs and is young'
+p393
+S'the farmer laughs and are young'
+p394
+tp395
+a(S'the farmer laughs and is short'
+p396
+S'the farmer laughs and are short'
+p397
+tp398
+a(S'the farmer swims and laughs'
+p399
+S'the farmer swims and laugh'
+p400
+tp401
+a(S'the farmer swims and smiles'
+p402
+S'the farmer swims and smile'
+p403
+tp404
+a(S'the farmer swims and is tall'
+p405
+S'the farmer swims and are tall'
+p406
+tp407
+a(S'the farmer swims and is old'
+p408
+S'the farmer swims and are old'
+p409
+tp410
+a(S'the farmer swims and is young'
+p411
+S'the farmer swims and are young'
+p412
+tp413
+a(S'the farmer swims and is short'
+p414
+S'the farmer swims and are short'
+p415
+tp416
+a(S'the farmer smiles and laughs'
+p417
+S'the farmer smiles and laugh'
+p418
+tp419
+a(S'the farmer smiles and swims'
+p420
+S'the farmer smiles and swim'
+p421
+tp422
+a(S'the farmer smiles and is tall'
+p423
+S'the farmer smiles and are tall'
+p424
+tp425
+a(S'the farmer smiles and is old'
+p426
+S'the farmer smiles and are old'
+p427
+tp428
+a(S'the farmer smiles and is young'
+p429
+S'the farmer smiles and are young'
+p430
+tp431
+a(S'the farmer smiles and is short'
+p432
+S'the farmer smiles and are short'
+p433
+tp434
+a(S'the farmer is tall and laughs'
+p435
+S'the farmer is tall and laugh'
+p436
+tp437
+a(S'the farmer is tall and swims'
+p438
+S'the farmer is tall and swim'
+p439
+tp440
+a(S'the farmer is tall and smiles'
+p441
+S'the farmer is tall and smile'
+p442
+tp443
+a(S'the farmer is tall and is old'
+p444
+S'the farmer is tall and are old'
+p445
+tp446
+a(S'the farmer is tall and is young'
+p447
+S'the farmer is tall and are young'
+p448
+tp449
+a(S'the farmer is tall and is short'
+p450
+S'the farmer is tall and are short'
+p451
+tp452
+a(S'the farmer is old and laughs'
+p453
+S'the farmer is old and laugh'
+p454
+tp455
+a(S'the farmer is old and swims'
+p456
+S'the farmer is old and swim'
+p457
+tp458
+a(S'the farmer is old and smiles'
+p459
+S'the farmer is old and smile'
+p460
+tp461
+a(S'the farmer is old and is tall'
+p462
+S'the farmer is old and are tall'
+p463
+tp464
+a(S'the farmer is old and is young'
+p465
+S'the farmer is old and are young'
+p466
+tp467
+a(S'the farmer is old and is short'
+p468
+S'the farmer is old and are short'
+p469
+tp470
+a(S'the farmer is young and laughs'
+p471
+S'the farmer is young and laugh'
+p472
+tp473
+a(S'the farmer is young and swims'
+p474
+S'the farmer is young and swim'
+p475
+tp476
+a(S'the farmer is young and smiles'
+p477
+S'the farmer is young and smile'
+p478
+tp479
+a(S'the farmer is young and is tall'
+p480
+S'the farmer is young and are tall'
+p481
+tp482
+a(S'the farmer is young and is old'
+p483
+S'the farmer is young and are old'
+p484
+tp485
+a(S'the farmer is young and is short'
+p486
+S'the farmer is young and are short'
+p487
+tp488
+a(S'the farmer is short and laughs'
+p489
+S'the farmer is short and laugh'
+p490
+tp491
+a(S'the farmer is short and swims'
+p492
+S'the farmer is short and swim'
+p493
+tp494
+a(S'the farmer is short and smiles'
+p495
+S'the farmer is short and smile'
+p496
+tp497
+a(S'the farmer is short and is tall'
+p498
+S'the farmer is short and are tall'
+p499
+tp500
+a(S'the farmer is short and is old'
+p501
+S'the farmer is short and are old'
+p502
+tp503
+a(S'the farmer is short and is young'
+p504
+S'the farmer is short and are young'
+p505
+tp506
+a(S'the manager laughs and swims'
+p507
+S'the manager laughs and swim'
+p508
+tp509
+a(S'the manager laughs and smiles'
+p510
+S'the manager laughs and smile'
+p511
+tp512
+a(S'the manager laughs and is tall'
+p513
+S'the manager laughs and are tall'
+p514
+tp515
+a(S'the manager laughs and is old'
+p516
+S'the manager laughs and are old'
+p517
+tp518
+a(S'the manager laughs and is young'
+p519
+S'the manager laughs and are young'
+p520
+tp521
+a(S'the manager laughs and is short'
+p522
+S'the manager laughs and are short'
+p523
+tp524
+a(S'the manager swims and laughs'
+p525
+S'the manager swims and laugh'
+p526
+tp527
+a(S'the manager swims and smiles'
+p528
+S'the manager swims and smile'
+p529
+tp530
+a(S'the manager swims and is tall'
+p531
+S'the manager swims and are tall'
+p532
+tp533
+a(S'the manager swims and is old'
+p534
+S'the manager swims and are old'
+p535
+tp536
+a(S'the manager swims and is young'
+p537
+S'the manager swims and are young'
+p538
+tp539
+a(S'the manager swims and is short'
+p540
+S'the manager swims and are short'
+p541
+tp542
+a(S'the manager smiles and laughs'
+p543
+S'the manager smiles and laugh'
+p544
+tp545
+a(S'the manager smiles and swims'
+p546
+S'the manager smiles and swim'
+p547
+tp548
+a(S'the manager smiles and is tall'
+p549
+S'the manager smiles and are tall'
+p550
+tp551
+a(S'the manager smiles and is old'
+p552
+S'the manager smiles and are old'
+p553
+tp554
+a(S'the manager smiles and is young'
+p555
+S'the manager smiles and are young'
+p556
+tp557
+a(S'the manager smiles and is short'
+p558
+S'the manager smiles and are short'
+p559
+tp560
+a(S'the manager is tall and laughs'
+p561
+S'the manager is tall and laugh'
+p562
+tp563
+a(S'the manager is tall and swims'
+p564
+S'the manager is tall and swim'
+p565
+tp566
+a(S'the manager is tall and smiles'
+p567
+S'the manager is tall and smile'
+p568
+tp569
+a(S'the manager is tall and is old'
+p570
+S'the manager is tall and are old'
+p571
+tp572
+a(S'the manager is tall and is young'
+p573
+S'the manager is tall and are young'
+p574
+tp575
+a(S'the manager is tall and is short'
+p576
+S'the manager is tall and are short'
+p577
+tp578
+a(S'the manager is old and laughs'
+p579
+S'the manager is old and laugh'
+p580
+tp581
+a(S'the manager is old and swims'
+p582
+S'the manager is old and swim'
+p583
+tp584
+a(S'the manager is old and smiles'
+p585
+S'the manager is old and smile'
+p586
+tp587
+a(S'the manager is old and is tall'
+p588
+S'the manager is old and are tall'
+p589
+tp590
+a(S'the manager is old and is young'
+p591
+S'the manager is old and are young'
+p592
+tp593
+a(S'the manager is old and is short'
+p594
+S'the manager is old and are short'
+p595
+tp596
+a(S'the manager is young and laughs'
+p597
+S'the manager is young and laugh'
+p598
+tp599
+a(S'the manager is young and swims'
+p600
+S'the manager is young and swim'
+p601
+tp602
+a(S'the manager is young and smiles'
+p603
+S'the manager is young and smile'
+p604
+tp605
+a(S'the manager is young and is tall'
+p606
+S'the manager is young and are tall'
+p607
+tp608
+a(S'the manager is young and is old'
+p609
+S'the manager is young and are old'
+p610
+tp611
+a(S'the manager is young and is short'
+p612
+S'the manager is young and are short'
+p613
+tp614
+a(S'the manager is short and laughs'
+p615
+S'the manager is short and laugh'
+p616
+tp617
+a(S'the manager is short and swims'
+p618
+S'the manager is short and swim'
+p619
+tp620
+a(S'the manager is short and smiles'
+p621
+S'the manager is short and smile'
+p622
+tp623
+a(S'the manager is short and is tall'
+p624
+S'the manager is short and are tall'
+p625
+tp626
+a(S'the manager is short and is old'
+p627
+S'the manager is short and are old'
+p628
+tp629
+a(S'the manager is short and is young'
+p630
+S'the manager is short and are young'
+p631
+tp632
+a(S'the customer laughs and swims'
+p633
+S'the customer laughs and swim'
+p634
+tp635
+a(S'the customer laughs and smiles'
+p636
+S'the customer laughs and smile'
+p637
+tp638
+a(S'the customer laughs and is tall'
+p639
+S'the customer laughs and are tall'
+p640
+tp641
+a(S'the customer laughs and is old'
+p642
+S'the customer laughs and are old'
+p643
+tp644
+a(S'the customer laughs and is young'
+p645
+S'the customer laughs and are young'
+p646
+tp647
+a(S'the customer laughs and is short'
+p648
+S'the customer laughs and are short'
+p649
+tp650
+a(S'the customer swims and laughs'
+p651
+S'the customer swims and laugh'
+p652
+tp653
+a(S'the customer swims and smiles'
+p654
+S'the customer swims and smile'
+p655
+tp656
+a(S'the customer swims and is tall'
+p657
+S'the customer swims and are tall'
+p658
+tp659
+a(S'the customer swims and is old'
+p660
+S'the customer swims and are old'
+p661
+tp662
+a(S'the customer swims and is young'
+p663
+S'the customer swims and are young'
+p664
+tp665
+a(S'the customer swims and is short'
+p666
+S'the customer swims and are short'
+p667
+tp668
+a(S'the customer smiles and laughs'
+p669
+S'the customer smiles and laugh'
+p670
+tp671
+a(S'the customer smiles and swims'
+p672
+S'the customer smiles and swim'
+p673
+tp674
+a(S'the customer smiles and is tall'
+p675
+S'the customer smiles and are tall'
+p676
+tp677
+a(S'the customer smiles and is old'
+p678
+S'the customer smiles and are old'
+p679
+tp680
+a(S'the customer smiles and is young'
+p681
+S'the customer smiles and are young'
+p682
+tp683
+a(S'the customer smiles and is short'
+p684
+S'the customer smiles and are short'
+p685
+tp686
+a(S'the customer is tall and laughs'
+p687
+S'the customer is tall and laugh'
+p688
+tp689
+a(S'the customer is tall and swims'
+p690
+S'the customer is tall and swim'
+p691
+tp692
+a(S'the customer is tall and smiles'
+p693
+S'the customer is tall and smile'
+p694
+tp695
+a(S'the customer is tall and is old'
+p696
+S'the customer is tall and are old'
+p697
+tp698
+a(S'the customer is tall and is young'
+p699
+S'the customer is tall and are young'
+p700
+tp701
+a(S'the customer is tall and is short'
+p702
+S'the customer is tall and are short'
+p703
+tp704
+a(S'the customer is old and laughs'
+p705
+S'the customer is old and laugh'
+p706
+tp707
+a(S'the customer is old and swims'
+p708
+S'the customer is old and swim'
+p709
+tp710
+a(S'the customer is old and smiles'
+p711
+S'the customer is old and smile'
+p712
+tp713
+a(S'the customer is old and is tall'
+p714
+S'the customer is old and are tall'
+p715
+tp716
+a(S'the customer is old and is young'
+p717
+S'the customer is old and are young'
+p718
+tp719
+a(S'the customer is old and is short'
+p720
+S'the customer is old and are short'
+p721
+tp722
+a(S'the customer is young and laughs'
+p723
+S'the customer is young and laugh'
+p724
+tp725
+a(S'the customer is young and swims'
+p726
+S'the customer is young and swim'
+p727
+tp728
+a(S'the customer is young and smiles'
+p729
+S'the customer is young and smile'
+p730
+tp731
+a(S'the customer is young and is tall'
+p732
+S'the customer is young and are tall'
+p733
+tp734
+a(S'the customer is young and is old'
+p735
+S'the customer is young and are old'
+p736
+tp737
+a(S'the customer is young and is short'
+p738
+S'the customer is young and are short'
+p739
+tp740
+a(S'the customer is short and laughs'
+p741
+S'the customer is short and laugh'
+p742
+tp743
+a(S'the customer is short and swims'
+p744
+S'the customer is short and swim'
+p745
+tp746
+a(S'the customer is short and smiles'
+p747
+S'the customer is short and smile'
+p748
+tp749
+a(S'the customer is short and is tall'
+p750
+S'the customer is short and are tall'
+p751
+tp752
+a(S'the customer is short and is old'
+p753
+S'the customer is short and are old'
+p754
+tp755
+a(S'the customer is short and is young'
+p756
+S'the customer is short and are young'
+p757
+tp758
+a(S'the officer laughs and swims'
+p759
+S'the officer laughs and swim'
+p760
+tp761
+a(S'the officer laughs and smiles'
+p762
+S'the officer laughs and smile'
+p763
+tp764
+a(S'the officer laughs and is tall'
+p765
+S'the officer laughs and are tall'
+p766
+tp767
+a(S'the officer laughs and is old'
+p768
+S'the officer laughs and are old'
+p769
+tp770
+a(S'the officer laughs and is young'
+p771
+S'the officer laughs and are young'
+p772
+tp773
+a(S'the officer laughs and is short'
+p774
+S'the officer laughs and are short'
+p775
+tp776
+a(S'the officer swims and laughs'
+p777
+S'the officer swims and laugh'
+p778
+tp779
+a(S'the officer swims and smiles'
+p780
+S'the officer swims and smile'
+p781
+tp782
+a(S'the officer swims and is tall'
+p783
+S'the officer swims and are tall'
+p784
+tp785
+a(S'the officer swims and is old'
+p786
+S'the officer swims and are old'
+p787
+tp788
+a(S'the officer swims and is young'
+p789
+S'the officer swims and are young'
+p790
+tp791
+a(S'the officer swims and is short'
+p792
+S'the officer swims and are short'
+p793
+tp794
+a(S'the officer smiles and laughs'
+p795
+S'the officer smiles and laugh'
+p796
+tp797
+a(S'the officer smiles and swims'
+p798
+S'the officer smiles and swim'
+p799
+tp800
+a(S'the officer smiles and is tall'
+p801
+S'the officer smiles and are tall'
+p802
+tp803
+a(S'the officer smiles and is old'
+p804
+S'the officer smiles and are old'
+p805
+tp806
+a(S'the officer smiles and is young'
+p807
+S'the officer smiles and are young'
+p808
+tp809
+a(S'the officer smiles and is short'
+p810
+S'the officer smiles and are short'
+p811
+tp812
+a(S'the officer is tall and laughs'
+p813
+S'the officer is tall and laugh'
+p814
+tp815
+a(S'the officer is tall and swims'
+p816
+S'the officer is tall and swim'
+p817
+tp818
+a(S'the officer is tall and smiles'
+p819
+S'the officer is tall and smile'
+p820
+tp821
+a(S'the officer is tall and is old'
+p822
+S'the officer is tall and are old'
+p823
+tp824
+a(S'the officer is tall and is young'
+p825
+S'the officer is tall and are young'
+p826
+tp827
+a(S'the officer is tall and is short'
+p828
+S'the officer is tall and are short'
+p829
+tp830
+a(S'the officer is old and laughs'
+p831
+S'the officer is old and laugh'
+p832
+tp833
+a(S'the officer is old and swims'
+p834
+S'the officer is old and swim'
+p835
+tp836
+a(S'the officer is old and smiles'
+p837
+S'the officer is old and smile'
+p838
+tp839
+a(S'the officer is old and is tall'
+p840
+S'the officer is old and are tall'
+p841
+tp842
+a(S'the officer is old and is young'
+p843
+S'the officer is old and are young'
+p844
+tp845
+a(S'the officer is old and is short'
+p846
+S'the officer is old and are short'
+p847
+tp848
+a(S'the officer is young and laughs'
+p849
+S'the officer is young and laugh'
+p850
+tp851
+a(S'the officer is young and swims'
+p852
+S'the officer is young and swim'
+p853
+tp854
+a(S'the officer is young and smiles'
+p855
+S'the officer is young and smile'
+p856
+tp857
+a(S'the officer is young and is tall'
+p858
+S'the officer is young and are tall'
+p859
+tp860
+a(S'the officer is young and is old'
+p861
+S'the officer is young and are old'
+p862
+tp863
+a(S'the officer is young and is short'
+p864
+S'the officer is young and are short'
+p865
+tp866
+a(S'the officer is short and laughs'
+p867
+S'the officer is short and laugh'
+p868
+tp869
+a(S'the officer is short and swims'
+p870
+S'the officer is short and swim'
+p871
+tp872
+a(S'the officer is short and smiles'
+p873
+S'the officer is short and smile'
+p874
+tp875
+a(S'the officer is short and is tall'
+p876
+S'the officer is short and are tall'
+p877
+tp878
+a(S'the officer is short and is old'
+p879
+S'the officer is short and are old'
+p880
+tp881
+a(S'the officer is short and is young'
+p882
+S'the officer is short and are young'
+p883
+tp884
+a(S'the teacher laughs and swims'
+p885
+S'the teacher laughs and swim'
+p886
+tp887
+a(S'the teacher laughs and smiles'
+p888
+S'the teacher laughs and smile'
+p889
+tp890
+a(S'the teacher laughs and is tall'
+p891
+S'the teacher laughs and are tall'
+p892
+tp893
+a(S'the teacher laughs and is old'
+p894
+S'the teacher laughs and are old'
+p895
+tp896
+a(S'the teacher laughs and is young'
+p897
+S'the teacher laughs and are young'
+p898
+tp899
+a(S'the teacher laughs and is short'
+p900
+S'the teacher laughs and are short'
+p901
+tp902
+a(S'the teacher swims and laughs'
+p903
+S'the teacher swims and laugh'
+p904
+tp905
+a(S'the teacher swims and smiles'
+p906
+S'the teacher swims and smile'
+p907
+tp908
+a(S'the teacher swims and is tall'
+p909
+S'the teacher swims and are tall'
+p910
+tp911
+a(S'the teacher swims and is old'
+p912
+S'the teacher swims and are old'
+p913
+tp914
+a(S'the teacher swims and is young'
+p915
+S'the teacher swims and are young'
+p916
+tp917
+a(S'the teacher swims and is short'
+p918
+S'the teacher swims and are short'
+p919
+tp920
+a(S'the teacher smiles and laughs'
+p921
+S'the teacher smiles and laugh'
+p922
+tp923
+a(S'the teacher smiles and swims'
+p924
+S'the teacher smiles and swim'
+p925
+tp926
+a(S'the teacher smiles and is tall'
+p927
+S'the teacher smiles and are tall'
+p928
+tp929
+a(S'the teacher smiles and is old'
+p930
+S'the teacher smiles and are old'
+p931
+tp932
+a(S'the teacher smiles and is young'
+p933
+S'the teacher smiles and are young'
+p934
+tp935
+a(S'the teacher smiles and is short'
+p936
+S'the teacher smiles and are short'
+p937
+tp938
+a(S'the teacher is tall and laughs'
+p939
+S'the teacher is tall and laugh'
+p940
+tp941
+a(S'the teacher is tall and swims'
+p942
+S'the teacher is tall and swim'
+p943
+tp944
+a(S'the teacher is tall and smiles'
+p945
+S'the teacher is tall and smile'
+p946
+tp947
+a(S'the teacher is tall and is old'
+p948
+S'the teacher is tall and are old'
+p949
+tp950
+a(S'the teacher is tall and is young'
+p951
+S'the teacher is tall and are young'
+p952
+tp953
+a(S'the teacher is tall and is short'
+p954
+S'the teacher is tall and are short'
+p955
+tp956
+a(S'the teacher is old and laughs'
+p957
+S'the teacher is old and laugh'
+p958
+tp959
+a(S'the teacher is old and swims'
+p960
+S'the teacher is old and swim'
+p961
+tp962
+a(S'the teacher is old and smiles'
+p963
+S'the teacher is old and smile'
+p964
+tp965
+a(S'the teacher is old and is tall'
+p966
+S'the teacher is old and are tall'
+p967
+tp968
+a(S'the teacher is old and is young'
+p969
+S'the teacher is old and are young'
+p970
+tp971
+a(S'the teacher is old and is short'
+p972
+S'the teacher is old and are short'
+p973
+tp974
+a(S'the teacher is young and laughs'
+p975
+S'the teacher is young and laugh'
+p976
+tp977
+a(S'the teacher is young and swims'
+p978
+S'the teacher is young and swim'
+p979
+tp980
+a(S'the teacher is young and smiles'
+p981
+S'the teacher is young and smile'
+p982
+tp983
+a(S'the teacher is young and is tall'
+p984
+S'the teacher is young and are tall'
+p985
+tp986
+a(S'the teacher is young and is old'
+p987
+S'the teacher is young and are old'
+p988
+tp989
+a(S'the teacher is young and is short'
+p990
+S'the teacher is young and are short'
+p991
+tp992
+a(S'the teacher is short and laughs'
+p993
+S'the teacher is short and laugh'
+p994
+tp995
+a(S'the teacher is short and swims'
+p996
+S'the teacher is short and swim'
+p997
+tp998
+a(S'the teacher is short and smiles'
+p999
+S'the teacher is short and smile'
+p1000
+tp1001
+a(S'the teacher is short and is tall'
+p1002
+S'the teacher is short and are tall'
+p1003
+tp1004
+a(S'the teacher is short and is old'
+p1005
+S'the teacher is short and are old'
+p1006
+tp1007
+a(S'the teacher is short and is young'
+p1008
+S'the teacher is short and are young'
+p1009
+tp1010
+a(S'the senator laughs and swims'
+p1011
+S'the senator laughs and swim'
+p1012
+tp1013
+a(S'the senator laughs and smiles'
+p1014
+S'the senator laughs and smile'
+p1015
+tp1016
+a(S'the senator laughs and is tall'
+p1017
+S'the senator laughs and are tall'
+p1018
+tp1019
+a(S'the senator laughs and is old'
+p1020
+S'the senator laughs and are old'
+p1021
+tp1022
+a(S'the senator laughs and is young'
+p1023
+S'the senator laughs and are young'
+p1024
+tp1025
+a(S'the senator laughs and is short'
+p1026
+S'the senator laughs and are short'
+p1027
+tp1028
+a(S'the senator swims and laughs'
+p1029
+S'the senator swims and laugh'
+p1030
+tp1031
+a(S'the senator swims and smiles'
+p1032
+S'the senator swims and smile'
+p1033
+tp1034
+a(S'the senator swims and is tall'
+p1035
+S'the senator swims and are tall'
+p1036
+tp1037
+a(S'the senator swims and is old'
+p1038
+S'the senator swims and are old'
+p1039
+tp1040
+a(S'the senator swims and is young'
+p1041
+S'the senator swims and are young'
+p1042
+tp1043
+a(S'the senator swims and is short'
+p1044
+S'the senator swims and are short'
+p1045
+tp1046
+a(S'the senator smiles and laughs'
+p1047
+S'the senator smiles and laugh'
+p1048
+tp1049
+a(S'the senator smiles and swims'
+p1050
+S'the senator smiles and swim'
+p1051
+tp1052
+a(S'the senator smiles and is tall'
+p1053
+S'the senator smiles and are tall'
+p1054
+tp1055
+a(S'the senator smiles and is old'
+p1056
+S'the senator smiles and are old'
+p1057
+tp1058
+a(S'the senator smiles and is young'
+p1059
+S'the senator smiles and are young'
+p1060
+tp1061
+a(S'the senator smiles and is short'
+p1062
+S'the senator smiles and are short'
+p1063
+tp1064
+a(S'the senator is tall and laughs'
+p1065
+S'the senator is tall and laugh'
+p1066
+tp1067
+a(S'the senator is tall and swims'
+p1068
+S'the senator is tall and swim'
+p1069
+tp1070
+a(S'the senator is tall and smiles'
+p1071
+S'the senator is tall and smile'
+p1072
+tp1073
+a(S'the senator is tall and is old'
+p1074
+S'the senator is tall and are old'
+p1075
+tp1076
+a(S'the senator is tall and is young'
+p1077
+S'the senator is tall and are young'
+p1078
+tp1079
+a(S'the senator is tall and is short'
+p1080
+S'the senator is tall and are short'
+p1081
+tp1082
+a(S'the senator is old and laughs'
+p1083
+S'the senator is old and laugh'
+p1084
+tp1085
+a(S'the senator is old and swims'
+p1086
+S'the senator is old and swim'
+p1087
+tp1088
+a(S'the senator is old and smiles'
+p1089
+S'the senator is old and smile'
+p1090
+tp1091
+a(S'the senator is old and is tall'
+p1092
+S'the senator is old and are tall'
+p1093
+tp1094
+a(S'the senator is old and is young'
+p1095
+S'the senator is old and are young'
+p1096
+tp1097
+a(S'the senator is old and is short'
+p1098
+S'the senator is old and are short'
+p1099
+tp1100
+a(S'the senator is young and laughs'
+p1101
+S'the senator is young and laugh'
+p1102
+tp1103
+a(S'the senator is young and swims'
+p1104
+S'the senator is young and swim'
+p1105
+tp1106
+a(S'the senator is young and smiles'
+p1107
+S'the senator is young and smile'
+p1108
+tp1109
+a(S'the senator is young and is tall'
+p1110
+S'the senator is young and are tall'
+p1111
+tp1112
+a(S'the senator is young and is old'
+p1113
+S'the senator is young and are old'
+p1114
+tp1115
+a(S'the senator is young and is short'
+p1116
+S'the senator is young and are short'
+p1117
+tp1118
+a(S'the senator is short and laughs'
+p1119
+S'the senator is short and laugh'
+p1120
+tp1121
+a(S'the senator is short and swims'
+p1122
+S'the senator is short and swim'
+p1123
+tp1124
+a(S'the senator is short and smiles'
+p1125
+S'the senator is short and smile'
+p1126
+tp1127
+a(S'the senator is short and is tall'
+p1128
+S'the senator is short and are tall'
+p1129
+tp1130
+a(S'the senator is short and is old'
+p1131
+S'the senator is short and are old'
+p1132
+tp1133
+a(S'the senator is short and is young'
+p1134
+S'the senator is short and are young'
+p1135
+tp1136
+a(S'the consultant laughs and swims'
+p1137
+S'the consultant laughs and swim'
+p1138
+tp1139
+a(S'the consultant laughs and smiles'
+p1140
+S'the consultant laughs and smile'
+p1141
+tp1142
+a(S'the consultant laughs and is tall'
+p1143
+S'the consultant laughs and are tall'
+p1144
+tp1145
+a(S'the consultant laughs and is old'
+p1146
+S'the consultant laughs and are old'
+p1147
+tp1148
+a(S'the consultant laughs and is young'
+p1149
+S'the consultant laughs and are young'
+p1150
+tp1151
+a(S'the consultant laughs and is short'
+p1152
+S'the consultant laughs and are short'
+p1153
+tp1154
+a(S'the consultant swims and laughs'
+p1155
+S'the consultant swims and laugh'
+p1156
+tp1157
+a(S'the consultant swims and smiles'
+p1158
+S'the consultant swims and smile'
+p1159
+tp1160
+a(S'the consultant swims and is tall'
+p1161
+S'the consultant swims and are tall'
+p1162
+tp1163
+a(S'the consultant swims and is old'
+p1164
+S'the consultant swims and are old'
+p1165
+tp1166
+a(S'the consultant swims and is young'
+p1167
+S'the consultant swims and are young'
+p1168
+tp1169
+a(S'the consultant swims and is short'
+p1170
+S'the consultant swims and are short'
+p1171
+tp1172
+a(S'the consultant smiles and laughs'
+p1173
+S'the consultant smiles and laugh'
+p1174
+tp1175
+a(S'the consultant smiles and swims'
+p1176
+S'the consultant smiles and swim'
+p1177
+tp1178
+a(S'the consultant smiles and is tall'
+p1179
+S'the consultant smiles and are tall'
+p1180
+tp1181
+a(S'the consultant smiles and is old'
+p1182
+S'the consultant smiles and are old'
+p1183
+tp1184
+a(S'the consultant smiles and is young'
+p1185
+S'the consultant smiles and are young'
+p1186
+tp1187
+a(S'the consultant smiles and is short'
+p1188
+S'the consultant smiles and are short'
+p1189
+tp1190
+a(S'the consultant is tall and laughs'
+p1191
+S'the consultant is tall and laugh'
+p1192
+tp1193
+a(S'the consultant is tall and swims'
+p1194
+S'the consultant is tall and swim'
+p1195
+tp1196
+a(S'the consultant is tall and smiles'
+p1197
+S'the consultant is tall and smile'
+p1198
+tp1199
+a(S'the consultant is tall and is old'
+p1200
+S'the consultant is tall and are old'
+p1201
+tp1202
+a(S'the consultant is tall and is young'
+p1203
+S'the consultant is tall and are young'
+p1204
+tp1205
+a(S'the consultant is tall and is short'
+p1206
+S'the consultant is tall and are short'
+p1207
+tp1208
+a(S'the consultant is old and laughs'
+p1209
+S'the consultant is old and laugh'
+p1210
+tp1211
+a(S'the consultant is old and swims'
+p1212
+S'the consultant is old and swim'
+p1213
+tp1214
+a(S'the consultant is old and smiles'
+p1215
+S'the consultant is old and smile'
+p1216
+tp1217
+a(S'the consultant is old and is tall'
+p1218
+S'the consultant is old and are tall'
+p1219
+tp1220
+a(S'the consultant is old and is young'
+p1221
+S'the consultant is old and are young'
+p1222
+tp1223
+a(S'the consultant is old and is short'
+p1224
+S'the consultant is old and are short'
+p1225
+tp1226
+a(S'the consultant is young and laughs'
+p1227
+S'the consultant is young and laugh'
+p1228
+tp1229
+a(S'the consultant is young and swims'
+p1230
+S'the consultant is young and swim'
+p1231
+tp1232
+a(S'the consultant is young and smiles'
+p1233
+S'the consultant is young and smile'
+p1234
+tp1235
+a(S'the consultant is young and is tall'
+p1236
+S'the consultant is young and are tall'
+p1237
+tp1238
+a(S'the consultant is young and is old'
+p1239
+S'the consultant is young and are old'
+p1240
+tp1241
+a(S'the consultant is young and is short'
+p1242
+S'the consultant is young and are short'
+p1243
+tp1244
+a(S'the consultant is short and laughs'
+p1245
+S'the consultant is short and laugh'
+p1246
+tp1247
+a(S'the consultant is short and swims'
+p1248
+S'the consultant is short and swim'
+p1249
+tp1250
+a(S'the consultant is short and smiles'
+p1251
+S'the consultant is short and smile'
+p1252
+tp1253
+a(S'the consultant is short and is tall'
+p1254
+S'the consultant is short and are tall'
+p1255
+tp1256
+a(S'the consultant is short and is old'
+p1257
+S'the consultant is short and are old'
+p1258
+tp1259
+a(S'the consultant is short and is young'
+p1260
+S'the consultant is short and are young'
+p1261
+tp1262
+asS'plur_MS_MV_MV'
+p1263
+(lp1264
+(S'the authors laugh and swim'
+p1265
+S'the authors laugh and swims'
+p1266
+tp1267
+a(S'the authors laugh and smile'
+p1268
+S'the authors laugh and smiles'
+p1269
+tp1270
+a(S'the authors laugh and are tall'
+p1271
+S'the authors laugh and is tall'
+p1272
+tp1273
+a(S'the authors laugh and are old'
+p1274
+S'the authors laugh and is old'
+p1275
+tp1276
+a(S'the authors laugh and are young'
+p1277
+S'the authors laugh and is young'
+p1278
+tp1279
+a(S'the authors laugh and are short'
+p1280
+S'the authors laugh and is short'
+p1281
+tp1282
+a(S'the authors swim and laugh'
+p1283
+S'the authors swim and laughs'
+p1284
+tp1285
+a(S'the authors swim and smile'
+p1286
+S'the authors swim and smiles'
+p1287
+tp1288
+a(S'the authors swim and are tall'
+p1289
+S'the authors swim and is tall'
+p1290
+tp1291
+a(S'the authors swim and are old'
+p1292
+S'the authors swim and is old'
+p1293
+tp1294
+a(S'the authors swim and are young'
+p1295
+S'the authors swim and is young'
+p1296
+tp1297
+a(S'the authors swim and are short'
+p1298
+S'the authors swim and is short'
+p1299
+tp1300
+a(S'the authors smile and laugh'
+p1301
+S'the authors smile and laughs'
+p1302
+tp1303
+a(S'the authors smile and swim'
+p1304
+S'the authors smile and swims'
+p1305
+tp1306
+a(S'the authors smile and are tall'
+p1307
+S'the authors smile and is tall'
+p1308
+tp1309
+a(S'the authors smile and are old'
+p1310
+S'the authors smile and is old'
+p1311
+tp1312
+a(S'the authors smile and are young'
+p1313
+S'the authors smile and is young'
+p1314
+tp1315
+a(S'the authors smile and are short'
+p1316
+S'the authors smile and is short'
+p1317
+tp1318
+a(S'the authors are tall and laugh'
+p1319
+S'the authors are tall and laughs'
+p1320
+tp1321
+a(S'the authors are tall and swim'
+p1322
+S'the authors are tall and swims'
+p1323
+tp1324
+a(S'the authors are tall and smile'
+p1325
+S'the authors are tall and smiles'
+p1326
+tp1327
+a(S'the authors are tall and are old'
+p1328
+S'the authors are tall and is old'
+p1329
+tp1330
+a(S'the authors are tall and are young'
+p1331
+S'the authors are tall and is young'
+p1332
+tp1333
+a(S'the authors are tall and are short'
+p1334
+S'the authors are tall and is short'
+p1335
+tp1336
+a(S'the authors are old and laugh'
+p1337
+S'the authors are old and laughs'
+p1338
+tp1339
+a(S'the authors are old and swim'
+p1340
+S'the authors are old and swims'
+p1341
+tp1342
+a(S'the authors are old and smile'
+p1343
+S'the authors are old and smiles'
+p1344
+tp1345
+a(S'the authors are old and are tall'
+p1346
+S'the authors are old and is tall'
+p1347
+tp1348
+a(S'the authors are old and are young'
+p1349
+S'the authors are old and is young'
+p1350
+tp1351
+a(S'the authors are old and are short'
+p1352
+S'the authors are old and is short'
+p1353
+tp1354
+a(S'the authors are young and laugh'
+p1355
+S'the authors are young and laughs'
+p1356
+tp1357
+a(S'the authors are young and swim'
+p1358
+S'the authors are young and swims'
+p1359
+tp1360
+a(S'the authors are young and smile'
+p1361
+S'the authors are young and smiles'
+p1362
+tp1363
+a(S'the authors are young and are tall'
+p1364
+S'the authors are young and is tall'
+p1365
+tp1366
+a(S'the authors are young and are old'
+p1367
+S'the authors are young and is old'
+p1368
+tp1369
+a(S'the authors are young and are short'
+p1370
+S'the authors are young and is short'
+p1371
+tp1372
+a(S'the authors are short and laugh'
+p1373
+S'the authors are short and laughs'
+p1374
+tp1375
+a(S'the authors are short and swim'
+p1376
+S'the authors are short and swims'
+p1377
+tp1378
+a(S'the authors are short and smile'
+p1379
+S'the authors are short and smiles'
+p1380
+tp1381
+a(S'the authors are short and are tall'
+p1382
+S'the authors are short and is tall'
+p1383
+tp1384
+a(S'the authors are short and are old'
+p1385
+S'the authors are short and is old'
+p1386
+tp1387
+a(S'the authors are short and are young'
+p1388
+S'the authors are short and is young'
+p1389
+tp1390
+a(S'the pilots laugh and swim'
+p1391
+S'the pilots laugh and swims'
+p1392
+tp1393
+a(S'the pilots laugh and smile'
+p1394
+S'the pilots laugh and smiles'
+p1395
+tp1396
+a(S'the pilots laugh and are tall'
+p1397
+S'the pilots laugh and is tall'
+p1398
+tp1399
+a(S'the pilots laugh and are old'
+p1400
+S'the pilots laugh and is old'
+p1401
+tp1402
+a(S'the pilots laugh and are young'
+p1403
+S'the pilots laugh and is young'
+p1404
+tp1405
+a(S'the pilots laugh and are short'
+p1406
+S'the pilots laugh and is short'
+p1407
+tp1408
+a(S'the pilots swim and laugh'
+p1409
+S'the pilots swim and laughs'
+p1410
+tp1411
+a(S'the pilots swim and smile'
+p1412
+S'the pilots swim and smiles'
+p1413
+tp1414
+a(S'the pilots swim and are tall'
+p1415
+S'the pilots swim and is tall'
+p1416
+tp1417
+a(S'the pilots swim and are old'
+p1418
+S'the pilots swim and is old'
+p1419
+tp1420
+a(S'the pilots swim and are young'
+p1421
+S'the pilots swim and is young'
+p1422
+tp1423
+a(S'the pilots swim and are short'
+p1424
+S'the pilots swim and is short'
+p1425
+tp1426
+a(S'the pilots smile and laugh'
+p1427
+S'the pilots smile and laughs'
+p1428
+tp1429
+a(S'the pilots smile and swim'
+p1430
+S'the pilots smile and swims'
+p1431
+tp1432
+a(S'the pilots smile and are tall'
+p1433
+S'the pilots smile and is tall'
+p1434
+tp1435
+a(S'the pilots smile and are old'
+p1436
+S'the pilots smile and is old'
+p1437
+tp1438
+a(S'the pilots smile and are young'
+p1439
+S'the pilots smile and is young'
+p1440
+tp1441
+a(S'the pilots smile and are short'
+p1442
+S'the pilots smile and is short'
+p1443
+tp1444
+a(S'the pilots are tall and laugh'
+p1445
+S'the pilots are tall and laughs'
+p1446
+tp1447
+a(S'the pilots are tall and swim'
+p1448
+S'the pilots are tall and swims'
+p1449
+tp1450
+a(S'the pilots are tall and smile'
+p1451
+S'the pilots are tall and smiles'
+p1452
+tp1453
+a(S'the pilots are tall and are old'
+p1454
+S'the pilots are tall and is old'
+p1455
+tp1456
+a(S'the pilots are tall and are young'
+p1457
+S'the pilots are tall and is young'
+p1458
+tp1459
+a(S'the pilots are tall and are short'
+p1460
+S'the pilots are tall and is short'
+p1461
+tp1462
+a(S'the pilots are old and laugh'
+p1463
+S'the pilots are old and laughs'
+p1464
+tp1465
+a(S'the pilots are old and swim'
+p1466
+S'the pilots are old and swims'
+p1467
+tp1468
+a(S'the pilots are old and smile'
+p1469
+S'the pilots are old and smiles'
+p1470
+tp1471
+a(S'the pilots are old and are tall'
+p1472
+S'the pilots are old and is tall'
+p1473
+tp1474
+a(S'the pilots are old and are young'
+p1475
+S'the pilots are old and is young'
+p1476
+tp1477
+a(S'the pilots are old and are short'
+p1478
+S'the pilots are old and is short'
+p1479
+tp1480
+a(S'the pilots are young and laugh'
+p1481
+S'the pilots are young and laughs'
+p1482
+tp1483
+a(S'the pilots are young and swim'
+p1484
+S'the pilots are young and swims'
+p1485
+tp1486
+a(S'the pilots are young and smile'
+p1487
+S'the pilots are young and smiles'
+p1488
+tp1489
+a(S'the pilots are young and are tall'
+p1490
+S'the pilots are young and is tall'
+p1491
+tp1492
+a(S'the pilots are young and are old'
+p1493
+S'the pilots are young and is old'
+p1494
+tp1495
+a(S'the pilots are young and are short'
+p1496
+S'the pilots are young and is short'
+p1497
+tp1498
+a(S'the pilots are short and laugh'
+p1499
+S'the pilots are short and laughs'
+p1500
+tp1501
+a(S'the pilots are short and swim'
+p1502
+S'the pilots are short and swims'
+p1503
+tp1504
+a(S'the pilots are short and smile'
+p1505
+S'the pilots are short and smiles'
+p1506
+tp1507
+a(S'the pilots are short and are tall'
+p1508
+S'the pilots are short and is tall'
+p1509
+tp1510
+a(S'the pilots are short and are old'
+p1511
+S'the pilots are short and is old'
+p1512
+tp1513
+a(S'the pilots are short and are young'
+p1514
+S'the pilots are short and is young'
+p1515
+tp1516
+a(S'the surgeons laugh and swim'
+p1517
+S'the surgeons laugh and swims'
+p1518
+tp1519
+a(S'the surgeons laugh and smile'
+p1520
+S'the surgeons laugh and smiles'
+p1521
+tp1522
+a(S'the surgeons laugh and are tall'
+p1523
+S'the surgeons laugh and is tall'
+p1524
+tp1525
+a(S'the surgeons laugh and are old'
+p1526
+S'the surgeons laugh and is old'
+p1527
+tp1528
+a(S'the surgeons laugh and are young'
+p1529
+S'the surgeons laugh and is young'
+p1530
+tp1531
+a(S'the surgeons laugh and are short'
+p1532
+S'the surgeons laugh and is short'
+p1533
+tp1534
+a(S'the surgeons swim and laugh'
+p1535
+S'the surgeons swim and laughs'
+p1536
+tp1537
+a(S'the surgeons swim and smile'
+p1538
+S'the surgeons swim and smiles'
+p1539
+tp1540
+a(S'the surgeons swim and are tall'
+p1541
+S'the surgeons swim and is tall'
+p1542
+tp1543
+a(S'the surgeons swim and are old'
+p1544
+S'the surgeons swim and is old'
+p1545
+tp1546
+a(S'the surgeons swim and are young'
+p1547
+S'the surgeons swim and is young'
+p1548
+tp1549
+a(S'the surgeons swim and are short'
+p1550
+S'the surgeons swim and is short'
+p1551
+tp1552
+a(S'the surgeons smile and laugh'
+p1553
+S'the surgeons smile and laughs'
+p1554
+tp1555
+a(S'the surgeons smile and swim'
+p1556
+S'the surgeons smile and swims'
+p1557
+tp1558
+a(S'the surgeons smile and are tall'
+p1559
+S'the surgeons smile and is tall'
+p1560
+tp1561
+a(S'the surgeons smile and are old'
+p1562
+S'the surgeons smile and is old'
+p1563
+tp1564
+a(S'the surgeons smile and are young'
+p1565
+S'the surgeons smile and is young'
+p1566
+tp1567
+a(S'the surgeons smile and are short'
+p1568
+S'the surgeons smile and is short'
+p1569
+tp1570
+a(S'the surgeons are tall and laugh'
+p1571
+S'the surgeons are tall and laughs'
+p1572
+tp1573
+a(S'the surgeons are tall and swim'
+p1574
+S'the surgeons are tall and swims'
+p1575
+tp1576
+a(S'the surgeons are tall and smile'
+p1577
+S'the surgeons are tall and smiles'
+p1578
+tp1579
+a(S'the surgeons are tall and are old'
+p1580
+S'the surgeons are tall and is old'
+p1581
+tp1582
+a(S'the surgeons are tall and are young'
+p1583
+S'the surgeons are tall and is young'
+p1584
+tp1585
+a(S'the surgeons are tall and are short'
+p1586
+S'the surgeons are tall and is short'
+p1587
+tp1588
+a(S'the surgeons are old and laugh'
+p1589
+S'the surgeons are old and laughs'
+p1590
+tp1591
+a(S'the surgeons are old and swim'
+p1592
+S'the surgeons are old and swims'
+p1593
+tp1594
+a(S'the surgeons are old and smile'
+p1595
+S'the surgeons are old and smiles'
+p1596
+tp1597
+a(S'the surgeons are old and are tall'
+p1598
+S'the surgeons are old and is tall'
+p1599
+tp1600
+a(S'the surgeons are old and are young'
+p1601
+S'the surgeons are old and is young'
+p1602
+tp1603
+a(S'the surgeons are old and are short'
+p1604
+S'the surgeons are old and is short'
+p1605
+tp1606
+a(S'the surgeons are young and laugh'
+p1607
+S'the surgeons are young and laughs'
+p1608
+tp1609
+a(S'the surgeons are young and swim'
+p1610
+S'the surgeons are young and swims'
+p1611
+tp1612
+a(S'the surgeons are young and smile'
+p1613
+S'the surgeons are young and smiles'
+p1614
+tp1615
+a(S'the surgeons are young and are tall'
+p1616
+S'the surgeons are young and is tall'
+p1617
+tp1618
+a(S'the surgeons are young and are old'
+p1619
+S'the surgeons are young and is old'
+p1620
+tp1621
+a(S'the surgeons are young and are short'
+p1622
+S'the surgeons are young and is short'
+p1623
+tp1624
+a(S'the surgeons are short and laugh'
+p1625
+S'the surgeons are short and laughs'
+p1626
+tp1627
+a(S'the surgeons are short and swim'
+p1628
+S'the surgeons are short and swims'
+p1629
+tp1630
+a(S'the surgeons are short and smile'
+p1631
+S'the surgeons are short and smiles'
+p1632
+tp1633
+a(S'the surgeons are short and are tall'
+p1634
+S'the surgeons are short and is tall'
+p1635
+tp1636
+a(S'the surgeons are short and are old'
+p1637
+S'the surgeons are short and is old'
+p1638
+tp1639
+a(S'the surgeons are short and are young'
+p1640
+S'the surgeons are short and is young'
+p1641
+tp1642
+a(S'the farmers laugh and swim'
+p1643
+S'the farmers laugh and swims'
+p1644
+tp1645
+a(S'the farmers laugh and smile'
+p1646
+S'the farmers laugh and smiles'
+p1647
+tp1648
+a(S'the farmers laugh and are tall'
+p1649
+S'the farmers laugh and is tall'
+p1650
+tp1651
+a(S'the farmers laugh and are old'
+p1652
+S'the farmers laugh and is old'
+p1653
+tp1654
+a(S'the farmers laugh and are young'
+p1655
+S'the farmers laugh and is young'
+p1656
+tp1657
+a(S'the farmers laugh and are short'
+p1658
+S'the farmers laugh and is short'
+p1659
+tp1660
+a(S'the farmers swim and laugh'
+p1661
+S'the farmers swim and laughs'
+p1662
+tp1663
+a(S'the farmers swim and smile'
+p1664
+S'the farmers swim and smiles'
+p1665
+tp1666
+a(S'the farmers swim and are tall'
+p1667
+S'the farmers swim and is tall'
+p1668
+tp1669
+a(S'the farmers swim and are old'
+p1670
+S'the farmers swim and is old'
+p1671
+tp1672
+a(S'the farmers swim and are young'
+p1673
+S'the farmers swim and is young'
+p1674
+tp1675
+a(S'the farmers swim and are short'
+p1676
+S'the farmers swim and is short'
+p1677
+tp1678
+a(S'the farmers smile and laugh'
+p1679
+S'the farmers smile and laughs'
+p1680
+tp1681
+a(S'the farmers smile and swim'
+p1682
+S'the farmers smile and swims'
+p1683
+tp1684
+a(S'the farmers smile and are tall'
+p1685
+S'the farmers smile and is tall'
+p1686
+tp1687
+a(S'the farmers smile and are old'
+p1688
+S'the farmers smile and is old'
+p1689
+tp1690
+a(S'the farmers smile and are young'
+p1691
+S'the farmers smile and is young'
+p1692
+tp1693
+a(S'the farmers smile and are short'
+p1694
+S'the farmers smile and is short'
+p1695
+tp1696
+a(S'the farmers are tall and laugh'
+p1697
+S'the farmers are tall and laughs'
+p1698
+tp1699
+a(S'the farmers are tall and swim'
+p1700
+S'the farmers are tall and swims'
+p1701
+tp1702
+a(S'the farmers are tall and smile'
+p1703
+S'the farmers are tall and smiles'
+p1704
+tp1705
+a(S'the farmers are tall and are old'
+p1706
+S'the farmers are tall and is old'
+p1707
+tp1708
+a(S'the farmers are tall and are young'
+p1709
+S'the farmers are tall and is young'
+p1710
+tp1711
+a(S'the farmers are tall and are short'
+p1712
+S'the farmers are tall and is short'
+p1713
+tp1714
+a(S'the farmers are old and laugh'
+p1715
+S'the farmers are old and laughs'
+p1716
+tp1717
+a(S'the farmers are old and swim'
+p1718
+S'the farmers are old and swims'
+p1719
+tp1720
+a(S'the farmers are old and smile'
+p1721
+S'the farmers are old and smiles'
+p1722
+tp1723
+a(S'the farmers are old and are tall'
+p1724
+S'the farmers are old and is tall'
+p1725
+tp1726
+a(S'the farmers are old and are young'
+p1727
+S'the farmers are old and is young'
+p1728
+tp1729
+a(S'the farmers are old and are short'
+p1730
+S'the farmers are old and is short'
+p1731
+tp1732
+a(S'the farmers are young and laugh'
+p1733
+S'the farmers are young and laughs'
+p1734
+tp1735
+a(S'the farmers are young and swim'
+p1736
+S'the farmers are young and swims'
+p1737
+tp1738
+a(S'the farmers are young and smile'
+p1739
+S'the farmers are young and smiles'
+p1740
+tp1741
+a(S'the farmers are young and are tall'
+p1742
+S'the farmers are young and is tall'
+p1743
+tp1744
+a(S'the farmers are young and are old'
+p1745
+S'the farmers are young and is old'
+p1746
+tp1747
+a(S'the farmers are young and are short'
+p1748
+S'the farmers are young and is short'
+p1749
+tp1750
+a(S'the farmers are short and laugh'
+p1751
+S'the farmers are short and laughs'
+p1752
+tp1753
+a(S'the farmers are short and swim'
+p1754
+S'the farmers are short and swims'
+p1755
+tp1756
+a(S'the farmers are short and smile'
+p1757
+S'the farmers are short and smiles'
+p1758
+tp1759
+a(S'the farmers are short and are tall'
+p1760
+S'the farmers are short and is tall'
+p1761
+tp1762
+a(S'the farmers are short and are old'
+p1763
+S'the farmers are short and is old'
+p1764
+tp1765
+a(S'the farmers are short and are young'
+p1766
+S'the farmers are short and is young'
+p1767
+tp1768
+a(S'the managers laugh and swim'
+p1769
+S'the managers laugh and swims'
+p1770
+tp1771
+a(S'the managers laugh and smile'
+p1772
+S'the managers laugh and smiles'
+p1773
+tp1774
+a(S'the managers laugh and are tall'
+p1775
+S'the managers laugh and is tall'
+p1776
+tp1777
+a(S'the managers laugh and are old'
+p1778
+S'the managers laugh and is old'
+p1779
+tp1780
+a(S'the managers laugh and are young'
+p1781
+S'the managers laugh and is young'
+p1782
+tp1783
+a(S'the managers laugh and are short'
+p1784
+S'the managers laugh and is short'
+p1785
+tp1786
+a(S'the managers swim and laugh'
+p1787
+S'the managers swim and laughs'
+p1788
+tp1789
+a(S'the managers swim and smile'
+p1790
+S'the managers swim and smiles'
+p1791
+tp1792
+a(S'the managers swim and are tall'
+p1793
+S'the managers swim and is tall'
+p1794
+tp1795
+a(S'the managers swim and are old'
+p1796
+S'the managers swim and is old'
+p1797
+tp1798
+a(S'the managers swim and are young'
+p1799
+S'the managers swim and is young'
+p1800
+tp1801
+a(S'the managers swim and are short'
+p1802
+S'the managers swim and is short'
+p1803
+tp1804
+a(S'the managers smile and laugh'
+p1805
+S'the managers smile and laughs'
+p1806
+tp1807
+a(S'the managers smile and swim'
+p1808
+S'the managers smile and swims'
+p1809
+tp1810
+a(S'the managers smile and are tall'
+p1811
+S'the managers smile and is tall'
+p1812
+tp1813
+a(S'the managers smile and are old'
+p1814
+S'the managers smile and is old'
+p1815
+tp1816
+a(S'the managers smile and are young'
+p1817
+S'the managers smile and is young'
+p1818
+tp1819
+a(S'the managers smile and are short'
+p1820
+S'the managers smile and is short'
+p1821
+tp1822
+a(S'the managers are tall and laugh'
+p1823
+S'the managers are tall and laughs'
+p1824
+tp1825
+a(S'the managers are tall and swim'
+p1826
+S'the managers are tall and swims'
+p1827
+tp1828
+a(S'the managers are tall and smile'
+p1829
+S'the managers are tall and smiles'
+p1830
+tp1831
+a(S'the managers are tall and are old'
+p1832
+S'the managers are tall and is old'
+p1833
+tp1834
+a(S'the managers are tall and are young'
+p1835
+S'the managers are tall and is young'
+p1836
+tp1837
+a(S'the managers are tall and are short'
+p1838
+S'the managers are tall and is short'
+p1839
+tp1840
+a(S'the managers are old and laugh'
+p1841
+S'the managers are old and laughs'
+p1842
+tp1843
+a(S'the managers are old and swim'
+p1844
+S'the managers are old and swims'
+p1845
+tp1846
+a(S'the managers are old and smile'
+p1847
+S'the managers are old and smiles'
+p1848
+tp1849
+a(S'the managers are old and are tall'
+p1850
+S'the managers are old and is tall'
+p1851
+tp1852
+a(S'the managers are old and are young'
+p1853
+S'the managers are old and is young'
+p1854
+tp1855
+a(S'the managers are old and are short'
+p1856
+S'the managers are old and is short'
+p1857
+tp1858
+a(S'the managers are young and laugh'
+p1859
+S'the managers are young and laughs'
+p1860
+tp1861
+a(S'the managers are young and swim'
+p1862
+S'the managers are young and swims'
+p1863
+tp1864
+a(S'the managers are young and smile'
+p1865
+S'the managers are young and smiles'
+p1866
+tp1867
+a(S'the managers are young and are tall'
+p1868
+S'the managers are young and is tall'
+p1869
+tp1870
+a(S'the managers are young and are old'
+p1871
+S'the managers are young and is old'
+p1872
+tp1873
+a(S'the managers are young and are short'
+p1874
+S'the managers are young and is short'
+p1875
+tp1876
+a(S'the managers are short and laugh'
+p1877
+S'the managers are short and laughs'
+p1878
+tp1879
+a(S'the managers are short and swim'
+p1880
+S'the managers are short and swims'
+p1881
+tp1882
+a(S'the managers are short and smile'
+p1883
+S'the managers are short and smiles'
+p1884
+tp1885
+a(S'the managers are short and are tall'
+p1886
+S'the managers are short and is tall'
+p1887
+tp1888
+a(S'the managers are short and are old'
+p1889
+S'the managers are short and is old'
+p1890
+tp1891
+a(S'the managers are short and are young'
+p1892
+S'the managers are short and is young'
+p1893
+tp1894
+a(S'the customers laugh and swim'
+p1895
+S'the customers laugh and swims'
+p1896
+tp1897
+a(S'the customers laugh and smile'
+p1898
+S'the customers laugh and smiles'
+p1899
+tp1900
+a(S'the customers laugh and are tall'
+p1901
+S'the customers laugh and is tall'
+p1902
+tp1903
+a(S'the customers laugh and are old'
+p1904
+S'the customers laugh and is old'
+p1905
+tp1906
+a(S'the customers laugh and are young'
+p1907
+S'the customers laugh and is young'
+p1908
+tp1909
+a(S'the customers laugh and are short'
+p1910
+S'the customers laugh and is short'
+p1911
+tp1912
+a(S'the customers swim and laugh'
+p1913
+S'the customers swim and laughs'
+p1914
+tp1915
+a(S'the customers swim and smile'
+p1916
+S'the customers swim and smiles'
+p1917
+tp1918
+a(S'the customers swim and are tall'
+p1919
+S'the customers swim and is tall'
+p1920
+tp1921
+a(S'the customers swim and are old'
+p1922
+S'the customers swim and is old'
+p1923
+tp1924
+a(S'the customers swim and are young'
+p1925
+S'the customers swim and is young'
+p1926
+tp1927
+a(S'the customers swim and are short'
+p1928
+S'the customers swim and is short'
+p1929
+tp1930
+a(S'the customers smile and laugh'
+p1931
+S'the customers smile and laughs'
+p1932
+tp1933
+a(S'the customers smile and swim'
+p1934
+S'the customers smile and swims'
+p1935
+tp1936
+a(S'the customers smile and are tall'
+p1937
+S'the customers smile and is tall'
+p1938
+tp1939
+a(S'the customers smile and are old'
+p1940
+S'the customers smile and is old'
+p1941
+tp1942
+a(S'the customers smile and are young'
+p1943
+S'the customers smile and is young'
+p1944
+tp1945
+a(S'the customers smile and are short'
+p1946
+S'the customers smile and is short'
+p1947
+tp1948
+a(S'the customers are tall and laugh'
+p1949
+S'the customers are tall and laughs'
+p1950
+tp1951
+a(S'the customers are tall and swim'
+p1952
+S'the customers are tall and swims'
+p1953
+tp1954
+a(S'the customers are tall and smile'
+p1955
+S'the customers are tall and smiles'
+p1956
+tp1957
+a(S'the customers are tall and are old'
+p1958
+S'the customers are tall and is old'
+p1959
+tp1960
+a(S'the customers are tall and are young'
+p1961
+S'the customers are tall and is young'
+p1962
+tp1963
+a(S'the customers are tall and are short'
+p1964
+S'the customers are tall and is short'
+p1965
+tp1966
+a(S'the customers are old and laugh'
+p1967
+S'the customers are old and laughs'
+p1968
+tp1969
+a(S'the customers are old and swim'
+p1970
+S'the customers are old and swims'
+p1971
+tp1972
+a(S'the customers are old and smile'
+p1973
+S'the customers are old and smiles'
+p1974
+tp1975
+a(S'the customers are old and are tall'
+p1976
+S'the customers are old and is tall'
+p1977
+tp1978
+a(S'the customers are old and are young'
+p1979
+S'the customers are old and is young'
+p1980
+tp1981
+a(S'the customers are old and are short'
+p1982
+S'the customers are old and is short'
+p1983
+tp1984
+a(S'the customers are young and laugh'
+p1985
+S'the customers are young and laughs'
+p1986
+tp1987
+a(S'the customers are young and swim'
+p1988
+S'the customers are young and swims'
+p1989
+tp1990
+a(S'the customers are young and smile'
+p1991
+S'the customers are young and smiles'
+p1992
+tp1993
+a(S'the customers are young and are tall'
+p1994
+S'the customers are young and is tall'
+p1995
+tp1996
+a(S'the customers are young and are old'
+p1997
+S'the customers are young and is old'
+p1998
+tp1999
+a(S'the customers are young and are short'
+p2000
+S'the customers are young and is short'
+p2001
+tp2002
+a(S'the customers are short and laugh'
+p2003
+S'the customers are short and laughs'
+p2004
+tp2005
+a(S'the customers are short and swim'
+p2006
+S'the customers are short and swims'
+p2007
+tp2008
+a(S'the customers are short and smile'
+p2009
+S'the customers are short and smiles'
+p2010
+tp2011
+a(S'the customers are short and are tall'
+p2012
+S'the customers are short and is tall'
+p2013
+tp2014
+a(S'the customers are short and are old'
+p2015
+S'the customers are short and is old'
+p2016
+tp2017
+a(S'the customers are short and are young'
+p2018
+S'the customers are short and is young'
+p2019
+tp2020
+a(S'the officers laugh and swim'
+p2021
+S'the officers laugh and swims'
+p2022
+tp2023
+a(S'the officers laugh and smile'
+p2024
+S'the officers laugh and smiles'
+p2025
+tp2026
+a(S'the officers laugh and are tall'
+p2027
+S'the officers laugh and is tall'
+p2028
+tp2029
+a(S'the officers laugh and are old'
+p2030
+S'the officers laugh and is old'
+p2031
+tp2032
+a(S'the officers laugh and are young'
+p2033
+S'the officers laugh and is young'
+p2034
+tp2035
+a(S'the officers laugh and are short'
+p2036
+S'the officers laugh and is short'
+p2037
+tp2038
+a(S'the officers swim and laugh'
+p2039
+S'the officers swim and laughs'
+p2040
+tp2041
+a(S'the officers swim and smile'
+p2042
+S'the officers swim and smiles'
+p2043
+tp2044
+a(S'the officers swim and are tall'
+p2045
+S'the officers swim and is tall'
+p2046
+tp2047
+a(S'the officers swim and are old'
+p2048
+S'the officers swim and is old'
+p2049
+tp2050
+a(S'the officers swim and are young'
+p2051
+S'the officers swim and is young'
+p2052
+tp2053
+a(S'the officers swim and are short'
+p2054
+S'the officers swim and is short'
+p2055
+tp2056
+a(S'the officers smile and laugh'
+p2057
+S'the officers smile and laughs'
+p2058
+tp2059
+a(S'the officers smile and swim'
+p2060
+S'the officers smile and swims'
+p2061
+tp2062
+a(S'the officers smile and are tall'
+p2063
+S'the officers smile and is tall'
+p2064
+tp2065
+a(S'the officers smile and are old'
+p2066
+S'the officers smile and is old'
+p2067
+tp2068
+a(S'the officers smile and are young'
+p2069
+S'the officers smile and is young'
+p2070
+tp2071
+a(S'the officers smile and are short'
+p2072
+S'the officers smile and is short'
+p2073
+tp2074
+a(S'the officers are tall and laugh'
+p2075
+S'the officers are tall and laughs'
+p2076
+tp2077
+a(S'the officers are tall and swim'
+p2078
+S'the officers are tall and swims'
+p2079
+tp2080
+a(S'the officers are tall and smile'
+p2081
+S'the officers are tall and smiles'
+p2082
+tp2083
+a(S'the officers are tall and are old'
+p2084
+S'the officers are tall and is old'
+p2085
+tp2086
+a(S'the officers are tall and are young'
+p2087
+S'the officers are tall and is young'
+p2088
+tp2089
+a(S'the officers are tall and are short'
+p2090
+S'the officers are tall and is short'
+p2091
+tp2092
+a(S'the officers are old and laugh'
+p2093
+S'the officers are old and laughs'
+p2094
+tp2095
+a(S'the officers are old and swim'
+p2096
+S'the officers are old and swims'
+p2097
+tp2098
+a(S'the officers are old and smile'
+p2099
+S'the officers are old and smiles'
+p2100
+tp2101
+a(S'the officers are old and are tall'
+p2102
+S'the officers are old and is tall'
+p2103
+tp2104
+a(S'the officers are old and are young'
+p2105
+S'the officers are old and is young'
+p2106
+tp2107
+a(S'the officers are old and are short'
+p2108
+S'the officers are old and is short'
+p2109
+tp2110
+a(S'the officers are young and laugh'
+p2111
+S'the officers are young and laughs'
+p2112
+tp2113
+a(S'the officers are young and swim'
+p2114
+S'the officers are young and swims'
+p2115
+tp2116
+a(S'the officers are young and smile'
+p2117
+S'the officers are young and smiles'
+p2118
+tp2119
+a(S'the officers are young and are tall'
+p2120
+S'the officers are young and is tall'
+p2121
+tp2122
+a(S'the officers are young and are old'
+p2123
+S'the officers are young and is old'
+p2124
+tp2125
+a(S'the officers are young and are short'
+p2126
+S'the officers are young and is short'
+p2127
+tp2128
+a(S'the officers are short and laugh'
+p2129
+S'the officers are short and laughs'
+p2130
+tp2131
+a(S'the officers are short and swim'
+p2132
+S'the officers are short and swims'
+p2133
+tp2134
+a(S'the officers are short and smile'
+p2135
+S'the officers are short and smiles'
+p2136
+tp2137
+a(S'the officers are short and are tall'
+p2138
+S'the officers are short and is tall'
+p2139
+tp2140
+a(S'the officers are short and are old'
+p2141
+S'the officers are short and is old'
+p2142
+tp2143
+a(S'the officers are short and are young'
+p2144
+S'the officers are short and is young'
+p2145
+tp2146
+a(S'the teachers laugh and swim'
+p2147
+S'the teachers laugh and swims'
+p2148
+tp2149
+a(S'the teachers laugh and smile'
+p2150
+S'the teachers laugh and smiles'
+p2151
+tp2152
+a(S'the teachers laugh and are tall'
+p2153
+S'the teachers laugh and is tall'
+p2154
+tp2155
+a(S'the teachers laugh and are old'
+p2156
+S'the teachers laugh and is old'
+p2157
+tp2158
+a(S'the teachers laugh and are young'
+p2159
+S'the teachers laugh and is young'
+p2160
+tp2161
+a(S'the teachers laugh and are short'
+p2162
+S'the teachers laugh and is short'
+p2163
+tp2164
+a(S'the teachers swim and laugh'
+p2165
+S'the teachers swim and laughs'
+p2166
+tp2167
+a(S'the teachers swim and smile'
+p2168
+S'the teachers swim and smiles'
+p2169
+tp2170
+a(S'the teachers swim and are tall'
+p2171
+S'the teachers swim and is tall'
+p2172
+tp2173
+a(S'the teachers swim and are old'
+p2174
+S'the teachers swim and is old'
+p2175
+tp2176
+a(S'the teachers swim and are young'
+p2177
+S'the teachers swim and is young'
+p2178
+tp2179
+a(S'the teachers swim and are short'
+p2180
+S'the teachers swim and is short'
+p2181
+tp2182
+a(S'the teachers smile and laugh'
+p2183
+S'the teachers smile and laughs'
+p2184
+tp2185
+a(S'the teachers smile and swim'
+p2186
+S'the teachers smile and swims'
+p2187
+tp2188
+a(S'the teachers smile and are tall'
+p2189
+S'the teachers smile and is tall'
+p2190
+tp2191
+a(S'the teachers smile and are old'
+p2192
+S'the teachers smile and is old'
+p2193
+tp2194
+a(S'the teachers smile and are young'
+p2195
+S'the teachers smile and is young'
+p2196
+tp2197
+a(S'the teachers smile and are short'
+p2198
+S'the teachers smile and is short'
+p2199
+tp2200
+a(S'the teachers are tall and laugh'
+p2201
+S'the teachers are tall and laughs'
+p2202
+tp2203
+a(S'the teachers are tall and swim'
+p2204
+S'the teachers are tall and swims'
+p2205
+tp2206
+a(S'the teachers are tall and smile'
+p2207
+S'the teachers are tall and smiles'
+p2208
+tp2209
+a(S'the teachers are tall and are old'
+p2210
+S'the teachers are tall and is old'
+p2211
+tp2212
+a(S'the teachers are tall and are young'
+p2213
+S'the teachers are tall and is young'
+p2214
+tp2215
+a(S'the teachers are tall and are short'
+p2216
+S'the teachers are tall and is short'
+p2217
+tp2218
+a(S'the teachers are old and laugh'
+p2219
+S'the teachers are old and laughs'
+p2220
+tp2221
+a(S'the teachers are old and swim'
+p2222
+S'the teachers are old and swims'
+p2223
+tp2224
+a(S'the teachers are old and smile'
+p2225
+S'the teachers are old and smiles'
+p2226
+tp2227
+a(S'the teachers are old and are tall'
+p2228
+S'the teachers are old and is tall'
+p2229
+tp2230
+a(S'the teachers are old and are young'
+p2231
+S'the teachers are old and is young'
+p2232
+tp2233
+a(S'the teachers are old and are short'
+p2234
+S'the teachers are old and is short'
+p2235
+tp2236
+a(S'the teachers are young and laugh'
+p2237
+S'the teachers are young and laughs'
+p2238
+tp2239
+a(S'the teachers are young and swim'
+p2240
+S'the teachers are young and swims'
+p2241
+tp2242
+a(S'the teachers are young and smile'
+p2243
+S'the teachers are young and smiles'
+p2244
+tp2245
+a(S'the teachers are young and are tall'
+p2246
+S'the teachers are young and is tall'
+p2247
+tp2248
+a(S'the teachers are young and are old'
+p2249
+S'the teachers are young and is old'
+p2250
+tp2251
+a(S'the teachers are young and are short'
+p2252
+S'the teachers are young and is short'
+p2253
+tp2254
+a(S'the teachers are short and laugh'
+p2255
+S'the teachers are short and laughs'
+p2256
+tp2257
+a(S'the teachers are short and swim'
+p2258
+S'the teachers are short and swims'
+p2259
+tp2260
+a(S'the teachers are short and smile'
+p2261
+S'the teachers are short and smiles'
+p2262
+tp2263
+a(S'the teachers are short and are tall'
+p2264
+S'the teachers are short and is tall'
+p2265
+tp2266
+a(S'the teachers are short and are old'
+p2267
+S'the teachers are short and is old'
+p2268
+tp2269
+a(S'the teachers are short and are young'
+p2270
+S'the teachers are short and is young'
+p2271
+tp2272
+a(S'the senators laugh and swim'
+p2273
+S'the senators laugh and swims'
+p2274
+tp2275
+a(S'the senators laugh and smile'
+p2276
+S'the senators laugh and smiles'
+p2277
+tp2278
+a(S'the senators laugh and are tall'
+p2279
+S'the senators laugh and is tall'
+p2280
+tp2281
+a(S'the senators laugh and are old'
+p2282
+S'the senators laugh and is old'
+p2283
+tp2284
+a(S'the senators laugh and are young'
+p2285
+S'the senators laugh and is young'
+p2286
+tp2287
+a(S'the senators laugh and are short'
+p2288
+S'the senators laugh and is short'
+p2289
+tp2290
+a(S'the senators swim and laugh'
+p2291
+S'the senators swim and laughs'
+p2292
+tp2293
+a(S'the senators swim and smile'
+p2294
+S'the senators swim and smiles'
+p2295
+tp2296
+a(S'the senators swim and are tall'
+p2297
+S'the senators swim and is tall'
+p2298
+tp2299
+a(S'the senators swim and are old'
+p2300
+S'the senators swim and is old'
+p2301
+tp2302
+a(S'the senators swim and are young'
+p2303
+S'the senators swim and is young'
+p2304
+tp2305
+a(S'the senators swim and are short'
+p2306
+S'the senators swim and is short'
+p2307
+tp2308
+a(S'the senators smile and laugh'
+p2309
+S'the senators smile and laughs'
+p2310
+tp2311
+a(S'the senators smile and swim'
+p2312
+S'the senators smile and swims'
+p2313
+tp2314
+a(S'the senators smile and are tall'
+p2315
+S'the senators smile and is tall'
+p2316
+tp2317
+a(S'the senators smile and are old'
+p2318
+S'the senators smile and is old'
+p2319
+tp2320
+a(S'the senators smile and are young'
+p2321
+S'the senators smile and is young'
+p2322
+tp2323
+a(S'the senators smile and are short'
+p2324
+S'the senators smile and is short'
+p2325
+tp2326
+a(S'the senators are tall and laugh'
+p2327
+S'the senators are tall and laughs'
+p2328
+tp2329
+a(S'the senators are tall and swim'
+p2330
+S'the senators are tall and swims'
+p2331
+tp2332
+a(S'the senators are tall and smile'
+p2333
+S'the senators are tall and smiles'
+p2334
+tp2335
+a(S'the senators are tall and are old'
+p2336
+S'the senators are tall and is old'
+p2337
+tp2338
+a(S'the senators are tall and are young'
+p2339
+S'the senators are tall and is young'
+p2340
+tp2341
+a(S'the senators are tall and are short'
+p2342
+S'the senators are tall and is short'
+p2343
+tp2344
+a(S'the senators are old and laugh'
+p2345
+S'the senators are old and laughs'
+p2346
+tp2347
+a(S'the senators are old and swim'
+p2348
+S'the senators are old and swims'
+p2349
+tp2350
+a(S'the senators are old and smile'
+p2351
+S'the senators are old and smiles'
+p2352
+tp2353
+a(S'the senators are old and are tall'
+p2354
+S'the senators are old and is tall'
+p2355
+tp2356
+a(S'the senators are old and are young'
+p2357
+S'the senators are old and is young'
+p2358
+tp2359
+a(S'the senators are old and are short'
+p2360
+S'the senators are old and is short'
+p2361
+tp2362
+a(S'the senators are young and laugh'
+p2363
+S'the senators are young and laughs'
+p2364
+tp2365
+a(S'the senators are young and swim'
+p2366
+S'the senators are young and swims'
+p2367
+tp2368
+a(S'the senators are young and smile'
+p2369
+S'the senators are young and smiles'
+p2370
+tp2371
+a(S'the senators are young and are tall'
+p2372
+S'the senators are young and is tall'
+p2373
+tp2374
+a(S'the senators are young and are old'
+p2375
+S'the senators are young and is old'
+p2376
+tp2377
+a(S'the senators are young and are short'
+p2378
+S'the senators are young and is short'
+p2379
+tp2380
+a(S'the senators are short and laugh'
+p2381
+S'the senators are short and laughs'
+p2382
+tp2383
+a(S'the senators are short and swim'
+p2384
+S'the senators are short and swims'
+p2385
+tp2386
+a(S'the senators are short and smile'
+p2387
+S'the senators are short and smiles'
+p2388
+tp2389
+a(S'the senators are short and are tall'
+p2390
+S'the senators are short and is tall'
+p2391
+tp2392
+a(S'the senators are short and are old'
+p2393
+S'the senators are short and is old'
+p2394
+tp2395
+a(S'the senators are short and are young'
+p2396
+S'the senators are short and is young'
+p2397
+tp2398
+a(S'the consultants laugh and swim'
+p2399
+S'the consultants laugh and swims'
+p2400
+tp2401
+a(S'the consultants laugh and smile'
+p2402
+S'the consultants laugh and smiles'
+p2403
+tp2404
+a(S'the consultants laugh and are tall'
+p2405
+S'the consultants laugh and is tall'
+p2406
+tp2407
+a(S'the consultants laugh and are old'
+p2408
+S'the consultants laugh and is old'
+p2409
+tp2410
+a(S'the consultants laugh and are young'
+p2411
+S'the consultants laugh and is young'
+p2412
+tp2413
+a(S'the consultants laugh and are short'
+p2414
+S'the consultants laugh and is short'
+p2415
+tp2416
+a(S'the consultants swim and laugh'
+p2417
+S'the consultants swim and laughs'
+p2418
+tp2419
+a(S'the consultants swim and smile'
+p2420
+S'the consultants swim and smiles'
+p2421
+tp2422
+a(S'the consultants swim and are tall'
+p2423
+S'the consultants swim and is tall'
+p2424
+tp2425
+a(S'the consultants swim and are old'
+p2426
+S'the consultants swim and is old'
+p2427
+tp2428
+a(S'the consultants swim and are young'
+p2429
+S'the consultants swim and is young'
+p2430
+tp2431
+a(S'the consultants swim and are short'
+p2432
+S'the consultants swim and is short'
+p2433
+tp2434
+a(S'the consultants smile and laugh'
+p2435
+S'the consultants smile and laughs'
+p2436
+tp2437
+a(S'the consultants smile and swim'
+p2438
+S'the consultants smile and swims'
+p2439
+tp2440
+a(S'the consultants smile and are tall'
+p2441
+S'the consultants smile and is tall'
+p2442
+tp2443
+a(S'the consultants smile and are old'
+p2444
+S'the consultants smile and is old'
+p2445
+tp2446
+a(S'the consultants smile and are young'
+p2447
+S'the consultants smile and is young'
+p2448
+tp2449
+a(S'the consultants smile and are short'
+p2450
+S'the consultants smile and is short'
+p2451
+tp2452
+a(S'the consultants are tall and laugh'
+p2453
+S'the consultants are tall and laughs'
+p2454
+tp2455
+a(S'the consultants are tall and swim'
+p2456
+S'the consultants are tall and swims'
+p2457
+tp2458
+a(S'the consultants are tall and smile'
+p2459
+S'the consultants are tall and smiles'
+p2460
+tp2461
+a(S'the consultants are tall and are old'
+p2462
+S'the consultants are tall and is old'
+p2463
+tp2464
+a(S'the consultants are tall and are young'
+p2465
+S'the consultants are tall and is young'
+p2466
+tp2467
+a(S'the consultants are tall and are short'
+p2468
+S'the consultants are tall and is short'
+p2469
+tp2470
+a(S'the consultants are old and laugh'
+p2471
+S'the consultants are old and laughs'
+p2472
+tp2473
+a(S'the consultants are old and swim'
+p2474
+S'the consultants are old and swims'
+p2475
+tp2476
+a(S'the consultants are old and smile'
+p2477
+S'the consultants are old and smiles'
+p2478
+tp2479
+a(S'the consultants are old and are tall'
+p2480
+S'the consultants are old and is tall'
+p2481
+tp2482
+a(S'the consultants are old and are young'
+p2483
+S'the consultants are old and is young'
+p2484
+tp2485
+a(S'the consultants are old and are short'
+p2486
+S'the consultants are old and is short'
+p2487
+tp2488
+a(S'the consultants are young and laugh'
+p2489
+S'the consultants are young and laughs'
+p2490
+tp2491
+a(S'the consultants are young and swim'
+p2492
+S'the consultants are young and swims'
+p2493
+tp2494
+a(S'the consultants are young and smile'
+p2495
+S'the consultants are young and smiles'
+p2496
+tp2497
+a(S'the consultants are young and are tall'
+p2498
+S'the consultants are young and is tall'
+p2499
+tp2500
+a(S'the consultants are young and are old'
+p2501
+S'the consultants are young and is old'
+p2502
+tp2503
+a(S'the consultants are young and are short'
+p2504
+S'the consultants are young and is short'
+p2505
+tp2506
+a(S'the consultants are short and laugh'
+p2507
+S'the consultants are short and laughs'
+p2508
+tp2509
+a(S'the consultants are short and swim'
+p2510
+S'the consultants are short and swims'
+p2511
+tp2512
+a(S'the consultants are short and smile'
+p2513
+S'the consultants are short and smiles'
+p2514
+tp2515
+a(S'the consultants are short and are tall'
+p2516
+S'the consultants are short and is tall'
+p2517
+tp2518
+a(S'the consultants are short and are old'
+p2519
+S'the consultants are short and is old'
+p2520
+tp2521
+a(S'the consultants are short and are young'
+p2522
+S'the consultants are short and is young'
+p2523
+tp2524
+as.

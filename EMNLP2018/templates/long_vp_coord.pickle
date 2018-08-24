@@ -1,0 +1,2008 @@
+(dp0
+S'sing_MS_LMV_LMV'
+p1
+(lp2
+(S'the author knows many different foreign languages and likes to watch television shows'
+p3
+S'the author knows many different foreign languages and like to watch television shows'
+p4
+tp5
+a(S'the author knows many different foreign languages and is twenty three years old'
+p6
+S'the author knows many different foreign languages and are twenty three years old'
+p7
+tp8
+a(S'the author knows many different foreign languages and enjoys playing tennis with colleagues'
+p9
+S'the author knows many different foreign languages and enjoy playing tennis with colleagues'
+p10
+tp11
+a(S'the author knows many different foreign languages and writes in a journal every day'
+p12
+S'the author knows many different foreign languages and write in a journal every day'
+p13
+tp14
+a(S'the author likes to watch television shows and knows many different foreign languages'
+p15
+S'the author likes to watch television shows and know many different foreign languages'
+p16
+tp17
+a(S'the author likes to watch television shows and is twenty three years old'
+p18
+S'the author likes to watch television shows and are twenty three years old'
+p19
+tp20
+a(S'the author likes to watch television shows and enjoys playing tennis with colleagues'
+p21
+S'the author likes to watch television shows and enjoy playing tennis with colleagues'
+p22
+tp23
+a(S'the author likes to watch television shows and writes in a journal every day'
+p24
+S'the author likes to watch television shows and write in a journal every day'
+p25
+tp26
+a(S'the author is twenty three years old and knows many different foreign languages'
+p27
+S'the author is twenty three years old and know many different foreign languages'
+p28
+tp29
+a(S'the author is twenty three years old and likes to watch television shows'
+p30
+S'the author is twenty three years old and like to watch television shows'
+p31
+tp32
+a(S'the author is twenty three years old and enjoys playing tennis with colleagues'
+p33
+S'the author is twenty three years old and enjoy playing tennis with colleagues'
+p34
+tp35
+a(S'the author is twenty three years old and writes in a journal every day'
+p36
+S'the author is twenty three years old and write in a journal every day'
+p37
+tp38
+a(S'the author enjoys playing tennis with colleagues and knows many different foreign languages'
+p39
+S'the author enjoys playing tennis with colleagues and know many different foreign languages'
+p40
+tp41
+a(S'the author enjoys playing tennis with colleagues and likes to watch television shows'
+p42
+S'the author enjoys playing tennis with colleagues and like to watch television shows'
+p43
+tp44
+a(S'the author enjoys playing tennis with colleagues and is twenty three years old'
+p45
+S'the author enjoys playing tennis with colleagues and are twenty three years old'
+p46
+tp47
+a(S'the author enjoys playing tennis with colleagues and writes in a journal every day'
+p48
+S'the author enjoys playing tennis with colleagues and write in a journal every day'
+p49
+tp50
+a(S'the author writes in a journal every day and knows many different foreign languages'
+p51
+S'the author writes in a journal every day and know many different foreign languages'
+p52
+tp53
+a(S'the author writes in a journal every day and likes to watch television shows'
+p54
+S'the author writes in a journal every day and like to watch television shows'
+p55
+tp56
+a(S'the author writes in a journal every day and is twenty three years old'
+p57
+S'the author writes in a journal every day and are twenty three years old'
+p58
+tp59
+a(S'the author writes in a journal every day and enjoys playing tennis with colleagues'
+p60
+S'the author writes in a journal every day and enjoy playing tennis with colleagues'
+p61
+tp62
+a(S'the pilot knows many different foreign languages and likes to watch television shows'
+p63
+S'the pilot knows many different foreign languages and like to watch television shows'
+p64
+tp65
+a(S'the pilot knows many different foreign languages and is twenty three years old'
+p66
+S'the pilot knows many different foreign languages and are twenty three years old'
+p67
+tp68
+a(S'the pilot knows many different foreign languages and enjoys playing tennis with colleagues'
+p69
+S'the pilot knows many different foreign languages and enjoy playing tennis with colleagues'
+p70
+tp71
+a(S'the pilot knows many different foreign languages and writes in a journal every day'
+p72
+S'the pilot knows many different foreign languages and write in a journal every day'
+p73
+tp74
+a(S'the pilot likes to watch television shows and knows many different foreign languages'
+p75
+S'the pilot likes to watch television shows and know many different foreign languages'
+p76
+tp77
+a(S'the pilot likes to watch television shows and is twenty three years old'
+p78
+S'the pilot likes to watch television shows and are twenty three years old'
+p79
+tp80
+a(S'the pilot likes to watch television shows and enjoys playing tennis with colleagues'
+p81
+S'the pilot likes to watch television shows and enjoy playing tennis with colleagues'
+p82
+tp83
+a(S'the pilot likes to watch television shows and writes in a journal every day'
+p84
+S'the pilot likes to watch television shows and write in a journal every day'
+p85
+tp86
+a(S'the pilot is twenty three years old and knows many different foreign languages'
+p87
+S'the pilot is twenty three years old and know many different foreign languages'
+p88
+tp89
+a(S'the pilot is twenty three years old and likes to watch television shows'
+p90
+S'the pilot is twenty three years old and like to watch television shows'
+p91
+tp92
+a(S'the pilot is twenty three years old and enjoys playing tennis with colleagues'
+p93
+S'the pilot is twenty three years old and enjoy playing tennis with colleagues'
+p94
+tp95
+a(S'the pilot is twenty three years old and writes in a journal every day'
+p96
+S'the pilot is twenty three years old and write in a journal every day'
+p97
+tp98
+a(S'the pilot enjoys playing tennis with colleagues and knows many different foreign languages'
+p99
+S'the pilot enjoys playing tennis with colleagues and know many different foreign languages'
+p100
+tp101
+a(S'the pilot enjoys playing tennis with colleagues and likes to watch television shows'
+p102
+S'the pilot enjoys playing tennis with colleagues and like to watch television shows'
+p103
+tp104
+a(S'the pilot enjoys playing tennis with colleagues and is twenty three years old'
+p105
+S'the pilot enjoys playing tennis with colleagues and are twenty three years old'
+p106
+tp107
+a(S'the pilot enjoys playing tennis with colleagues and writes in a journal every day'
+p108
+S'the pilot enjoys playing tennis with colleagues and write in a journal every day'
+p109
+tp110
+a(S'the pilot writes in a journal every day and knows many different foreign languages'
+p111
+S'the pilot writes in a journal every day and know many different foreign languages'
+p112
+tp113
+a(S'the pilot writes in a journal every day and likes to watch television shows'
+p114
+S'the pilot writes in a journal every day and like to watch television shows'
+p115
+tp116
+a(S'the pilot writes in a journal every day and is twenty three years old'
+p117
+S'the pilot writes in a journal every day and are twenty three years old'
+p118
+tp119
+a(S'the pilot writes in a journal every day and enjoys playing tennis with colleagues'
+p120
+S'the pilot writes in a journal every day and enjoy playing tennis with colleagues'
+p121
+tp122
+a(S'the surgeon knows many different foreign languages and likes to watch television shows'
+p123
+S'the surgeon knows many different foreign languages and like to watch television shows'
+p124
+tp125
+a(S'the surgeon knows many different foreign languages and is twenty three years old'
+p126
+S'the surgeon knows many different foreign languages and are twenty three years old'
+p127
+tp128
+a(S'the surgeon knows many different foreign languages and enjoys playing tennis with colleagues'
+p129
+S'the surgeon knows many different foreign languages and enjoy playing tennis with colleagues'
+p130
+tp131
+a(S'the surgeon knows many different foreign languages and writes in a journal every day'
+p132
+S'the surgeon knows many different foreign languages and write in a journal every day'
+p133
+tp134
+a(S'the surgeon likes to watch television shows and knows many different foreign languages'
+p135
+S'the surgeon likes to watch television shows and know many different foreign languages'
+p136
+tp137
+a(S'the surgeon likes to watch television shows and is twenty three years old'
+p138
+S'the surgeon likes to watch television shows and are twenty three years old'
+p139
+tp140
+a(S'the surgeon likes to watch television shows and enjoys playing tennis with colleagues'
+p141
+S'the surgeon likes to watch television shows and enjoy playing tennis with colleagues'
+p142
+tp143
+a(S'the surgeon likes to watch television shows and writes in a journal every day'
+p144
+S'the surgeon likes to watch television shows and write in a journal every day'
+p145
+tp146
+a(S'the surgeon is twenty three years old and knows many different foreign languages'
+p147
+S'the surgeon is twenty three years old and know many different foreign languages'
+p148
+tp149
+a(S'the surgeon is twenty three years old and likes to watch television shows'
+p150
+S'the surgeon is twenty three years old and like to watch television shows'
+p151
+tp152
+a(S'the surgeon is twenty three years old and enjoys playing tennis with colleagues'
+p153
+S'the surgeon is twenty three years old and enjoy playing tennis with colleagues'
+p154
+tp155
+a(S'the surgeon is twenty three years old and writes in a journal every day'
+p156
+S'the surgeon is twenty three years old and write in a journal every day'
+p157
+tp158
+a(S'the surgeon enjoys playing tennis with colleagues and knows many different foreign languages'
+p159
+S'the surgeon enjoys playing tennis with colleagues and know many different foreign languages'
+p160
+tp161
+a(S'the surgeon enjoys playing tennis with colleagues and likes to watch television shows'
+p162
+S'the surgeon enjoys playing tennis with colleagues and like to watch television shows'
+p163
+tp164
+a(S'the surgeon enjoys playing tennis with colleagues and is twenty three years old'
+p165
+S'the surgeon enjoys playing tennis with colleagues and are twenty three years old'
+p166
+tp167
+a(S'the surgeon enjoys playing tennis with colleagues and writes in a journal every day'
+p168
+S'the surgeon enjoys playing tennis with colleagues and write in a journal every day'
+p169
+tp170
+a(S'the surgeon writes in a journal every day and knows many different foreign languages'
+p171
+S'the surgeon writes in a journal every day and know many different foreign languages'
+p172
+tp173
+a(S'the surgeon writes in a journal every day and likes to watch television shows'
+p174
+S'the surgeon writes in a journal every day and like to watch television shows'
+p175
+tp176
+a(S'the surgeon writes in a journal every day and is twenty three years old'
+p177
+S'the surgeon writes in a journal every day and are twenty three years old'
+p178
+tp179
+a(S'the surgeon writes in a journal every day and enjoys playing tennis with colleagues'
+p180
+S'the surgeon writes in a journal every day and enjoy playing tennis with colleagues'
+p181
+tp182
+a(S'the farmer knows many different foreign languages and likes to watch television shows'
+p183
+S'the farmer knows many different foreign languages and like to watch television shows'
+p184
+tp185
+a(S'the farmer knows many different foreign languages and is twenty three years old'
+p186
+S'the farmer knows many different foreign languages and are twenty three years old'
+p187
+tp188
+a(S'the farmer knows many different foreign languages and enjoys playing tennis with colleagues'
+p189
+S'the farmer knows many different foreign languages and enjoy playing tennis with colleagues'
+p190
+tp191
+a(S'the farmer knows many different foreign languages and writes in a journal every day'
+p192
+S'the farmer knows many different foreign languages and write in a journal every day'
+p193
+tp194
+a(S'the farmer likes to watch television shows and knows many different foreign languages'
+p195
+S'the farmer likes to watch television shows and know many different foreign languages'
+p196
+tp197
+a(S'the farmer likes to watch television shows and is twenty three years old'
+p198
+S'the farmer likes to watch television shows and are twenty three years old'
+p199
+tp200
+a(S'the farmer likes to watch television shows and enjoys playing tennis with colleagues'
+p201
+S'the farmer likes to watch television shows and enjoy playing tennis with colleagues'
+p202
+tp203
+a(S'the farmer likes to watch television shows and writes in a journal every day'
+p204
+S'the farmer likes to watch television shows and write in a journal every day'
+p205
+tp206
+a(S'the farmer is twenty three years old and knows many different foreign languages'
+p207
+S'the farmer is twenty three years old and know many different foreign languages'
+p208
+tp209
+a(S'the farmer is twenty three years old and likes to watch television shows'
+p210
+S'the farmer is twenty three years old and like to watch television shows'
+p211
+tp212
+a(S'the farmer is twenty three years old and enjoys playing tennis with colleagues'
+p213
+S'the farmer is twenty three years old and enjoy playing tennis with colleagues'
+p214
+tp215
+a(S'the farmer is twenty three years old and writes in a journal every day'
+p216
+S'the farmer is twenty three years old and write in a journal every day'
+p217
+tp218
+a(S'the farmer enjoys playing tennis with colleagues and knows many different foreign languages'
+p219
+S'the farmer enjoys playing tennis with colleagues and know many different foreign languages'
+p220
+tp221
+a(S'the farmer enjoys playing tennis with colleagues and likes to watch television shows'
+p222
+S'the farmer enjoys playing tennis with colleagues and like to watch television shows'
+p223
+tp224
+a(S'the farmer enjoys playing tennis with colleagues and is twenty three years old'
+p225
+S'the farmer enjoys playing tennis with colleagues and are twenty three years old'
+p226
+tp227
+a(S'the farmer enjoys playing tennis with colleagues and writes in a journal every day'
+p228
+S'the farmer enjoys playing tennis with colleagues and write in a journal every day'
+p229
+tp230
+a(S'the farmer writes in a journal every day and knows many different foreign languages'
+p231
+S'the farmer writes in a journal every day and know many different foreign languages'
+p232
+tp233
+a(S'the farmer writes in a journal every day and likes to watch television shows'
+p234
+S'the farmer writes in a journal every day and like to watch television shows'
+p235
+tp236
+a(S'the farmer writes in a journal every day and is twenty three years old'
+p237
+S'the farmer writes in a journal every day and are twenty three years old'
+p238
+tp239
+a(S'the farmer writes in a journal every day and enjoys playing tennis with colleagues'
+p240
+S'the farmer writes in a journal every day and enjoy playing tennis with colleagues'
+p241
+tp242
+a(S'the manager knows many different foreign languages and likes to watch television shows'
+p243
+S'the manager knows many different foreign languages and like to watch television shows'
+p244
+tp245
+a(S'the manager knows many different foreign languages and is twenty three years old'
+p246
+S'the manager knows many different foreign languages and are twenty three years old'
+p247
+tp248
+a(S'the manager knows many different foreign languages and enjoys playing tennis with colleagues'
+p249
+S'the manager knows many different foreign languages and enjoy playing tennis with colleagues'
+p250
+tp251
+a(S'the manager knows many different foreign languages and writes in a journal every day'
+p252
+S'the manager knows many different foreign languages and write in a journal every day'
+p253
+tp254
+a(S'the manager likes to watch television shows and knows many different foreign languages'
+p255
+S'the manager likes to watch television shows and know many different foreign languages'
+p256
+tp257
+a(S'the manager likes to watch television shows and is twenty three years old'
+p258
+S'the manager likes to watch television shows and are twenty three years old'
+p259
+tp260
+a(S'the manager likes to watch television shows and enjoys playing tennis with colleagues'
+p261
+S'the manager likes to watch television shows and enjoy playing tennis with colleagues'
+p262
+tp263
+a(S'the manager likes to watch television shows and writes in a journal every day'
+p264
+S'the manager likes to watch television shows and write in a journal every day'
+p265
+tp266
+a(S'the manager is twenty three years old and knows many different foreign languages'
+p267
+S'the manager is twenty three years old and know many different foreign languages'
+p268
+tp269
+a(S'the manager is twenty three years old and likes to watch television shows'
+p270
+S'the manager is twenty three years old and like to watch television shows'
+p271
+tp272
+a(S'the manager is twenty three years old and enjoys playing tennis with colleagues'
+p273
+S'the manager is twenty three years old and enjoy playing tennis with colleagues'
+p274
+tp275
+a(S'the manager is twenty three years old and writes in a journal every day'
+p276
+S'the manager is twenty three years old and write in a journal every day'
+p277
+tp278
+a(S'the manager enjoys playing tennis with colleagues and knows many different foreign languages'
+p279
+S'the manager enjoys playing tennis with colleagues and know many different foreign languages'
+p280
+tp281
+a(S'the manager enjoys playing tennis with colleagues and likes to watch television shows'
+p282
+S'the manager enjoys playing tennis with colleagues and like to watch television shows'
+p283
+tp284
+a(S'the manager enjoys playing tennis with colleagues and is twenty three years old'
+p285
+S'the manager enjoys playing tennis with colleagues and are twenty three years old'
+p286
+tp287
+a(S'the manager enjoys playing tennis with colleagues and writes in a journal every day'
+p288
+S'the manager enjoys playing tennis with colleagues and write in a journal every day'
+p289
+tp290
+a(S'the manager writes in a journal every day and knows many different foreign languages'
+p291
+S'the manager writes in a journal every day and know many different foreign languages'
+p292
+tp293
+a(S'the manager writes in a journal every day and likes to watch television shows'
+p294
+S'the manager writes in a journal every day and like to watch television shows'
+p295
+tp296
+a(S'the manager writes in a journal every day and is twenty three years old'
+p297
+S'the manager writes in a journal every day and are twenty three years old'
+p298
+tp299
+a(S'the manager writes in a journal every day and enjoys playing tennis with colleagues'
+p300
+S'the manager writes in a journal every day and enjoy playing tennis with colleagues'
+p301
+tp302
+a(S'the customer knows many different foreign languages and likes to watch television shows'
+p303
+S'the customer knows many different foreign languages and like to watch television shows'
+p304
+tp305
+a(S'the customer knows many different foreign languages and is twenty three years old'
+p306
+S'the customer knows many different foreign languages and are twenty three years old'
+p307
+tp308
+a(S'the customer knows many different foreign languages and enjoys playing tennis with colleagues'
+p309
+S'the customer knows many different foreign languages and enjoy playing tennis with colleagues'
+p310
+tp311
+a(S'the customer knows many different foreign languages and writes in a journal every day'
+p312
+S'the customer knows many different foreign languages and write in a journal every day'
+p313
+tp314
+a(S'the customer likes to watch television shows and knows many different foreign languages'
+p315
+S'the customer likes to watch television shows and know many different foreign languages'
+p316
+tp317
+a(S'the customer likes to watch television shows and is twenty three years old'
+p318
+S'the customer likes to watch television shows and are twenty three years old'
+p319
+tp320
+a(S'the customer likes to watch television shows and enjoys playing tennis with colleagues'
+p321
+S'the customer likes to watch television shows and enjoy playing tennis with colleagues'
+p322
+tp323
+a(S'the customer likes to watch television shows and writes in a journal every day'
+p324
+S'the customer likes to watch television shows and write in a journal every day'
+p325
+tp326
+a(S'the customer is twenty three years old and knows many different foreign languages'
+p327
+S'the customer is twenty three years old and know many different foreign languages'
+p328
+tp329
+a(S'the customer is twenty three years old and likes to watch television shows'
+p330
+S'the customer is twenty three years old and like to watch television shows'
+p331
+tp332
+a(S'the customer is twenty three years old and enjoys playing tennis with colleagues'
+p333
+S'the customer is twenty three years old and enjoy playing tennis with colleagues'
+p334
+tp335
+a(S'the customer is twenty three years old and writes in a journal every day'
+p336
+S'the customer is twenty three years old and write in a journal every day'
+p337
+tp338
+a(S'the customer enjoys playing tennis with colleagues and knows many different foreign languages'
+p339
+S'the customer enjoys playing tennis with colleagues and know many different foreign languages'
+p340
+tp341
+a(S'the customer enjoys playing tennis with colleagues and likes to watch television shows'
+p342
+S'the customer enjoys playing tennis with colleagues and like to watch television shows'
+p343
+tp344
+a(S'the customer enjoys playing tennis with colleagues and is twenty three years old'
+p345
+S'the customer enjoys playing tennis with colleagues and are twenty three years old'
+p346
+tp347
+a(S'the customer enjoys playing tennis with colleagues and writes in a journal every day'
+p348
+S'the customer enjoys playing tennis with colleagues and write in a journal every day'
+p349
+tp350
+a(S'the customer writes in a journal every day and knows many different foreign languages'
+p351
+S'the customer writes in a journal every day and know many different foreign languages'
+p352
+tp353
+a(S'the customer writes in a journal every day and likes to watch television shows'
+p354
+S'the customer writes in a journal every day and like to watch television shows'
+p355
+tp356
+a(S'the customer writes in a journal every day and is twenty three years old'
+p357
+S'the customer writes in a journal every day and are twenty three years old'
+p358
+tp359
+a(S'the customer writes in a journal every day and enjoys playing tennis with colleagues'
+p360
+S'the customer writes in a journal every day and enjoy playing tennis with colleagues'
+p361
+tp362
+a(S'the officer knows many different foreign languages and likes to watch television shows'
+p363
+S'the officer knows many different foreign languages and like to watch television shows'
+p364
+tp365
+a(S'the officer knows many different foreign languages and is twenty three years old'
+p366
+S'the officer knows many different foreign languages and are twenty three years old'
+p367
+tp368
+a(S'the officer knows many different foreign languages and enjoys playing tennis with colleagues'
+p369
+S'the officer knows many different foreign languages and enjoy playing tennis with colleagues'
+p370
+tp371
+a(S'the officer knows many different foreign languages and writes in a journal every day'
+p372
+S'the officer knows many different foreign languages and write in a journal every day'
+p373
+tp374
+a(S'the officer likes to watch television shows and knows many different foreign languages'
+p375
+S'the officer likes to watch television shows and know many different foreign languages'
+p376
+tp377
+a(S'the officer likes to watch television shows and is twenty three years old'
+p378
+S'the officer likes to watch television shows and are twenty three years old'
+p379
+tp380
+a(S'the officer likes to watch television shows and enjoys playing tennis with colleagues'
+p381
+S'the officer likes to watch television shows and enjoy playing tennis with colleagues'
+p382
+tp383
+a(S'the officer likes to watch television shows and writes in a journal every day'
+p384
+S'the officer likes to watch television shows and write in a journal every day'
+p385
+tp386
+a(S'the officer is twenty three years old and knows many different foreign languages'
+p387
+S'the officer is twenty three years old and know many different foreign languages'
+p388
+tp389
+a(S'the officer is twenty three years old and likes to watch television shows'
+p390
+S'the officer is twenty three years old and like to watch television shows'
+p391
+tp392
+a(S'the officer is twenty three years old and enjoys playing tennis with colleagues'
+p393
+S'the officer is twenty three years old and enjoy playing tennis with colleagues'
+p394
+tp395
+a(S'the officer is twenty three years old and writes in a journal every day'
+p396
+S'the officer is twenty three years old and write in a journal every day'
+p397
+tp398
+a(S'the officer enjoys playing tennis with colleagues and knows many different foreign languages'
+p399
+S'the officer enjoys playing tennis with colleagues and know many different foreign languages'
+p400
+tp401
+a(S'the officer enjoys playing tennis with colleagues and likes to watch television shows'
+p402
+S'the officer enjoys playing tennis with colleagues and like to watch television shows'
+p403
+tp404
+a(S'the officer enjoys playing tennis with colleagues and is twenty three years old'
+p405
+S'the officer enjoys playing tennis with colleagues and are twenty three years old'
+p406
+tp407
+a(S'the officer enjoys playing tennis with colleagues and writes in a journal every day'
+p408
+S'the officer enjoys playing tennis with colleagues and write in a journal every day'
+p409
+tp410
+a(S'the officer writes in a journal every day and knows many different foreign languages'
+p411
+S'the officer writes in a journal every day and know many different foreign languages'
+p412
+tp413
+a(S'the officer writes in a journal every day and likes to watch television shows'
+p414
+S'the officer writes in a journal every day and like to watch television shows'
+p415
+tp416
+a(S'the officer writes in a journal every day and is twenty three years old'
+p417
+S'the officer writes in a journal every day and are twenty three years old'
+p418
+tp419
+a(S'the officer writes in a journal every day and enjoys playing tennis with colleagues'
+p420
+S'the officer writes in a journal every day and enjoy playing tennis with colleagues'
+p421
+tp422
+a(S'the teacher knows many different foreign languages and likes to watch television shows'
+p423
+S'the teacher knows many different foreign languages and like to watch television shows'
+p424
+tp425
+a(S'the teacher knows many different foreign languages and is twenty three years old'
+p426
+S'the teacher knows many different foreign languages and are twenty three years old'
+p427
+tp428
+a(S'the teacher knows many different foreign languages and enjoys playing tennis with colleagues'
+p429
+S'the teacher knows many different foreign languages and enjoy playing tennis with colleagues'
+p430
+tp431
+a(S'the teacher knows many different foreign languages and writes in a journal every day'
+p432
+S'the teacher knows many different foreign languages and write in a journal every day'
+p433
+tp434
+a(S'the teacher likes to watch television shows and knows many different foreign languages'
+p435
+S'the teacher likes to watch television shows and know many different foreign languages'
+p436
+tp437
+a(S'the teacher likes to watch television shows and is twenty three years old'
+p438
+S'the teacher likes to watch television shows and are twenty three years old'
+p439
+tp440
+a(S'the teacher likes to watch television shows and enjoys playing tennis with colleagues'
+p441
+S'the teacher likes to watch television shows and enjoy playing tennis with colleagues'
+p442
+tp443
+a(S'the teacher likes to watch television shows and writes in a journal every day'
+p444
+S'the teacher likes to watch television shows and write in a journal every day'
+p445
+tp446
+a(S'the teacher is twenty three years old and knows many different foreign languages'
+p447
+S'the teacher is twenty three years old and know many different foreign languages'
+p448
+tp449
+a(S'the teacher is twenty three years old and likes to watch television shows'
+p450
+S'the teacher is twenty three years old and like to watch television shows'
+p451
+tp452
+a(S'the teacher is twenty three years old and enjoys playing tennis with colleagues'
+p453
+S'the teacher is twenty three years old and enjoy playing tennis with colleagues'
+p454
+tp455
+a(S'the teacher is twenty three years old and writes in a journal every day'
+p456
+S'the teacher is twenty three years old and write in a journal every day'
+p457
+tp458
+a(S'the teacher enjoys playing tennis with colleagues and knows many different foreign languages'
+p459
+S'the teacher enjoys playing tennis with colleagues and know many different foreign languages'
+p460
+tp461
+a(S'the teacher enjoys playing tennis with colleagues and likes to watch television shows'
+p462
+S'the teacher enjoys playing tennis with colleagues and like to watch television shows'
+p463
+tp464
+a(S'the teacher enjoys playing tennis with colleagues and is twenty three years old'
+p465
+S'the teacher enjoys playing tennis with colleagues and are twenty three years old'
+p466
+tp467
+a(S'the teacher enjoys playing tennis with colleagues and writes in a journal every day'
+p468
+S'the teacher enjoys playing tennis with colleagues and write in a journal every day'
+p469
+tp470
+a(S'the teacher writes in a journal every day and knows many different foreign languages'
+p471
+S'the teacher writes in a journal every day and know many different foreign languages'
+p472
+tp473
+a(S'the teacher writes in a journal every day and likes to watch television shows'
+p474
+S'the teacher writes in a journal every day and like to watch television shows'
+p475
+tp476
+a(S'the teacher writes in a journal every day and is twenty three years old'
+p477
+S'the teacher writes in a journal every day and are twenty three years old'
+p478
+tp479
+a(S'the teacher writes in a journal every day and enjoys playing tennis with colleagues'
+p480
+S'the teacher writes in a journal every day and enjoy playing tennis with colleagues'
+p481
+tp482
+a(S'the senator knows many different foreign languages and likes to watch television shows'
+p483
+S'the senator knows many different foreign languages and like to watch television shows'
+p484
+tp485
+a(S'the senator knows many different foreign languages and is twenty three years old'
+p486
+S'the senator knows many different foreign languages and are twenty three years old'
+p487
+tp488
+a(S'the senator knows many different foreign languages and enjoys playing tennis with colleagues'
+p489
+S'the senator knows many different foreign languages and enjoy playing tennis with colleagues'
+p490
+tp491
+a(S'the senator knows many different foreign languages and writes in a journal every day'
+p492
+S'the senator knows many different foreign languages and write in a journal every day'
+p493
+tp494
+a(S'the senator likes to watch television shows and knows many different foreign languages'
+p495
+S'the senator likes to watch television shows and know many different foreign languages'
+p496
+tp497
+a(S'the senator likes to watch television shows and is twenty three years old'
+p498
+S'the senator likes to watch television shows and are twenty three years old'
+p499
+tp500
+a(S'the senator likes to watch television shows and enjoys playing tennis with colleagues'
+p501
+S'the senator likes to watch television shows and enjoy playing tennis with colleagues'
+p502
+tp503
+a(S'the senator likes to watch television shows and writes in a journal every day'
+p504
+S'the senator likes to watch television shows and write in a journal every day'
+p505
+tp506
+a(S'the senator is twenty three years old and knows many different foreign languages'
+p507
+S'the senator is twenty three years old and know many different foreign languages'
+p508
+tp509
+a(S'the senator is twenty three years old and likes to watch television shows'
+p510
+S'the senator is twenty three years old and like to watch television shows'
+p511
+tp512
+a(S'the senator is twenty three years old and enjoys playing tennis with colleagues'
+p513
+S'the senator is twenty three years old and enjoy playing tennis with colleagues'
+p514
+tp515
+a(S'the senator is twenty three years old and writes in a journal every day'
+p516
+S'the senator is twenty three years old and write in a journal every day'
+p517
+tp518
+a(S'the senator enjoys playing tennis with colleagues and knows many different foreign languages'
+p519
+S'the senator enjoys playing tennis with colleagues and know many different foreign languages'
+p520
+tp521
+a(S'the senator enjoys playing tennis with colleagues and likes to watch television shows'
+p522
+S'the senator enjoys playing tennis with colleagues and like to watch television shows'
+p523
+tp524
+a(S'the senator enjoys playing tennis with colleagues and is twenty three years old'
+p525
+S'the senator enjoys playing tennis with colleagues and are twenty three years old'
+p526
+tp527
+a(S'the senator enjoys playing tennis with colleagues and writes in a journal every day'
+p528
+S'the senator enjoys playing tennis with colleagues and write in a journal every day'
+p529
+tp530
+a(S'the senator writes in a journal every day and knows many different foreign languages'
+p531
+S'the senator writes in a journal every day and know many different foreign languages'
+p532
+tp533
+a(S'the senator writes in a journal every day and likes to watch television shows'
+p534
+S'the senator writes in a journal every day and like to watch television shows'
+p535
+tp536
+a(S'the senator writes in a journal every day and is twenty three years old'
+p537
+S'the senator writes in a journal every day and are twenty three years old'
+p538
+tp539
+a(S'the senator writes in a journal every day and enjoys playing tennis with colleagues'
+p540
+S'the senator writes in a journal every day and enjoy playing tennis with colleagues'
+p541
+tp542
+a(S'the consultant knows many different foreign languages and likes to watch television shows'
+p543
+S'the consultant knows many different foreign languages and like to watch television shows'
+p544
+tp545
+a(S'the consultant knows many different foreign languages and is twenty three years old'
+p546
+S'the consultant knows many different foreign languages and are twenty three years old'
+p547
+tp548
+a(S'the consultant knows many different foreign languages and enjoys playing tennis with colleagues'
+p549
+S'the consultant knows many different foreign languages and enjoy playing tennis with colleagues'
+p550
+tp551
+a(S'the consultant knows many different foreign languages and writes in a journal every day'
+p552
+S'the consultant knows many different foreign languages and write in a journal every day'
+p553
+tp554
+a(S'the consultant likes to watch television shows and knows many different foreign languages'
+p555
+S'the consultant likes to watch television shows and know many different foreign languages'
+p556
+tp557
+a(S'the consultant likes to watch television shows and is twenty three years old'
+p558
+S'the consultant likes to watch television shows and are twenty three years old'
+p559
+tp560
+a(S'the consultant likes to watch television shows and enjoys playing tennis with colleagues'
+p561
+S'the consultant likes to watch television shows and enjoy playing tennis with colleagues'
+p562
+tp563
+a(S'the consultant likes to watch television shows and writes in a journal every day'
+p564
+S'the consultant likes to watch television shows and write in a journal every day'
+p565
+tp566
+a(S'the consultant is twenty three years old and knows many different foreign languages'
+p567
+S'the consultant is twenty three years old and know many different foreign languages'
+p568
+tp569
+a(S'the consultant is twenty three years old and likes to watch television shows'
+p570
+S'the consultant is twenty three years old and like to watch television shows'
+p571
+tp572
+a(S'the consultant is twenty three years old and enjoys playing tennis with colleagues'
+p573
+S'the consultant is twenty three years old and enjoy playing tennis with colleagues'
+p574
+tp575
+a(S'the consultant is twenty three years old and writes in a journal every day'
+p576
+S'the consultant is twenty three years old and write in a journal every day'
+p577
+tp578
+a(S'the consultant enjoys playing tennis with colleagues and knows many different foreign languages'
+p579
+S'the consultant enjoys playing tennis with colleagues and know many different foreign languages'
+p580
+tp581
+a(S'the consultant enjoys playing tennis with colleagues and likes to watch television shows'
+p582
+S'the consultant enjoys playing tennis with colleagues and like to watch television shows'
+p583
+tp584
+a(S'the consultant enjoys playing tennis with colleagues and is twenty three years old'
+p585
+S'the consultant enjoys playing tennis with colleagues and are twenty three years old'
+p586
+tp587
+a(S'the consultant enjoys playing tennis with colleagues and writes in a journal every day'
+p588
+S'the consultant enjoys playing tennis with colleagues and write in a journal every day'
+p589
+tp590
+a(S'the consultant writes in a journal every day and knows many different foreign languages'
+p591
+S'the consultant writes in a journal every day and know many different foreign languages'
+p592
+tp593
+a(S'the consultant writes in a journal every day and likes to watch television shows'
+p594
+S'the consultant writes in a journal every day and like to watch television shows'
+p595
+tp596
+a(S'the consultant writes in a journal every day and is twenty three years old'
+p597
+S'the consultant writes in a journal every day and are twenty three years old'
+p598
+tp599
+a(S'the consultant writes in a journal every day and enjoys playing tennis with colleagues'
+p600
+S'the consultant writes in a journal every day and enjoy playing tennis with colleagues'
+p601
+tp602
+asS'plur_MS_LMV_LMV'
+p603
+(lp604
+(S'the authors know many different foreign languages and like to watch television shows'
+p605
+S'the authors know many different foreign languages and likes to watch television shows'
+p606
+tp607
+a(S'the authors know many different foreign languages and are twenty three years old'
+p608
+S'the authors know many different foreign languages and is twenty three years old'
+p609
+tp610
+a(S'the authors know many different foreign languages and enjoy playing tennis with colleagues'
+p611
+S'the authors know many different foreign languages and enjoys playing tennis with colleagues'
+p612
+tp613
+a(S'the authors know many different foreign languages and write in a journal every day'
+p614
+S'the authors know many different foreign languages and writes in a journal every day'
+p615
+tp616
+a(S'the authors like to watch television shows and know many different foreign languages'
+p617
+S'the authors like to watch television shows and knows many different foreign languages'
+p618
+tp619
+a(S'the authors like to watch television shows and are twenty three years old'
+p620
+S'the authors like to watch television shows and is twenty three years old'
+p621
+tp622
+a(S'the authors like to watch television shows and enjoy playing tennis with colleagues'
+p623
+S'the authors like to watch television shows and enjoys playing tennis with colleagues'
+p624
+tp625
+a(S'the authors like to watch television shows and write in a journal every day'
+p626
+S'the authors like to watch television shows and writes in a journal every day'
+p627
+tp628
+a(S'the authors are twenty three years old and know many different foreign languages'
+p629
+S'the authors are twenty three years old and knows many different foreign languages'
+p630
+tp631
+a(S'the authors are twenty three years old and like to watch television shows'
+p632
+S'the authors are twenty three years old and likes to watch television shows'
+p633
+tp634
+a(S'the authors are twenty three years old and enjoy playing tennis with colleagues'
+p635
+S'the authors are twenty three years old and enjoys playing tennis with colleagues'
+p636
+tp637
+a(S'the authors are twenty three years old and write in a journal every day'
+p638
+S'the authors are twenty three years old and writes in a journal every day'
+p639
+tp640
+a(S'the authors enjoy playing tennis with colleagues and know many different foreign languages'
+p641
+S'the authors enjoy playing tennis with colleagues and knows many different foreign languages'
+p642
+tp643
+a(S'the authors enjoy playing tennis with colleagues and like to watch television shows'
+p644
+S'the authors enjoy playing tennis with colleagues and likes to watch television shows'
+p645
+tp646
+a(S'the authors enjoy playing tennis with colleagues and are twenty three years old'
+p647
+S'the authors enjoy playing tennis with colleagues and is twenty three years old'
+p648
+tp649
+a(S'the authors enjoy playing tennis with colleagues and write in a journal every day'
+p650
+S'the authors enjoy playing tennis with colleagues and writes in a journal every day'
+p651
+tp652
+a(S'the authors write in a journal every day and know many different foreign languages'
+p653
+S'the authors write in a journal every day and knows many different foreign languages'
+p654
+tp655
+a(S'the authors write in a journal every day and like to watch television shows'
+p656
+S'the authors write in a journal every day and likes to watch television shows'
+p657
+tp658
+a(S'the authors write in a journal every day and are twenty three years old'
+p659
+S'the authors write in a journal every day and is twenty three years old'
+p660
+tp661
+a(S'the authors write in a journal every day and enjoy playing tennis with colleagues'
+p662
+S'the authors write in a journal every day and enjoys playing tennis with colleagues'
+p663
+tp664
+a(S'the pilots know many different foreign languages and like to watch television shows'
+p665
+S'the pilots know many different foreign languages and likes to watch television shows'
+p666
+tp667
+a(S'the pilots know many different foreign languages and are twenty three years old'
+p668
+S'the pilots know many different foreign languages and is twenty three years old'
+p669
+tp670
+a(S'the pilots know many different foreign languages and enjoy playing tennis with colleagues'
+p671
+S'the pilots know many different foreign languages and enjoys playing tennis with colleagues'
+p672
+tp673
+a(S'the pilots know many different foreign languages and write in a journal every day'
+p674
+S'the pilots know many different foreign languages and writes in a journal every day'
+p675
+tp676
+a(S'the pilots like to watch television shows and know many different foreign languages'
+p677
+S'the pilots like to watch television shows and knows many different foreign languages'
+p678
+tp679
+a(S'the pilots like to watch television shows and are twenty three years old'
+p680
+S'the pilots like to watch television shows and is twenty three years old'
+p681
+tp682
+a(S'the pilots like to watch television shows and enjoy playing tennis with colleagues'
+p683
+S'the pilots like to watch television shows and enjoys playing tennis with colleagues'
+p684
+tp685
+a(S'the pilots like to watch television shows and write in a journal every day'
+p686
+S'the pilots like to watch television shows and writes in a journal every day'
+p687
+tp688
+a(S'the pilots are twenty three years old and know many different foreign languages'
+p689
+S'the pilots are twenty three years old and knows many different foreign languages'
+p690
+tp691
+a(S'the pilots are twenty three years old and like to watch television shows'
+p692
+S'the pilots are twenty three years old and likes to watch television shows'
+p693
+tp694
+a(S'the pilots are twenty three years old and enjoy playing tennis with colleagues'
+p695
+S'the pilots are twenty three years old and enjoys playing tennis with colleagues'
+p696
+tp697
+a(S'the pilots are twenty three years old and write in a journal every day'
+p698
+S'the pilots are twenty three years old and writes in a journal every day'
+p699
+tp700
+a(S'the pilots enjoy playing tennis with colleagues and know many different foreign languages'
+p701
+S'the pilots enjoy playing tennis with colleagues and knows many different foreign languages'
+p702
+tp703
+a(S'the pilots enjoy playing tennis with colleagues and like to watch television shows'
+p704
+S'the pilots enjoy playing tennis with colleagues and likes to watch television shows'
+p705
+tp706
+a(S'the pilots enjoy playing tennis with colleagues and are twenty three years old'
+p707
+S'the pilots enjoy playing tennis with colleagues and is twenty three years old'
+p708
+tp709
+a(S'the pilots enjoy playing tennis with colleagues and write in a journal every day'
+p710
+S'the pilots enjoy playing tennis with colleagues and writes in a journal every day'
+p711
+tp712
+a(S'the pilots write in a journal every day and know many different foreign languages'
+p713
+S'the pilots write in a journal every day and knows many different foreign languages'
+p714
+tp715
+a(S'the pilots write in a journal every day and like to watch television shows'
+p716
+S'the pilots write in a journal every day and likes to watch television shows'
+p717
+tp718
+a(S'the pilots write in a journal every day and are twenty three years old'
+p719
+S'the pilots write in a journal every day and is twenty three years old'
+p720
+tp721
+a(S'the pilots write in a journal every day and enjoy playing tennis with colleagues'
+p722
+S'the pilots write in a journal every day and enjoys playing tennis with colleagues'
+p723
+tp724
+a(S'the surgeons know many different foreign languages and like to watch television shows'
+p725
+S'the surgeons know many different foreign languages and likes to watch television shows'
+p726
+tp727
+a(S'the surgeons know many different foreign languages and are twenty three years old'
+p728
+S'the surgeons know many different foreign languages and is twenty three years old'
+p729
+tp730
+a(S'the surgeons know many different foreign languages and enjoy playing tennis with colleagues'
+p731
+S'the surgeons know many different foreign languages and enjoys playing tennis with colleagues'
+p732
+tp733
+a(S'the surgeons know many different foreign languages and write in a journal every day'
+p734
+S'the surgeons know many different foreign languages and writes in a journal every day'
+p735
+tp736
+a(S'the surgeons like to watch television shows and know many different foreign languages'
+p737
+S'the surgeons like to watch television shows and knows many different foreign languages'
+p738
+tp739
+a(S'the surgeons like to watch television shows and are twenty three years old'
+p740
+S'the surgeons like to watch television shows and is twenty three years old'
+p741
+tp742
+a(S'the surgeons like to watch television shows and enjoy playing tennis with colleagues'
+p743
+S'the surgeons like to watch television shows and enjoys playing tennis with colleagues'
+p744
+tp745
+a(S'the surgeons like to watch television shows and write in a journal every day'
+p746
+S'the surgeons like to watch television shows and writes in a journal every day'
+p747
+tp748
+a(S'the surgeons are twenty three years old and know many different foreign languages'
+p749
+S'the surgeons are twenty three years old and knows many different foreign languages'
+p750
+tp751
+a(S'the surgeons are twenty three years old and like to watch television shows'
+p752
+S'the surgeons are twenty three years old and likes to watch television shows'
+p753
+tp754
+a(S'the surgeons are twenty three years old and enjoy playing tennis with colleagues'
+p755
+S'the surgeons are twenty three years old and enjoys playing tennis with colleagues'
+p756
+tp757
+a(S'the surgeons are twenty three years old and write in a journal every day'
+p758
+S'the surgeons are twenty three years old and writes in a journal every day'
+p759
+tp760
+a(S'the surgeons enjoy playing tennis with colleagues and know many different foreign languages'
+p761
+S'the surgeons enjoy playing tennis with colleagues and knows many different foreign languages'
+p762
+tp763
+a(S'the surgeons enjoy playing tennis with colleagues and like to watch television shows'
+p764
+S'the surgeons enjoy playing tennis with colleagues and likes to watch television shows'
+p765
+tp766
+a(S'the surgeons enjoy playing tennis with colleagues and are twenty three years old'
+p767
+S'the surgeons enjoy playing tennis with colleagues and is twenty three years old'
+p768
+tp769
+a(S'the surgeons enjoy playing tennis with colleagues and write in a journal every day'
+p770
+S'the surgeons enjoy playing tennis with colleagues and writes in a journal every day'
+p771
+tp772
+a(S'the surgeons write in a journal every day and know many different foreign languages'
+p773
+S'the surgeons write in a journal every day and knows many different foreign languages'
+p774
+tp775
+a(S'the surgeons write in a journal every day and like to watch television shows'
+p776
+S'the surgeons write in a journal every day and likes to watch television shows'
+p777
+tp778
+a(S'the surgeons write in a journal every day and are twenty three years old'
+p779
+S'the surgeons write in a journal every day and is twenty three years old'
+p780
+tp781
+a(S'the surgeons write in a journal every day and enjoy playing tennis with colleagues'
+p782
+S'the surgeons write in a journal every day and enjoys playing tennis with colleagues'
+p783
+tp784
+a(S'the farmers know many different foreign languages and like to watch television shows'
+p785
+S'the farmers know many different foreign languages and likes to watch television shows'
+p786
+tp787
+a(S'the farmers know many different foreign languages and are twenty three years old'
+p788
+S'the farmers know many different foreign languages and is twenty three years old'
+p789
+tp790
+a(S'the farmers know many different foreign languages and enjoy playing tennis with colleagues'
+p791
+S'the farmers know many different foreign languages and enjoys playing tennis with colleagues'
+p792
+tp793
+a(S'the farmers know many different foreign languages and write in a journal every day'
+p794
+S'the farmers know many different foreign languages and writes in a journal every day'
+p795
+tp796
+a(S'the farmers like to watch television shows and know many different foreign languages'
+p797
+S'the farmers like to watch television shows and knows many different foreign languages'
+p798
+tp799
+a(S'the farmers like to watch television shows and are twenty three years old'
+p800
+S'the farmers like to watch television shows and is twenty three years old'
+p801
+tp802
+a(S'the farmers like to watch television shows and enjoy playing tennis with colleagues'
+p803
+S'the farmers like to watch television shows and enjoys playing tennis with colleagues'
+p804
+tp805
+a(S'the farmers like to watch television shows and write in a journal every day'
+p806
+S'the farmers like to watch television shows and writes in a journal every day'
+p807
+tp808
+a(S'the farmers are twenty three years old and know many different foreign languages'
+p809
+S'the farmers are twenty three years old and knows many different foreign languages'
+p810
+tp811
+a(S'the farmers are twenty three years old and like to watch television shows'
+p812
+S'the farmers are twenty three years old and likes to watch television shows'
+p813
+tp814
+a(S'the farmers are twenty three years old and enjoy playing tennis with colleagues'
+p815
+S'the farmers are twenty three years old and enjoys playing tennis with colleagues'
+p816
+tp817
+a(S'the farmers are twenty three years old and write in a journal every day'
+p818
+S'the farmers are twenty three years old and writes in a journal every day'
+p819
+tp820
+a(S'the farmers enjoy playing tennis with colleagues and know many different foreign languages'
+p821
+S'the farmers enjoy playing tennis with colleagues and knows many different foreign languages'
+p822
+tp823
+a(S'the farmers enjoy playing tennis with colleagues and like to watch television shows'
+p824
+S'the farmers enjoy playing tennis with colleagues and likes to watch television shows'
+p825
+tp826
+a(S'the farmers enjoy playing tennis with colleagues and are twenty three years old'
+p827
+S'the farmers enjoy playing tennis with colleagues and is twenty three years old'
+p828
+tp829
+a(S'the farmers enjoy playing tennis with colleagues and write in a journal every day'
+p830
+S'the farmers enjoy playing tennis with colleagues and writes in a journal every day'
+p831
+tp832
+a(S'the farmers write in a journal every day and know many different foreign languages'
+p833
+S'the farmers write in a journal every day and knows many different foreign languages'
+p834
+tp835
+a(S'the farmers write in a journal every day and like to watch television shows'
+p836
+S'the farmers write in a journal every day and likes to watch television shows'
+p837
+tp838
+a(S'the farmers write in a journal every day and are twenty three years old'
+p839
+S'the farmers write in a journal every day and is twenty three years old'
+p840
+tp841
+a(S'the farmers write in a journal every day and enjoy playing tennis with colleagues'
+p842
+S'the farmers write in a journal every day and enjoys playing tennis with colleagues'
+p843
+tp844
+a(S'the managers know many different foreign languages and like to watch television shows'
+p845
+S'the managers know many different foreign languages and likes to watch television shows'
+p846
+tp847
+a(S'the managers know many different foreign languages and are twenty three years old'
+p848
+S'the managers know many different foreign languages and is twenty three years old'
+p849
+tp850
+a(S'the managers know many different foreign languages and enjoy playing tennis with colleagues'
+p851
+S'the managers know many different foreign languages and enjoys playing tennis with colleagues'
+p852
+tp853
+a(S'the managers know many different foreign languages and write in a journal every day'
+p854
+S'the managers know many different foreign languages and writes in a journal every day'
+p855
+tp856
+a(S'the managers like to watch television shows and know many different foreign languages'
+p857
+S'the managers like to watch television shows and knows many different foreign languages'
+p858
+tp859
+a(S'the managers like to watch television shows and are twenty three years old'
+p860
+S'the managers like to watch television shows and is twenty three years old'
+p861
+tp862
+a(S'the managers like to watch television shows and enjoy playing tennis with colleagues'
+p863
+S'the managers like to watch television shows and enjoys playing tennis with colleagues'
+p864
+tp865
+a(S'the managers like to watch television shows and write in a journal every day'
+p866
+S'the managers like to watch television shows and writes in a journal every day'
+p867
+tp868
+a(S'the managers are twenty three years old and know many different foreign languages'
+p869
+S'the managers are twenty three years old and knows many different foreign languages'
+p870
+tp871
+a(S'the managers are twenty three years old and like to watch television shows'
+p872
+S'the managers are twenty three years old and likes to watch television shows'
+p873
+tp874
+a(S'the managers are twenty three years old and enjoy playing tennis with colleagues'
+p875
+S'the managers are twenty three years old and enjoys playing tennis with colleagues'
+p876
+tp877
+a(S'the managers are twenty three years old and write in a journal every day'
+p878
+S'the managers are twenty three years old and writes in a journal every day'
+p879
+tp880
+a(S'the managers enjoy playing tennis with colleagues and know many different foreign languages'
+p881
+S'the managers enjoy playing tennis with colleagues and knows many different foreign languages'
+p882
+tp883
+a(S'the managers enjoy playing tennis with colleagues and like to watch television shows'
+p884
+S'the managers enjoy playing tennis with colleagues and likes to watch television shows'
+p885
+tp886
+a(S'the managers enjoy playing tennis with colleagues and are twenty three years old'
+p887
+S'the managers enjoy playing tennis with colleagues and is twenty three years old'
+p888
+tp889
+a(S'the managers enjoy playing tennis with colleagues and write in a journal every day'
+p890
+S'the managers enjoy playing tennis with colleagues and writes in a journal every day'
+p891
+tp892
+a(S'the managers write in a journal every day and know many different foreign languages'
+p893
+S'the managers write in a journal every day and knows many different foreign languages'
+p894
+tp895
+a(S'the managers write in a journal every day and like to watch television shows'
+p896
+S'the managers write in a journal every day and likes to watch television shows'
+p897
+tp898
+a(S'the managers write in a journal every day and are twenty three years old'
+p899
+S'the managers write in a journal every day and is twenty three years old'
+p900
+tp901
+a(S'the managers write in a journal every day and enjoy playing tennis with colleagues'
+p902
+S'the managers write in a journal every day and enjoys playing tennis with colleagues'
+p903
+tp904
+a(S'the customers know many different foreign languages and like to watch television shows'
+p905
+S'the customers know many different foreign languages and likes to watch television shows'
+p906
+tp907
+a(S'the customers know many different foreign languages and are twenty three years old'
+p908
+S'the customers know many different foreign languages and is twenty three years old'
+p909
+tp910
+a(S'the customers know many different foreign languages and enjoy playing tennis with colleagues'
+p911
+S'the customers know many different foreign languages and enjoys playing tennis with colleagues'
+p912
+tp913
+a(S'the customers know many different foreign languages and write in a journal every day'
+p914
+S'the customers know many different foreign languages and writes in a journal every day'
+p915
+tp916
+a(S'the customers like to watch television shows and know many different foreign languages'
+p917
+S'the customers like to watch television shows and knows many different foreign languages'
+p918
+tp919
+a(S'the customers like to watch television shows and are twenty three years old'
+p920
+S'the customers like to watch television shows and is twenty three years old'
+p921
+tp922
+a(S'the customers like to watch television shows and enjoy playing tennis with colleagues'
+p923
+S'the customers like to watch television shows and enjoys playing tennis with colleagues'
+p924
+tp925
+a(S'the customers like to watch television shows and write in a journal every day'
+p926
+S'the customers like to watch television shows and writes in a journal every day'
+p927
+tp928
+a(S'the customers are twenty three years old and know many different foreign languages'
+p929
+S'the customers are twenty three years old and knows many different foreign languages'
+p930
+tp931
+a(S'the customers are twenty three years old and like to watch television shows'
+p932
+S'the customers are twenty three years old and likes to watch television shows'
+p933
+tp934
+a(S'the customers are twenty three years old and enjoy playing tennis with colleagues'
+p935
+S'the customers are twenty three years old and enjoys playing tennis with colleagues'
+p936
+tp937
+a(S'the customers are twenty three years old and write in a journal every day'
+p938
+S'the customers are twenty three years old and writes in a journal every day'
+p939
+tp940
+a(S'the customers enjoy playing tennis with colleagues and know many different foreign languages'
+p941
+S'the customers enjoy playing tennis with colleagues and knows many different foreign languages'
+p942
+tp943
+a(S'the customers enjoy playing tennis with colleagues and like to watch television shows'
+p944
+S'the customers enjoy playing tennis with colleagues and likes to watch television shows'
+p945
+tp946
+a(S'the customers enjoy playing tennis with colleagues and are twenty three years old'
+p947
+S'the customers enjoy playing tennis with colleagues and is twenty three years old'
+p948
+tp949
+a(S'the customers enjoy playing tennis with colleagues and write in a journal every day'
+p950
+S'the customers enjoy playing tennis with colleagues and writes in a journal every day'
+p951
+tp952
+a(S'the customers write in a journal every day and know many different foreign languages'
+p953
+S'the customers write in a journal every day and knows many different foreign languages'
+p954
+tp955
+a(S'the customers write in a journal every day and like to watch television shows'
+p956
+S'the customers write in a journal every day and likes to watch television shows'
+p957
+tp958
+a(S'the customers write in a journal every day and are twenty three years old'
+p959
+S'the customers write in a journal every day and is twenty three years old'
+p960
+tp961
+a(S'the customers write in a journal every day and enjoy playing tennis with colleagues'
+p962
+S'the customers write in a journal every day and enjoys playing tennis with colleagues'
+p963
+tp964
+a(S'the officers know many different foreign languages and like to watch television shows'
+p965
+S'the officers know many different foreign languages and likes to watch television shows'
+p966
+tp967
+a(S'the officers know many different foreign languages and are twenty three years old'
+p968
+S'the officers know many different foreign languages and is twenty three years old'
+p969
+tp970
+a(S'the officers know many different foreign languages and enjoy playing tennis with colleagues'
+p971
+S'the officers know many different foreign languages and enjoys playing tennis with colleagues'
+p972
+tp973
+a(S'the officers know many different foreign languages and write in a journal every day'
+p974
+S'the officers know many different foreign languages and writes in a journal every day'
+p975
+tp976
+a(S'the officers like to watch television shows and know many different foreign languages'
+p977
+S'the officers like to watch television shows and knows many different foreign languages'
+p978
+tp979
+a(S'the officers like to watch television shows and are twenty three years old'
+p980
+S'the officers like to watch television shows and is twenty three years old'
+p981
+tp982
+a(S'the officers like to watch television shows and enjoy playing tennis with colleagues'
+p983
+S'the officers like to watch television shows and enjoys playing tennis with colleagues'
+p984
+tp985
+a(S'the officers like to watch television shows and write in a journal every day'
+p986
+S'the officers like to watch television shows and writes in a journal every day'
+p987
+tp988
+a(S'the officers are twenty three years old and know many different foreign languages'
+p989
+S'the officers are twenty three years old and knows many different foreign languages'
+p990
+tp991
+a(S'the officers are twenty three years old and like to watch television shows'
+p992
+S'the officers are twenty three years old and likes to watch television shows'
+p993
+tp994
+a(S'the officers are twenty three years old and enjoy playing tennis with colleagues'
+p995
+S'the officers are twenty three years old and enjoys playing tennis with colleagues'
+p996
+tp997
+a(S'the officers are twenty three years old and write in a journal every day'
+p998
+S'the officers are twenty three years old and writes in a journal every day'
+p999
+tp1000
+a(S'the officers enjoy playing tennis with colleagues and know many different foreign languages'
+p1001
+S'the officers enjoy playing tennis with colleagues and knows many different foreign languages'
+p1002
+tp1003
+a(S'the officers enjoy playing tennis with colleagues and like to watch television shows'
+p1004
+S'the officers enjoy playing tennis with colleagues and likes to watch television shows'
+p1005
+tp1006
+a(S'the officers enjoy playing tennis with colleagues and are twenty three years old'
+p1007
+S'the officers enjoy playing tennis with colleagues and is twenty three years old'
+p1008
+tp1009
+a(S'the officers enjoy playing tennis with colleagues and write in a journal every day'
+p1010
+S'the officers enjoy playing tennis with colleagues and writes in a journal every day'
+p1011
+tp1012
+a(S'the officers write in a journal every day and know many different foreign languages'
+p1013
+S'the officers write in a journal every day and knows many different foreign languages'
+p1014
+tp1015
+a(S'the officers write in a journal every day and like to watch television shows'
+p1016
+S'the officers write in a journal every day and likes to watch television shows'
+p1017
+tp1018
+a(S'the officers write in a journal every day and are twenty three years old'
+p1019
+S'the officers write in a journal every day and is twenty three years old'
+p1020
+tp1021
+a(S'the officers write in a journal every day and enjoy playing tennis with colleagues'
+p1022
+S'the officers write in a journal every day and enjoys playing tennis with colleagues'
+p1023
+tp1024
+a(S'the teachers know many different foreign languages and like to watch television shows'
+p1025
+S'the teachers know many different foreign languages and likes to watch television shows'
+p1026
+tp1027
+a(S'the teachers know many different foreign languages and are twenty three years old'
+p1028
+S'the teachers know many different foreign languages and is twenty three years old'
+p1029
+tp1030
+a(S'the teachers know many different foreign languages and enjoy playing tennis with colleagues'
+p1031
+S'the teachers know many different foreign languages and enjoys playing tennis with colleagues'
+p1032
+tp1033
+a(S'the teachers know many different foreign languages and write in a journal every day'
+p1034
+S'the teachers know many different foreign languages and writes in a journal every day'
+p1035
+tp1036
+a(S'the teachers like to watch television shows and know many different foreign languages'
+p1037
+S'the teachers like to watch television shows and knows many different foreign languages'
+p1038
+tp1039
+a(S'the teachers like to watch television shows and are twenty three years old'
+p1040
+S'the teachers like to watch television shows and is twenty three years old'
+p1041
+tp1042
+a(S'the teachers like to watch television shows and enjoy playing tennis with colleagues'
+p1043
+S'the teachers like to watch television shows and enjoys playing tennis with colleagues'
+p1044
+tp1045
+a(S'the teachers like to watch television shows and write in a journal every day'
+p1046
+S'the teachers like to watch television shows and writes in a journal every day'
+p1047
+tp1048
+a(S'the teachers are twenty three years old and know many different foreign languages'
+p1049
+S'the teachers are twenty three years old and knows many different foreign languages'
+p1050
+tp1051
+a(S'the teachers are twenty three years old and like to watch television shows'
+p1052
+S'the teachers are twenty three years old and likes to watch television shows'
+p1053
+tp1054
+a(S'the teachers are twenty three years old and enjoy playing tennis with colleagues'
+p1055
+S'the teachers are twenty three years old and enjoys playing tennis with colleagues'
+p1056
+tp1057
+a(S'the teachers are twenty three years old and write in a journal every day'
+p1058
+S'the teachers are twenty three years old and writes in a journal every day'
+p1059
+tp1060
+a(S'the teachers enjoy playing tennis with colleagues and know many different foreign languages'
+p1061
+S'the teachers enjoy playing tennis with colleagues and knows many different foreign languages'
+p1062
+tp1063
+a(S'the teachers enjoy playing tennis with colleagues and like to watch television shows'
+p1064
+S'the teachers enjoy playing tennis with colleagues and likes to watch television shows'
+p1065
+tp1066
+a(S'the teachers enjoy playing tennis with colleagues and are twenty three years old'
+p1067
+S'the teachers enjoy playing tennis with colleagues and is twenty three years old'
+p1068
+tp1069
+a(S'the teachers enjoy playing tennis with colleagues and write in a journal every day'
+p1070
+S'the teachers enjoy playing tennis with colleagues and writes in a journal every day'
+p1071
+tp1072
+a(S'the teachers write in a journal every day and know many different foreign languages'
+p1073
+S'the teachers write in a journal every day and knows many different foreign languages'
+p1074
+tp1075
+a(S'the teachers write in a journal every day and like to watch television shows'
+p1076
+S'the teachers write in a journal every day and likes to watch television shows'
+p1077
+tp1078
+a(S'the teachers write in a journal every day and are twenty three years old'
+p1079
+S'the teachers write in a journal every day and is twenty three years old'
+p1080
+tp1081
+a(S'the teachers write in a journal every day and enjoy playing tennis with colleagues'
+p1082
+S'the teachers write in a journal every day and enjoys playing tennis with colleagues'
+p1083
+tp1084
+a(S'the senators know many different foreign languages and like to watch television shows'
+p1085
+S'the senators know many different foreign languages and likes to watch television shows'
+p1086
+tp1087
+a(S'the senators know many different foreign languages and are twenty three years old'
+p1088
+S'the senators know many different foreign languages and is twenty three years old'
+p1089
+tp1090
+a(S'the senators know many different foreign languages and enjoy playing tennis with colleagues'
+p1091
+S'the senators know many different foreign languages and enjoys playing tennis with colleagues'
+p1092
+tp1093
+a(S'the senators know many different foreign languages and write in a journal every day'
+p1094
+S'the senators know many different foreign languages and writes in a journal every day'
+p1095
+tp1096
+a(S'the senators like to watch television shows and know many different foreign languages'
+p1097
+S'the senators like to watch television shows and knows many different foreign languages'
+p1098
+tp1099
+a(S'the senators like to watch television shows and are twenty three years old'
+p1100
+S'the senators like to watch television shows and is twenty three years old'
+p1101
+tp1102
+a(S'the senators like to watch television shows and enjoy playing tennis with colleagues'
+p1103
+S'the senators like to watch television shows and enjoys playing tennis with colleagues'
+p1104
+tp1105
+a(S'the senators like to watch television shows and write in a journal every day'
+p1106
+S'the senators like to watch television shows and writes in a journal every day'
+p1107
+tp1108
+a(S'the senators are twenty three years old and know many different foreign languages'
+p1109
+S'the senators are twenty three years old and knows many different foreign languages'
+p1110
+tp1111
+a(S'the senators are twenty three years old and like to watch television shows'
+p1112
+S'the senators are twenty three years old and likes to watch television shows'
+p1113
+tp1114
+a(S'the senators are twenty three years old and enjoy playing tennis with colleagues'
+p1115
+S'the senators are twenty three years old and enjoys playing tennis with colleagues'
+p1116
+tp1117
+a(S'the senators are twenty three years old and write in a journal every day'
+p1118
+S'the senators are twenty three years old and writes in a journal every day'
+p1119
+tp1120
+a(S'the senators enjoy playing tennis with colleagues and know many different foreign languages'
+p1121
+S'the senators enjoy playing tennis with colleagues and knows many different foreign languages'
+p1122
+tp1123
+a(S'the senators enjoy playing tennis with colleagues and like to watch television shows'
+p1124
+S'the senators enjoy playing tennis with colleagues and likes to watch television shows'
+p1125
+tp1126
+a(S'the senators enjoy playing tennis with colleagues and are twenty three years old'
+p1127
+S'the senators enjoy playing tennis with colleagues and is twenty three years old'
+p1128
+tp1129
+a(S'the senators enjoy playing tennis with colleagues and write in a journal every day'
+p1130
+S'the senators enjoy playing tennis with colleagues and writes in a journal every day'
+p1131
+tp1132
+a(S'the senators write in a journal every day and know many different foreign languages'
+p1133
+S'the senators write in a journal every day and knows many different foreign languages'
+p1134
+tp1135
+a(S'the senators write in a journal every day and like to watch television shows'
+p1136
+S'the senators write in a journal every day and likes to watch television shows'
+p1137
+tp1138
+a(S'the senators write in a journal every day and are twenty three years old'
+p1139
+S'the senators write in a journal every day and is twenty three years old'
+p1140
+tp1141
+a(S'the senators write in a journal every day and enjoy playing tennis with colleagues'
+p1142
+S'the senators write in a journal every day and enjoys playing tennis with colleagues'
+p1143
+tp1144
+a(S'the consultants know many different foreign languages and like to watch television shows'
+p1145
+S'the consultants know many different foreign languages and likes to watch television shows'
+p1146
+tp1147
+a(S'the consultants know many different foreign languages and are twenty three years old'
+p1148
+S'the consultants know many different foreign languages and is twenty three years old'
+p1149
+tp1150
+a(S'the consultants know many different foreign languages and enjoy playing tennis with colleagues'
+p1151
+S'the consultants know many different foreign languages and enjoys playing tennis with colleagues'
+p1152
+tp1153
+a(S'the consultants know many different foreign languages and write in a journal every day'
+p1154
+S'the consultants know many different foreign languages and writes in a journal every day'
+p1155
+tp1156
+a(S'the consultants like to watch television shows and know many different foreign languages'
+p1157
+S'the consultants like to watch television shows and knows many different foreign languages'
+p1158
+tp1159
+a(S'the consultants like to watch television shows and are twenty three years old'
+p1160
+S'the consultants like to watch television shows and is twenty three years old'
+p1161
+tp1162
+a(S'the consultants like to watch television shows and enjoy playing tennis with colleagues'
+p1163
+S'the consultants like to watch television shows and enjoys playing tennis with colleagues'
+p1164
+tp1165
+a(S'the consultants like to watch television shows and write in a journal every day'
+p1166
+S'the consultants like to watch television shows and writes in a journal every day'
+p1167
+tp1168
+a(S'the consultants are twenty three years old and know many different foreign languages'
+p1169
+S'the consultants are twenty three years old and knows many different foreign languages'
+p1170
+tp1171
+a(S'the consultants are twenty three years old and like to watch television shows'
+p1172
+S'the consultants are twenty three years old and likes to watch television shows'
+p1173
+tp1174
+a(S'the consultants are twenty three years old and enjoy playing tennis with colleagues'
+p1175
+S'the consultants are twenty three years old and enjoys playing tennis with colleagues'
+p1176
+tp1177
+a(S'the consultants are twenty three years old and write in a journal every day'
+p1178
+S'the consultants are twenty three years old and writes in a journal every day'
+p1179
+tp1180
+a(S'the consultants enjoy playing tennis with colleagues and know many different foreign languages'
+p1181
+S'the consultants enjoy playing tennis with colleagues and knows many different foreign languages'
+p1182
+tp1183
+a(S'the consultants enjoy playing tennis with colleagues and like to watch television shows'
+p1184
+S'the consultants enjoy playing tennis with colleagues and likes to watch television shows'
+p1185
+tp1186
+a(S'the consultants enjoy playing tennis with colleagues and are twenty three years old'
+p1187
+S'the consultants enjoy playing tennis with colleagues and is twenty three years old'
+p1188
+tp1189
+a(S'the consultants enjoy playing tennis with colleagues and write in a journal every day'
+p1190
+S'the consultants enjoy playing tennis with colleagues and writes in a journal every day'
+p1191
+tp1192
+a(S'the consultants write in a journal every day and know many different foreign languages'
+p1193
+S'the consultants write in a journal every day and knows many different foreign languages'
+p1194
+tp1195
+a(S'the consultants write in a journal every day and like to watch television shows'
+p1196
+S'the consultants write in a journal every day and likes to watch television shows'
+p1197
+tp1198
+a(S'the consultants write in a journal every day and are twenty three years old'
+p1199
+S'the consultants write in a journal every day and is twenty three years old'
+p1200
+tp1201
+a(S'the consultants write in a journal every day and enjoy playing tennis with colleagues'
+p1202
+S'the consultants write in a journal every day and enjoys playing tennis with colleagues'
+p1203
+tp1204
+as.
