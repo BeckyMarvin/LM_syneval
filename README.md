@@ -9,7 +9,7 @@ R. Marvin and T. Linzen. 2018. Targeted Syntactic Evaluation of Language Models.
 
 Each corpus consists of around 100M tokens, we used training (80M) and validation (10M) subsets in our experiments. All corpora were shuffled at sentence level.
 
--[train](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/train.txt) / [valid](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/valid.txt) / [test](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/test.txt) / [vocab](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/vocab.txt)
+[train](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/train.txt) / [valid](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/valid.txt) / [test](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/test.txt) / [vocab](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/vocab.txt)
 
 
 TRAINING:

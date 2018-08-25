@@ -19,3 +19,5 @@ class TestCase():
                           'npi_inanim',
                           'simple_npi_anim',
                           'simple_npi_inanim']
+
+        self.all_cases = self.agrmt_cases+self.npi_cases
