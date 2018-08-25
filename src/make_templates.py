@@ -2,9 +2,9 @@ import random
 import pickle
 import sys
 
-from Terminals import NPITerminals, AgreementTerminals
-from Templates import NPITemplate, AgreementTemplate
-from TestCases import TestCase
+from template.Terminals import NPITerminals, AgreementTerminals
+from template.Templates import NPITemplate, AgreementTemplate
+from template.TestCases import TestCase
                           
 class MakeAgreementTemplate():
     def __init__(self):
@@ -118,16 +118,14 @@ class MakeTestCase():
         sent_templates = {}
         preterminals, templates = self.template.rules[self.test_case]
         if templates is not None:
-            for template in templates:
-                # template = dictionary containing the indices that must match and indices that we can vary
-                sents = self.template.make_variable_sents(preterminals, template['match'], template['vary'])
-                for k in sents.keys():
-                    if k not in sent_templates:
-                        sent_templates[k] = []
-                    gram = list(self.expand_sent(sents[k][0]))
-                    ungram = list(self.expand_sent(sents[k][1]))
-                    for i in range(len(gram)):
-                        sent_templates[k].append((gram[i],ungram[i]))
+            sents = self.template.make_variable_sents(preterminals, templates['match'], templates['vary'])
+            for k in sents.keys():
+                if k not in sent_templates:
+                    sent_templates[k] = []
+                gram = list(self.expand_sent(sents[k][0]))
+                ungram = list(self.expand_sent(sents[k][1]))
+                for i in range(len(gram)):
+                    sent_templates[k].append((gram[i],ungram[i]))
         else:
             sents = self.template.make_variable_sents(preterminals, simple=self.test_case.startswith('simple'))
             for k in sents.keys():
