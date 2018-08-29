@@ -3,9 +3,12 @@ import pickle
 import os
 import subprocess
 import operator
+import logging
 from progress.bar import Bar
-from tester import TestWriter
+from tester.TestWriter import TestWriter
 from template.TestCases import TestCase
+
+logging.basicConfig(level=logging.INFO)
 
 parser = argparse.ArgumentParser(description="Parameters for testing a language model")
 
@@ -35,33 +38,32 @@ else:
 
 all_test_sents = {}
 for test_name in tests:
-    test_sents = pickle.load(open(template_dir+"/"+test_name+".pickle", 'rb'))
+    test_sents = pickle.load(open(args.template_dir+"/"+test_name+".pickle", 'rb'))
     all_test_sents[test_name] = test_sents
 
 writer.write_tests(all_test_sents)
 name_lengths = writer.name_lengths
 key_lengths = writer.key_lengths
-test_LM(name_lengths, key_lengths, args.model, args.lm_data)
 
-def test_LM(name_lengths, key_lengths, model, lm_data):
+def test_LM():
     if args.model_type.lower() == "ngram":
         logging.info("Testing unigram...")
         os.system('./test_unigram.sh > unigram.output')
-        unigram_results = score_unigram(name_lengths, key_lengths)
+        unigram_results = score_unigram()
         with open(args.model_type+"_unigram_results.pickle", 'wb') as f:
             pickle.dump(unigram_results, f)
         logging.info("Testing ngram...")
         os.system('./test_ngram.sh > ngram.output')
-        results = score_ngram(name_lengths, key_lengths, unigram_results)
+        results = score_ngram(unigram_results)
     else:       
         logging.info("Testing RNN...")
-        os.system('../example_scripts/test.sh '+ model + ' ' + lm_data + ' > '+ 'rnn.output')
-        results = score_rnn(name_lengths, key_lengths)
+        os.system('../example_scripts/test.sh '+ args.template_dir + ' ' +  args.model + ' ' + args.lm_data + ' ' + args.output_file + ' > '+ 'rnn.output')
+        results = score_rnn()
     with open(args.model_type+"_results.pickle", 'wb') as f:
         pickle.dump(results, f)
 
-def score_unigram(name_lengths, key_lengths):
-    print "Scoring unigram..."
+def score_unigram():
+    logging.info("Scoring unigram...")
     fin = open("unigram.output", 'r')
     all_scores = {}
     sent = ""
@@ -76,7 +78,7 @@ def score_unigram(name_lengths, key_lengths):
     fin.close()
     return all_scores
 
-def score_ngram(name_lengths, key_lengths, unigram_results):
+def score_ngram(unigram_results):
     fin = open("ngram.output", 'r')
     all_scores = {}
     i = 0
@@ -116,7 +118,7 @@ def score_ngram(name_lengths, key_lengths, unigram_results):
     return all_scores
 
 
-def score_rnn(name_lengths, key_lengths):
+def score_rnn():
     logging.info("Scoring RNN...")
     with open('rnn.output', 'r') as f:
         all_scores = {}
@@ -124,7 +126,7 @@ def score_rnn(name_lengths, key_lengths):
         score = 0.
         sent = []
         prev_sentid = -1
-        for line in fin:
+        for line in f:
             if line.strip() == "":
                 first = True
             elif "===========================" in line:
@@ -159,3 +161,6 @@ def clean_files(mode):
         os.system('rm ngram.output unigram.output')
     else:
         os.system('rm rnn.output')
+
+
+test_LM()

@@ -170,24 +170,26 @@ class MakeTestCase():
 def main():
     agrmt_template = MakeAgreementTemplate()
     npi_template = MakeNPITemplate()
+
+    testcase = TestCase()
     
-    agrmt_test_cases = TestCase.agrmt_cases
-    npi_test_cases = TestCase.npi_cases
+    agrmt_test_cases = testcase.agrmt_cases
+    npi_test_cases = testcase.npi_cases
     
     if len(sys.argv) != 2:
-        print "Usage: python make_templates.py [template_dir]"
+        print("Usage: python make_templates.py [template_dir]")
         sys.exit(1)
         
     out_dir = sys.argv[1]
         
     for case in agrmt_test_cases:
-        print "case:",case
+        print("case:",case)
         sents = MakeTestCase(agrmt_template, case)
         with open(out_dir+"/"+case+".pickle", 'wb') as f:
             pickle.dump(sents.sent_templates, f)
     for case in npi_test_cases:
-        print "case:",case
-        sents = TestCase(npi_template, case)
+        print("case:",case)
+        sents = MakeTestCase(npi_template, case)
         with open(out_dir+"/"+case+".pickle", 'wb') as f:
             pickle.dump(sents.sent_templates, f)
             

@@ -1,5 +1,5 @@
 import logging
-
+import os
 logging.basicConfig(level=logging.INFO)
 
 class TestWriter():
@@ -19,12 +19,12 @@ class TestWriter():
                 if "npi" in name:
                     multiplier=3
                 else: multiplier=2
-                key_lengths[name] = {}
+                self.key_lengths[name] = {}
                 for key in all_sents[name].keys():
                     key_length += multiplier * len(all_sents[name][key])
-                    key_lengths[name][key] = key_length
+                    self.key_lengths[name][key] = key_length
                     name_length += multiplier * len(all_sents[name][key])
                     for sent in all_sents[name][key]:
                         for i in range(len(sent)):
                             f.write(sent[i] + " .\n")
-                    name_lengths[name] = name_length
+                    self.name_lengths[name] = name_length

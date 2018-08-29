@@ -3,6 +3,7 @@ import time
 import math
 import torch
 import torch.nn as nn
+import torch.onnx
 from torch.autograd import Variable
 from progress.bar import Bar
 import data
@@ -25,7 +26,7 @@ parser = argparse.ArgumentParser(description='PyTorch RNN/LSTM language modeling
 
 parser.add_argument('--lm_data', type=str, default='./data/penn',
                     help='location of the language modeling corpus')
-parser.add_argument('--ccg_data', type=str, default='./data/ccg.02-21.common',
+parser.add_argument('--ccg_data', type=str, default=None,
                     help='location of the CCG corpus')
 parser.add_argument('--model', type=str, default='LSTM',
                     help='type of recurrent net (RNN_TANH, RNN_RELU, LSTM, GRU)')
@@ -88,6 +89,7 @@ torch.manual_seed(args.seed)
 if torch.cuda.is_available():
     if not args.cuda:
         print("WARNING: You have a CUDA device, so you should probably run with --cuda")
+        
     else:
         torch.cuda.manual_seed(args.seed)
 
@@ -139,7 +141,11 @@ corpus = data.SentenceCorpus(args.lm_data, args.ccg_data, args.save_lm_data, arg
 
 if args.test:
     test_lm_sentences, test_lm_data = corpus.test_lm
-    test_ccg_sentences, test_ccg_data = corpus.test_ccg
+    if args.ccg_data:
+        test_ccg_sentences, test_ccg_data = corpus.test_ccg
+    else:
+        test_ccg_sentences = []
+        test_ccg_data = []
 else:
     train_lm_data = batchify(corpus.train_lm, args.batch_size)
     train_ccg_data = batchify(corpus.train_ccg, args.batch_size)
@@ -245,8 +251,8 @@ def get_complexity_apply(o,t,sentid,tags=False):
 
 def apply(func, M):
     ## applies a function along a given dimension
-    tList = [func(m) for m in torch.unbind(M, dim=0) ]
-    res = torch.stack(tList, dim=0)
+    tList = [func(m) for m in torch.unbind(M,dim=0) ]
+    res = torch.stack(tList)
     return res
 
 ###############################################################################
@@ -255,8 +261,8 @@ def apply(func, M):
 
 def repackage_hidden(h):
     """Wraps hidden states in new Variables, to detach them from their history."""
-    if type(h) == Variable:
-        return Variable(h.data)
+    if isinstance(h, torch.Tensor):
+        return h.detach()
     else:
         return tuple(repackage_hidden(v) for v in h)
 
@@ -305,7 +311,7 @@ def get_batch(source, i, evaluation=False):
 def test_evaluate(test_lm_sentences, test_ccg_sentences, lm_data_source, ccg_data_source):
     # Turn on evaluation mode which disables dropout.
     model.eval()
-    total_loss = 0
+    total_loss = 0.
     ntokens = len(corpus.dictionary)
     if args.words:
         print('word sentid sentpos wlen surp entropy')#,end='')
@@ -332,10 +338,9 @@ def test_evaluate(test_lm_sentences, test_ccg_sentences, lm_data_source, ccg_dat
             hidden = model.init_hidden(1) # number of parallel sentences being processed
         data, targets = test_get_batch(sent_ids, evaluation=True)
         data=data.unsqueeze(1) # only needed if there is just a single sentence being processed
-        print data
         output, hidden = model(data, hidden)
         output_flat = output.view(-1, ntokens)
-        curr_loss = criterion(output_flat, targets).data
+        curr_loss = criterion(output_flat, targets).item()
         #curr_loss = len(data) * criterion(output_flat, targets).data # needed if there is more than a single sentence being processed
         total_loss += curr_loss
         if args.words:
@@ -350,7 +355,7 @@ def test_evaluate(test_lm_sentences, test_ccg_sentences, lm_data_source, ccg_dat
         hidden = repackage_hidden(hidden)
         bar.next()
     bar.finish()
-    return total_loss[0] / (len(lm_data_source)+len(ccg_data_source))
+    return total_loss / (len(lm_data_source)+len(ccg_data_source))
 
 def evaluate(lm_data_source, ccg_data_source):
     # Turn on evaluation mode which disables dropout.
@@ -409,11 +414,11 @@ def train():
         loss.backward()
 
         # `clip_grad_norm` helps prevent the exploding gradient problem in RNNs / LSTMs.
-        torch.nn.utils.clip_grad_norm(model.parameters(), args.clip)
+        torch.nn.utils.clip_grad_norm_(model.parameters(), args.clip)
         for p in model.parameters():
             p.data.add_(-lr, p.grad.data)
 
-        total_loss += loss.data
+        total_loss += loss.item()#data
 
         if batch % args.log_interval == 0 and batch > 0:
             cur_loss = total_loss[0] / args.log_interval
@@ -459,7 +464,7 @@ else:
 
 
     # Run on test data.
-    test_loss = test_evaluate(test_lm_data, test_ccg_data)
+    test_loss = test_evaluate(test_lm_sentences, test_ccg_sentences ,test_lm_data, test_ccg_data)
     print('=' * 89)
     print('| End of training | test loss {:5.2f} | test ppl {:8.2f}'.format(
         test_loss, math.exp(test_loss)))

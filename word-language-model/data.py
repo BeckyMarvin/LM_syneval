@@ -59,8 +59,9 @@ class SentenceCorpus(object):
                 self.train_ccg = self.valid_ccg = None
             self.save_to = self.save_dict(save_to)
         else:
+            print("Save to:",save_to)
             self.dictionary = self.load_dict(save_to)
-            self.test_lm = self.sent_tokenize_with_unks(os.path.join(lm_path, testfname))
+            self.test_lm = self.sent_tokenize_with_unks(os.path.join(lm_path,testfname))
             if ccg_path:
                 self.test_ccg = self.sent_tokenize_ccg_with_unks(os.path.join(ccg_path, testfname))
             else:
@@ -71,7 +72,8 @@ class SentenceCorpus(object):
             torch.save(self.dictionary, f, pickle_module=dill)
 
     def load_dict(self, path):
-        assert os.path.exists(path)
+        print("Path:",path)
+        #assert os.path.exists(path)
         with open(path, 'rb') as f:
             fdata = torch.load(f, pickle_module=dill)
             if type(fdata) == type(()):

@@ -1,8 +1,10 @@
+import os
 import sys
 import pickle
 import operator
 import logging
 import argparse
+from template.TestCases import TestCase
 
 logging.basicConfig(level=logging.INFO)
 
@@ -16,7 +18,7 @@ parser.add_argument('--analysis', type=str, default='full_sent',
                     help='How to compare scores (full_sent or word_only)')
 parser.add_argument('--tests', type=str, default='all',
                     help='Which constructions to test (agrmt/npi/all)')
-parser.add_argument('--anim', type=store_true, default=False,
+parser.add_argument('--anim', action='store_true', default=False,
                     help='Examine the effect of animacy on the results')
 parser.add_argument('--out_dir', type=str, default='../results',
                     help='Directory to store the results files')
@@ -31,6 +33,13 @@ if args.mode != 'overall' and args.mode != 'condensed' and args.mode != 'full':
     logging.info("ERROR: mode argument must be 'overall' or 'condensed' or 'full'")
     sys.exit(1)
 
+directory=args.out_dir+"/"+args.model_type+"/"+args.analysis
+os.system("mkdir -p " + directory)
+if os.path.exists(os.path.join(directory, "case_accs.txt")):
+    os.system("rm " + os.path.join(directory, "case_accs.txt"))
+if os.path.exists(os.path.join(directory, "individual_accs.txt")):
+    os.system("rm " + os.path.join(directory, "individual_accs.txt"))
+    
 testcase = TestCase()
 if args.tests == 'agrmt':
     tests = testcase.agrmt_cases
@@ -50,27 +59,17 @@ if not args.anim:
         else:
             new_name = name
         for sub_case in results[name]:
-            joined_results.get(new_name, {}).get(sub_case,[]) += results[name][sub_case]
+            if new_name not in joined_results:
+                joined_results[new_name] = {}
+            if sub_case not in joined_results[new_name]:
+                joined_results[new_name][sub_case] = []
+            joined_results[new_name][sub_case] += results[name][sub_case]
     # dump joined results to .pickle file
     pickle.dump(joined_results, open(args.results_file.split(".pickle")[0]+".joined.pickle", 'wb'))
 else:
     joined_results = results
 
-# save overall results to file
-with open(args.out_dir+"/"+args.model_type+"/"+args.analysis+"/overall_accs.txt", 'w') as f:
-    for name in joined_results.keys():
-        if "npi" in name:
-            f.write("############\n",name," - NPI:\n############\n")
-            sents = analyze_npi_results(joined_results[name], word_only=args.analysis=='word_only')
-            overall_gi, overall_iu, overall_gu = display_npi_results(name, sents)
-            f.write(name+"(grammatical vs. intrusive): "+str(overall_gi)+"\n")
-            f.write(name+"(intrusive vs. ungrammatical): "+str(overall_iu)+"\n")
-            f.write(name+"(grammatical vs. ungrammatical): "+str(overall_gu)+"\n")
-        else:
-            f.write("############\n",name," - SUBJECT/VERB:\n############\n")
-            sents = analyze_agrmt_results(joined_results[name], word_only=args.analysis=='word_only')
-            overall = display_agrmt_results(name, sents)
-            overall_out.write(name+": "+str(overall)+"\n")
+
 
 def is_more_probable(sent_a, sent_b, word_only=False):
     if len(sent_a) != len(sent_b):
@@ -147,15 +146,16 @@ def display_agrmt_results(name, sents):
         total += len(correct_sents[case]) + len(incorrect_sents[case])
     # print case-by-case-accuracies
     if args.mode != 'overall':
-        case_out = open(args.out_dir+"/"+args.model_type+"/"+args.analysis+"/case_accs.txt", 'w')
-        case_out.write("OVERALL ACC: "+str(float(overall_correct)/total)+"\n")
-        for (case,score) in sorted(case_accs.iteritems(), key=lambda (k,v):(v,k)):
+        case_out = open(directory+"/case_accs.txt", 'a')
+        case_out.write("OVERALL ACC - " + name + " : "+str(float(overall_correct)/total)+"\n")
+        for (case,score) in sorted(case_accs.items(), key=operator.itemgetter(1)):
             case_out.write(str(case)+":\n")
             case_out.write(strings[case]+": "+str(round(score,4))+"\n")
+        case_out.write("\n")
         case_out.close()
     # print individual scores
     if args.mode == 'full':
-        fout = open(args.out_dir+"/"+args.model_type+"/"+args.analysis+"/individual_accs.txt", 'w')
+        fout = open(directory+"/individual_accs.txt", 'a')
         fout.write("Examples that the LM predicts incorrectly:\n")
         for case in incorrect_sents.keys():
             count = 0
@@ -171,6 +171,7 @@ def display_agrmt_results(name, sents):
                     count += 1
                 else:
                     break
+        fout.write("\n")
         fout.close()
     return float(overall_correct)/total
 
@@ -208,21 +209,24 @@ def display_npi_results(name, sents):
 
     # print case-by-case accuracies
     if args.mode != "overall":
-        case_out = open(args.out_dir+"/"+args.model_type+"/"+args.analysis+"/case_accs.txt", 'w')
+        case_out = open(directory+"/case_accs.txt", 'a')
         # print overall accuracies
+        case_out.write("OVERALL ACCS - " + name + "\n")
         case_out.write("OVERALL P(GRAMMATICAL) > P(INTRUSIVE): "+str(float(overall_gi)/total_gi)+"\n")
         case_out.write("OVERALL P(INTRUSIVE) > P(UNGRAMMATICAL): "+str(float(overall_iu)/total_iu)+"\n")
         case_out.write("OVERALL P(GRAMMATICAL) > P(UNGRAMMATICAL): "+str(float(overall_gu)/total_gu)+"\n")
-        for (case,score) in sorted(gi_case_accs.iteritems(), key=lambda (k,v):(v,k)):
+        for (case,score) in sorted(gi_case_accs.items(), key=operator.itemgetter(1)):
             case_out.write(str(case)+":\n")
             case_out.write(strings[case]+":\n")
             case_out.write("Grammatical > intrusive: "+str(round(score,4))+"\n")
             case_out.write("Grammatical > ungrammatical: "+str(gu_case_accs[case])+"\n")
             case_out.write("Intrusive > ungrammatical: "+str(iu_case_accs[case])+"\n")
+        case_out.write("\n")
+        case_out.close()
     
     # print individual scores
     if args.mode == "full":
-        fout = open(args.out_dir+"/"+args.model_type+"/"+args.analysis+"/individual_accs.txt", 'w')
+        fout = open(directory+"/individual_accs.txt", 'a')
         fout.write("Examples where the LM prefers the intrusive licensor over the grammatical case:\n")
         for case in gi_intrusive_sents.keys():
             count = 0
@@ -268,6 +272,25 @@ def display_npi_results(name, sents):
                     count += 1
                 else:
                     break
+        fout.write("\n")
         fout.close()
     return float(overall_gi)/total_gi, float(overall_iu)/total_iu, float(overall_gu)/total_gu
 
+
+# save overall results to file
+directory=args.out_dir+"/"+args.model_type+"/"+args.analysis
+os.system("mkdir -p " + directory)
+with open(directory+"/overall_accs.txt", 'w') as f:
+    for name in joined_results.keys():
+        if "npi" in name:
+            f.write("############\n"+name+" - NPI:\n############\n")
+            sents = analyze_npi_results(joined_results[name], word_only=args.analysis=='word_only')
+            overall_gi, overall_iu, overall_gu = display_npi_results(name, sents)
+            f.write(name+"(grammatical vs. intrusive): "+str(overall_gi)+"\n")
+            f.write(name+"(intrusive vs. ungrammatical): "+str(overall_iu)+"\n")
+            f.write(name+"(grammatical vs. ungrammatical): "+str(overall_gu)+"\n")
+        else:
+            f.write("############\n"+name+" - SUBJECT/VERB:\n############\n")
+            sents = analyze_agrmt_results(joined_results[name], word_only=args.analysis=='word_only')
+            overall = display_agrmt_results(name, sents)
+            f.write(name+": "+str(overall)+"\n")
