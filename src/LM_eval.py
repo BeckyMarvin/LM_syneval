@@ -50,12 +50,12 @@ key_lengths = writer.key_lengths
 def test_LM():
     if args.model_type.lower() == "ngram":
         logging.info("Testing unigram...")
-        os.system('./test_unigram.sh > unigram.output')
+        os.system('../example_scripts/test_unigram.sh > unigram.output')
         unigram_results = score_unigram()
         with open(args.model_type+"_unigram_results.pickle", 'wb') as f:
             pickle.dump(unigram_results, f)
         logging.info("Testing ngram...")
-        os.system('./test_ngram.sh > ngram.output')
+        os.system('../example_scripts/test_ngram.sh > ngram.output')
         results = score_ngram(unigram_results)
     else:       
         logging.info("Testing RNN...")

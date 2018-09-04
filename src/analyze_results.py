@@ -91,14 +91,14 @@ def analyze_agrmt_results(results):
             if is_more_probable(grammatical, ungrammatical):
                 if args.unit_type != 'word':
                     print(grammatical)
-                    grammatical = ''.join(''.join(grammatical).split(' '))
-                    ungrammatical = ''.join(''.join(ungrammatical).split(' '))
+                    grammatical = ''.join(''.join(grammatical).split('\s'))
+                    ungrammatical = ''.join(''.join(ungrammatical).split('\s'))
                 correct_sents[case].append((grammatical, ungrammatical))
             else:
                 if args.unit_type != 'word':
                     print(grammatical)
-                    grammatical = ''.join(''.join(grammatical).split(' '))
-                    ungrammatical = ''.join(''.join(ungrammatical).split(' '))
+                    grammatical = ''.join(''.join(grammatical).split('\s'))
+                    ungrammatical = ''.join(''.join(ungrammatical).split('\s'))
                 incorrect_sents[case].append((grammatical, ungrammatical))
     return correct_sents, incorrect_sents
 
@@ -115,9 +115,9 @@ def analyze_npi_results(results):
             intrusive = results[case][i+1]
             ungrammatical = results[case][i+2]
             if args.unit_type != 'word':
-                g_sent = ''.join(''.join(grammatical).split(' '))
-                i_sent = ''.join(''.join(intrusive).split(' '))
-                u_sent = ''.join(''.join(ungrammatical).split(' '))
+                g_sent = ''.join(''.join(grammatical).split('\s'))
+                i_sent = ''.join(''.join(intrusive).split('\s'))
+                u_sent = ''.join(''.join(ungrammatical).split('\s'))
             if is_more_probable(grammatical, intrusive):
                 sentences['gi_g'][case].append((g_sent, i_sent, u_sent))
             else:
