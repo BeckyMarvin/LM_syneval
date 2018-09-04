@@ -24,6 +24,8 @@ parser.add_argument('--out_dir', type=str, default='../results',
                     help='Directory to store the results files')
 parser.add_argument('--mode', type=str, default='overall',
                     help='Level of detail to report (overall/condensed/full)')
+parser.add_argument('--unit_type', type=str, default='word',
+                    help='Unit used for language modeling (word/char)')
 args = parser.parse_args()
 # check args
 if args.analysis != 'full_sent' and args.analysis != 'word_only':
@@ -69,17 +71,15 @@ if not args.anim:
 else:
     joined_results = results
 
-
-
-def is_more_probable(sent_a, sent_b, word_only=False):
-    if len(sent_a) != len(sent_b):
+def is_more_probable(sent_a, sent_b):
+    if len(sent_a) != len(sent_b) and args.unit_type == 'word':
         logging.info("ERROR: Mismatch in sentence lengths: (1) ",sent_a, " vs (2) ",sent_b)
-    if word_only:
+    if args.analysis == 'word_only':
         index = [sent_a[i][0]!=sent_b[i][0] for i in range(len(sent_a))].index(True)
         return sent_a[index][1] > sent_b[index][1]
-    return sum([sent_a[i][1]-sent_b[i][1] for i in range(len(sent_a))]) > 0
+    return sum([sent_a[i][1] for i in range(len(sent_a))]) > sum([sent_b[i][1] for i in range(len(sent_b))])
 
-def analyze_agrmt_results(results, word_only=False):
+def analyze_agrmt_results(results):
     correct_sents = {}
     incorrect_sents = {}
     for case in results.keys():
@@ -88,13 +88,21 @@ def analyze_agrmt_results(results, word_only=False):
         for i in range(0,len(results[case]),2):
             grammatical = results[case][i]
             ungrammatical = results[case][i+1]
-            if is_more_probable(grammatical, ungrammatical, word_only=word_only):
+            if is_more_probable(grammatical, ungrammatical):
+                if args.unit_type != 'word':
+                    print(grammatical)
+                    grammatical = ''.join(''.join(grammatical).split(' '))
+                    ungrammatical = ''.join(''.join(ungrammatical).split(' '))
                 correct_sents[case].append((grammatical, ungrammatical))
             else:
+                if args.unit_type != 'word':
+                    print(grammatical)
+                    grammatical = ''.join(''.join(grammatical).split(' '))
+                    ungrammatical = ''.join(''.join(ungrammatical).split(' '))
                 incorrect_sents[case].append((grammatical, ungrammatical))
     return correct_sents, incorrect_sents
 
-def analyze_npi_results(results, word_only=False):
+def analyze_npi_results(results):
     options = ['gi_g', 'gi_i','iu_i','iu_u','gu_g','gu_u']
     sentences = {}
     for opt in options:
@@ -106,18 +114,22 @@ def analyze_npi_results(results, word_only=False):
             grammatical = results[case][i]
             intrusive = results[case][i+1]
             ungrammatical = results[case][i+2]
-            if is_more_probable(grammatical, intrusive, word_only=word_only):
-                sentences['gi_g'][case].append((grammatical, intrusive, ungrammatical))
+            if args.unit_type != 'word':
+                g_sent = ''.join(''.join(grammatical).split(' '))
+                i_sent = ''.join(''.join(intrusive).split(' '))
+                u_sent = ''.join(''.join(ungrammatical).split(' '))
+            if is_more_probable(grammatical, intrusive):
+                sentences['gi_g'][case].append((g_sent, i_sent, u_sent))
             else:
-                sentences['gi_i'][case].append((grammatical, intrusive, ungrammatical))
-            if is_more_probable(grammatical, ungrammatical, word_only=word_only):
-                sentences['gu_g'][case].append((grammatical, intrusive, ungrammatical))
+                sentences['gi_i'][case].append((g_sent, i_sent, u_sent))
+            if is_more_probable(grammatical, ungrammatical):
+                sentences['gu_g'][case].append((g_sent, i_sent, u_sent))
             else:
-                sentences['gu_u'][case].append((grammatical, intrusive, ungrammatical))
-            if is_more_probable(intrusive, ungrammatical, word_only=word_only):
-                sentences['iu_i'][case].append((grammatical, intrusive, ungrammatical))
+                sentences['gu_u'][case].append((g_sent, i_sent, u_sent))
+            if is_more_probable(intrusive, ungrammatical):
+                sentences['iu_i'][case].append((g_sent, i_sent, u_sent))
             else:
-                sentences['iu_u'][case].append((grammatical, intrusive, ungrammatical))
+                sentences['iu_u'][case].append((g_sent, i_sent, u_sent))
     return [sentences[x] for x in options]
 
 def display_agrmt_results(name, sents):
@@ -284,13 +296,13 @@ with open(directory+"/overall_accs.txt", 'w') as f:
     for name in joined_results.keys():
         if "npi" in name:
             f.write("############\n"+name+" - NPI:\n############\n")
-            sents = analyze_npi_results(joined_results[name], word_only=args.analysis=='word_only')
+            sents = analyze_npi_results(joined_results[name])
             overall_gi, overall_iu, overall_gu = display_npi_results(name, sents)
             f.write(name+"(grammatical vs. intrusive): "+str(overall_gi)+"\n")
             f.write(name+"(intrusive vs. ungrammatical): "+str(overall_iu)+"\n")
             f.write(name+"(grammatical vs. ungrammatical): "+str(overall_gu)+"\n")
         else:
             f.write("############\n"+name+" - SUBJECT/VERB:\n############\n")
-            sents = analyze_agrmt_results(joined_results[name], word_only=args.analysis=='word_only')
+            sents = analyze_agrmt_results(joined_results[name])
             overall = display_agrmt_results(name, sents)
             f.write(name+": "+str(overall)+"\n")

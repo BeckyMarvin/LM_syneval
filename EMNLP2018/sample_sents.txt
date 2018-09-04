@@ -1,0 +1,81 @@
+test case	grammatical	ungrammatical
+obj_rel_across_anim--sing_MS_MV_sing_ES_EV	the author that the dancer admires is tall.	the author that the dancer admires are tall.
+obj_rel_across_anim--sing_MS_MV_plur_ES_EV	the farmer that the dancers hate laughs.	the farmer that the dancers hate laugh.
+obj_rel_across_anim--plur_MS_MV_sing_ES_EV	the senators that the minister admires swim.	the senators that the minister admires swims.
+obj_rel_across_anim--plur_MS_MV_plur_ES_EV	the consultants that the skaters like smile.	the consultants that the skaters like smiles.
+obj_rel_within_anim--sing_ES_EV_sing_MS_MV	the surgeon that the guard admires is tall.	the surgeon that the guard admire is tall.
+obj_rel_within_anim--sing_ES_EV_plur_MS_MV	the officers that the minister admires laugh.	the officers that the minister admire laugh.
+obj_rel_within_anim--plur_ES_EV_sing_MS_MV	the author that the assistants hate is short.	the author that the assistants hates is short.
+obj_rel_within_anim--plur_ES_EV_plur_MS_MV	the pilots that the ministers hate are old.	the pilots that the ministers hates are old.
+obj_rel_across_inanim--sing_IS_IV_sing_ES_EV	the novel that the dancer likes brings joy to people.	the novel that the dancer likes bring joy to people.
+obj_rel_across_inanim--sing_IS_IV_plur_ES_EV	the song that the architects like is bad.	the song that the architects like are bad.
+obj_rel_across_inanim--plur_IS_IV_sing_ES_EV	the movies that the parent hates are new.	the movies that the parent hates is new.
+obj_rel_across_inanim--plur_IS_IV_plur_ES_EV	the paintings that the executives like are good.	the paintings that the executives like is good.
+obj_rel_within_inanim--sing_ES_EV_sing_IS_IV	the painting that the minister hates is unpopular.	the painting that the minister hate is unpopular.
+obj_rel_within_inanim--sing_ES_EV_plur_IS_IV	the books that the executive hates interest people.	the books that the executive hate interest people.
+obj_rel_within_inanim--plur_ES_EV_sing_IS_IV	the game that the ministers like is popular.	the game that the ministers likes is popular.
+obj_rel_within_inanim--plur_ES_EV_plur_IS_IV	the books that the executives hate bring joy to people.	the books that the executives hates bring joy to people.
+subj_rel--sing_MS_EV_MV_sing_ES	the consultant that likes the parent is old.	the consultant that likes the parent are old.
+subj_rel--sing_MS_EV_MV_plur_ES	the teacher that likes the ministers smiles.	the teacher that likes the ministers smile.
+subj_rel--plur_MS_EV_MV_sing_ES	the senators that hate the dancer smile.	the senators that hate the dancer smiles.
+subj_rel--plur_MS_EV_MV_plur_ES	the consultants that like the skaters are young.	the consultants that like the skaters is young.
+prep_anim--sing_MS_MV_sing_ES	the senator in front of the chef laughs.	the senator in front of the chef laugh.
+prep_anim--sing_MS_MV_plur_ES	the farmer across from the parents laughs.	the farmer across from the parents laugh.
+prep_anim--plur_MS_MV_sing_ES	the customers near the executive are short.	the customers near the executive is short.
+prep_anim--plur_MS_MV_plur_ES	the consultants near the chefs are short.	the consultants near the chefs is short.
+prep_inanim--sing_IS_IV_sing_ES	the painting from the minister is popular.	the painting from the minister are popular.
+prep_inanim--sing_IS_IV_plur_ES	the movie from the taxi drivers brings joy to people.	the movie from the taxi drivers bring joy to people.
+prep_inanim--plur_IS_IV_sing_ES	the shows by the skater are bad.	the shows by the skater is bad.
+prep_inanim--plur_IS_IV_plur_ES	the songs from the ministers bring joy to people.	the songs from the ministers brings joy to people.
+obj_rel_no_comp_across_anim--sing_MS_MV_sing_ES_EV	the pilot the architect likes swims.	the pilot the architect likes swim.
+obj_rel_no_comp_across_anim--sing_MS_MV_plur_ES_EV	the author the architects admire is tall.	the author the architects admire are tall.
+obj_rel_no_comp_across_anim--plur_MS_MV_sing_ES_EV	the officers the guard loves are tall.	the officers the guard loves is tall.
+obj_rel_no_comp_across_anim--plur_MS_MV_plur_ES_EV	the authors the ministers love are old.	the authors the ministers love is old.
+obj_rel_no_comp_within_anim--sing_ES_EV_sing_MS_MV	the teacher the parent admires laughs.	the teacher the parent admire laughs.
+obj_rel_no_comp_within_anim--sing_ES_EV_plur_MS_MV	the senators the chef loves are tall.	the senators the chef love are tall.
+obj_rel_no_comp_within_anim--plur_ES_EV_sing_MS_MV	the teacher the architects love is tall.	the teacher the architects loves is tall.
+obj_rel_no_comp_within_anim--plur_ES_EV_plur_MS_MV	the farmers the executives admire are tall.	the farmers the executives admires are tall.
+obj_rel_no_comp_across_inanim--sing_IS_IV_sing_ES_EV	the song the taxi driver hates brings joy to people.	the song the taxi driver hates bring joy to people.
+obj_rel_no_comp_across_inanim--sing_IS_IV_plur_ES_EV	the novel the taxi drivers hate is unpopular.	the novel the taxi drivers hate are unpopular.
+obj_rel_no_comp_across_inanim--plur_IS_IV_sing_ES_EV	the books the chef likes are popular.	the books the chef likes is popular.
+obj_rel_no_comp_across_inanim--plur_IS_IV_plur_ES_EV	the books the taxi drivers love are new.	the books the taxi drivers love is new.
+obj_rel_no_comp_within_inanim--sing_ES_EV_sing_IS_IV	the show the executive likes interests people.	the show the executive like interests people.
+obj_rel_no_comp_within_inanim--sing_ES_EV_plur_IS_IV	the poems the dancer hates are bad.	the poems the dancer hate are bad.
+obj_rel_no_comp_within_inanim--plur_ES_EV_sing_IS_IV	the painting the ministers like brings joy to people.	the painting the ministers likes brings joy to people.
+obj_rel_no_comp_within_inanim--plur_ES_EV_plur_IS_IV	the movies the taxi drivers like are new.	the movies the taxi drivers likes are new.
+simple_agrmt--sing_MS_MV--0	the author is tall.	the author are tall.
+simple_agrmt--sing_MS_MV--1	the surgeon is tall.	the surgeon are tall.
+simple_agrmt--sing_MS_MV--2	the surgeon is short.	the surgeon are short.
+simple_agrmt--sing_MS_MV--3	the surgeon laughs.	the surgeon laugh.
+simple_agrmt--sing_MS_MV--4	the author is young.	the author are young.
+simple_agrmt--plur_MS_MV--0	the surgeons are tall.	the surgeons is tall.
+simple_agrmt--plur_MS_MV--1	the authors laugh.	the authors laughs.
+simple_agrmt--plur_MS_MV--2	the senators are young.	the senators is young.
+simple_agrmt--plur_MS_MV--3	the pilots smile.	the pilots smiles.
+simple_agrmt--plur_MS_MV--4	the surgeons are tall.	the surgeons is tall.
+sent_comp--sing_MS_MV_sing_BS	the mechanic thought the senator is short.	the mechanic thought the senator are short.
+sent_comp--sing_MS_MV_plur_BS	the mechanics said the farmer is old.	the mechanics said the farmer are old.
+sent_comp--plur_MS_MV_sing_BS	the banker thought the authors are tall.	the banker thought the authors is tall.
+sent_comp--plur_MS_MV_plur_BS	the bankers knew the teachers are tall.	the bankers knew the teachers is tall.
+vp_coord--sing_MS_MV_MV	the officer is young and is short.	the officer is young and are short.
+vp_coord--plur_MS_MV_MV	the managers smile and are young.	the managers smile and is young.
+long_vp_coord--sing_MS_LMV_LMV	the pilot writes in a journal every day and is twenty three years old.	the pilot writes in a journal every day and are twenty three years old.
+long_vp_coord--plur_MS_LMV_LMV	the farmers are twenty three years old and like to watch television shows.	the farmers are twenty three years old and likes to watch television shows.
+reflexives_across--sing_MS_ANPHR_sing_ES_EV	the teacher that the architect admires doubted herself.	the teacher that the architect admires doubted themselves.
+reflexives_across--sing_MS_ANPHR_plur_ES_EV	the consultant that the architects love congratulated himself.	the consultant that the architects love congratulated themselves.
+reflexives_across--plur_MS_ANPHR_sing_ES_EV	the managers that the chef loves hated themselves.	the managers that the chef loves hated herself.
+reflexives_across--plur_MS_ANPHR_plur_ES_EV	the teachers that the chefs admire hurt themselves.	the teachers that the chefs admire hurt herself.
+simple_reflexives--sing_MS_ANPHR	the farmer injured herself.	the farmer injured themselves.
+simple_reflexives--plur_MS_ANPHR	the pilots disguised themselves.	the pilots disguised himself.
+reflexive_sent_comp--sing_MS_ANPHR_sing_BS	the banker said the customer congratulated himself.	the banker said the customer congratulated themselves.
+reflexive_sent_comp--sing_MS_ANPHR_plur_BS	the bankers knew the customer congratulated herself.	the bankers knew the customer congratulated themselves.
+reflexive_sent_comp--plur_MS_ANPHR_sing_BS	the banker said the customers hated themselves.	the banker said the customers hated himself.
+reflexive_sent_comp--plur_MS_ANPHR_plur_BS	the bankers knew the consultants injured themselves.	the bankers knew the consultants injured himself.
+npi_across_anim--past	few teachers that the guards hate have ever been famous.	the teachers that few guards hate have ever been famous.
+npi_across_anim--future	no authors that the skaters love will ever be popular.	the authors that no skaters love will ever be popular.
+npi_across_inanim--past	no books that the executives love have ever been seen.	the books that no executives love have ever been seen.
+npi_across_inanim--future	few poems that the chefs hate will ever be appreciated.	the poems that few chefs hate will ever be appreciated.
+simple_npi_anim--past	few pilots have ever been famous.	some pilots have ever been famous.
+simple_npi_anim--future	no managers will ever have children.	the managers will ever have children.
+simple_npi_inanim--past	no novels have ever been seen.	the novels have ever been seen.
+simple_npi_inanim--future	no books will ever be ignored.	the books will ever be ignored.

@@ -24,6 +24,8 @@ parser.add_argument('--tests', type=str, default='all',
                     help='Which constructions to test (agrmt/npi/all)')
 parser.add_argument('--model_type', type=str, required=True,
                     help='Which kind of model (RNN/multitask/ngram)')
+parser.add_argument('--unit_type', type=str, default='word',
+                    help='Kinds of units used on language model (word/char)')
 
 args = parser.parse_args()
 
@@ -41,7 +43,7 @@ for test_name in tests:
     test_sents = pickle.load(open(args.template_dir+"/"+test_name+".pickle", 'rb'))
     all_test_sents[test_name] = test_sents
 
-writer.write_tests(all_test_sents)
+writer.write_tests(all_test_sents, args.unit_type)
 name_lengths = writer.name_lengths
 key_lengths = writer.key_lengths
 

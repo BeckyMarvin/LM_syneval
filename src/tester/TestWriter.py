@@ -10,7 +10,7 @@ class TestWriter():
         self.out_file = os.path.join(self.template_dir, sent_file)
         
 
-    def write_tests(self, all_sents):
+    def write_tests(self, all_sents, unit_type):
         logging.info("Writing tests...")
         with open(self.out_file, 'w') as f:
             name_length = 0
@@ -26,5 +26,9 @@ class TestWriter():
                     name_length += multiplier * len(all_sents[name][key])
                     for sent in all_sents[name][key]:
                         for i in range(len(sent)):
-                            f.write(sent[i] + " .\n")
+                            if unit_type != 'word':
+                                chars = [x if x != ' ' else '/s' for x in sent[i]+' ']
+                                f.write(' '.join(chars)+' . /s <eos>\n')
+                            else:
+                                f.write(sent[i] + " . <eos>\n")
                     self.name_lengths[name] = name_length
