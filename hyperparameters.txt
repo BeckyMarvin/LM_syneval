@@ -28,4 +28,4 @@ num_hid=650 # number of hidden units
 lr=20.0 # learning rate
 seed=2223 # random seed
 nlayers=2 # number of layers in network
-
+order=5 # default order for an ngram model
