@@ -26,6 +26,10 @@ parser.add_argument('--model_type', type=str, required=True,
                     help='Which kind of model (RNN/multitask/ngram)')
 parser.add_argument('--unit_type', type=str, default='word',
                     help='Kinds of units used on language model (word/char)')
+parser.add_argument('--ngram_order', type=int, default=5,
+                    help='Order of the ngram model')
+parser.add_argument('--vocab', type=str, default='ngram_vocab.pkl',
+                    help='File containing the ngram vocab')
 
 args = parser.parse_args()
 
@@ -49,14 +53,14 @@ key_lengths = writer.key_lengths
 
 def test_LM():
     if args.model_type.lower() == "ngram":
-        logging.info("Testing unigram...")
-        os.system('../example_scripts/test_unigram.sh > unigram.output')
-        unigram_results = score_unigram()
         with open(args.model_type+"_unigram_results.pickle", 'wb') as f:
             pickle.dump(unigram_results, f)
         logging.info("Testing ngram...")
-        os.system('../example_scripts/test_ngram.sh > ngram.output')
-        results = score_ngram(unigram_results)
+        os.system('ngram -order ' + args.ngram_order ' -lm ' + args.model + ' -vocab ' + args.vocab + ' -ppl ' + args.template_dir+'/'+args.output_file + ' -debug 2 > ngram.output')
+        if args.ngram_order == 1:
+            results = score_unigram()
+        else:
+            results = score_ngram()
     else:       
         logging.info("Testing RNN...")
         os.system('../example_scripts/test.sh '+ args.template_dir + ' ' +  args.model + ' ' + args.lm_data + ' ' + args.output_file + ' > '+ 'rnn.output')
@@ -80,7 +84,7 @@ def score_unigram():
     fin.close()
     return all_scores
 
-def score_ngram(unigram_results):
+def score_ngram():
     fin = open("ngram.output", 'r')
     all_scores = {}
     i = 0
