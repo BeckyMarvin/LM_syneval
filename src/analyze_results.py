@@ -118,6 +118,10 @@ def analyze_npi_results(results):
                 g_sent = ''.join(''.join(grammatical).split('\s'))
                 i_sent = ''.join(''.join(intrusive).split('\s'))
                 u_sent = ''.join(''.join(ungrammatical).split('\s'))
+            else:
+                g_sent = grammatical
+                i_sent = intrusive
+                u_sent = ungrammatical
             if is_more_probable(grammatical, intrusive):
                 sentences['gi_g'][case].append((g_sent, i_sent, u_sent))
             else:
@@ -159,7 +163,7 @@ def display_agrmt_results(name, sents):
     # print case-by-case-accuracies
     if args.mode != 'overall':
         case_out = open(directory+"/case_accs.txt", 'a')
-        case_out.write("OVERALL ACC - " + name + " : "+str(float(overall_correct)/total)+"\n")
+        case_out.write("\n##########\n" + name + "\n##########\n"+"Overall acc: "+str(float(overall_correct)/total)+"\n")
         for (case,score) in sorted(case_accs.items(), key=operator.itemgetter(1)):
             case_out.write(str(case)+":\n")
             case_out.write(strings[case]+": "+str(round(score,4))+"\n")
@@ -168,16 +172,17 @@ def display_agrmt_results(name, sents):
     # print individual scores
     if args.mode == 'full':
         fout = open(directory+"/individual_accs.txt", 'a')
+        fout.write("\n##########\n" + name + "\n##########\n\n")
         fout.write("Examples that the LM predicts incorrectly:\n")
         for case in incorrect_sents.keys():
             count = 0
             fout.write(case+":\n")
             for good, bad in incorrect_sents[case]:
                 if count < 5:
-                    fout.write("Grammatical:\n")
+                    fout.write("Grammatical:"+str(round(sum([x[1] for x in good]),2))+"\n")
                     fout.write('\t'.join([x[0] for x in good])+"\n")
                     fout.write('\t'.join([str(round(x[1],2)) for x in good])+"\n")
-                    fout.write("Ungrammatical:\n")
+                    fout.write("Ungrammatical:"+str(round(sum([x[1] for x in bad]),2))+"\n")
                     fout.write('\t'.join([x[0] for x in bad])+"\n")
                     fout.write('\t'.join([str(round(x[1],2)) for x in bad])+"\n")
                     count += 1
@@ -223,7 +228,7 @@ def display_npi_results(name, sents):
     if args.mode != "overall":
         case_out = open(directory+"/case_accs.txt", 'a')
         # print overall accuracies
-        case_out.write("OVERALL ACCS - " + name + "\n")
+        case_out.write("\n##########\n" + name + "\n##########\n" + "Overall acc:\n")
         case_out.write("OVERALL P(GRAMMATICAL) > P(INTRUSIVE): "+str(float(overall_gi)/total_gi)+"\n")
         case_out.write("OVERALL P(INTRUSIVE) > P(UNGRAMMATICAL): "+str(float(overall_iu)/total_iu)+"\n")
         case_out.write("OVERALL P(GRAMMATICAL) > P(UNGRAMMATICAL): "+str(float(overall_gu)/total_gu)+"\n")
@@ -239,46 +244,47 @@ def display_npi_results(name, sents):
     # print individual scores
     if args.mode == "full":
         fout = open(directory+"/individual_accs.txt", 'a')
+        fout.write("\n##########\n" + name + "\n##########\n\n")
         fout.write("Examples where the LM prefers the intrusive licensor over the grammatical case:\n")
         for case in gi_intrusive_sents.keys():
             count = 0
             fout.write(case+":\n")
             for c,i,u in gi_intrusive_sents[case]:
                 if count < 5:
-                    fout.write("grammatical:\n")
+                    fout.write("grammatical:"+str(round(sum([x[1] for x in c]),2))+"\n")
                     fout.write('\t'.join([x[0] for x in c])+"\n")
                     fout.write('\t'.join([str(round(x[1],2)) for x in c])+"\n")
-                    fout.write("intrusive:\n")
+                    fout.write("intrusive:"+str(round(sum([x[1] for x in i]),2))+"\n")
                     fout.write('\t'.join([x[0] for x in i])+"\n")
                     fout.write('\t'.join([str(round(x[1],2)) for x in i])+"\n")
                     count += 1
                 else:
                     break
-        fout.write("Examples where the LM prefers the ungrammatical case over the intrusive licensor:\n")
+        fout.write("\nExamples where the LM prefers the ungrammatical case over the intrusive licensor:\n")
         for case in iu_ungrammatical_sents.keys():
             count = 0
             fout.write(case+":\n")
             for c,i,u in iu_ungrammatical_sents[case]:
                 if count < 5:
-                    fout.write("intrusive:\n")
+                    fout.write("intrusive:"+str(round(sum([x[1] for x in i]),2))+"\n")
                     fout.write('\t'.join([x[0] for x in i])+"\n")
                     fout.write('\t'.join([str(round(x[1],2)) for x in i])+"\n")
-                    fout.write("ungrammatical:\n")
+                    fout.write("ungrammatical:"+str(round(sum([x[1] for x in u]),2))+"\n")
                     fout.write('\t'.join([x[0] for x in u])+"\n")
                     fout.write('\t'.join([str(round(x[1],2)) for x in u])+"\n")
                     count += 1
                 else:
                     break
-        fout.write("Examples where the LM prefers the ungrammatical case over the grammatical case:\n")
+        fout.write("\nExamples where the LM prefers the ungrammatical case over the grammatical case:\n")
         for case in gu_ungrammatical_sents.keys():
             count = 0
             fout.write(case+":\n")
             for c,i,u in gu_ungrammatical_sents[case]:
                 if count < 5:
-                    fout.write("grammatical:\n")
+                    fout.write("grammatical:"+str(round(sum([x[1] for x in c]),2))+"\n")
                     fout.write('\t'.join([x[0] for x in c])+"\n")
                     fout.write('\t'.join([str(round(x[1],2)) for x in c])+"\n")
-                    fout.write("ungrammatical:\n")
+                    fout.write("ungrammatical:"+str(round(sum([x[1] for x in u]),2))+"\n")
                     fout.write('\t'.join([x[0] for x in u])+"\n")
                     fout.write('\t'.join([str(round(x[1],2)) for x in u])+"\n")
                     count += 1
@@ -295,14 +301,14 @@ os.system("mkdir -p " + directory)
 with open(directory+"/overall_accs.txt", 'w') as f:
     for name in joined_results.keys():
         if "npi" in name:
-            f.write("############\n"+name+" - NPI:\n############\n")
+            #f.write("############\n"+name+" - NPI:\n############\n")
             sents = analyze_npi_results(joined_results[name])
             overall_gi, overall_iu, overall_gu = display_npi_results(name, sents)
             f.write(name+"(grammatical vs. intrusive): "+str(overall_gi)+"\n")
             f.write(name+"(intrusive vs. ungrammatical): "+str(overall_iu)+"\n")
             f.write(name+"(grammatical vs. ungrammatical): "+str(overall_gu)+"\n")
         else:
-            f.write("############\n"+name+" - SUBJECT/VERB:\n############\n")
+            #f.write("############\n"+name+" - SUBJECT/VERB:\n############\n")
             sents = analyze_agrmt_results(joined_results[name])
             overall = display_agrmt_results(name, sents)
             f.write(name+": "+str(overall)+"\n")

@@ -96,7 +96,7 @@ def score_ngram():
             word = line.split("p( ")[1].split(" |")[0]
             score = float(line.split("[ ")[-1].split(" ]")[0])
             sent.append((word,score))
-            if word == ".":
+            if word == "<eos>":
                 name_found = False
                 for (k1,v1) in sorted(name_lengths.items(), key=operator.itemgetter(1)):
                     if i < v1 and not name_found:
