@@ -53,10 +53,8 @@ key_lengths = writer.key_lengths
 
 def test_LM():
     if args.model_type.lower() == "ngram":
-        with open(args.model_type+"_unigram_results.pickle", 'wb') as f:
-            pickle.dump(unigram_results, f)
         logging.info("Testing ngram...")
-        os.system('ngram -order ' + args.ngram_order ' -lm ' + args.model + ' -vocab ' + args.vocab + ' -ppl ' + args.template_dir+'/'+args.output_file + ' -debug 2 > ngram.output')
+        os.system('ngram -order ' + str(args.ngram_order) + ' -lm ' + args.model + ' -vocab ' + args.vocab + ' -ppl ' + args.template_dir+'/'+args.output_file + ' -debug 2 > ngram.output')
         if args.ngram_order == 1:
             results = score_unigram()
         else:
