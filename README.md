@@ -9,7 +9,7 @@ R. Marvin and T. Linzen. 2018. Targeted Syntactic Evaluation of Language Models.
 
 We used the same training data as Gulordava et al. (2018). Each corpus consists of around 100M tokens from English Wikipedia. We used training (80M) and validation (10M) subsets in our experiments. All corpora were shuffled at sentence level. Links to download the data are below:
 
-[train](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/train.txt) / [valid](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/valid.txt) / [test](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/test.txt) / [vocab](https://s3.amazonaws.com/colorless-green-rnns/training-data/English/vocab.txt)
+[train](https://dl.fbaipublicfiles.com/colorless-green-rnns/training-data/English/train.txt) / [valid](https://dl.fbaipublicfiles.com/colorless-green-rnns/training-data/English/valid.txt) / [test](https://dl.fbaipublicfiles.com/colorless-green-rnns/training-data/English/test.txt) / [vocab](https://dl.fbaipublicfiles.com/colorless-green-rnns/training-data/English/vocab.txt)
 
 
 ### Training the language models
