@@ -54,7 +54,7 @@ class SentenceCorpus(object):
                 self.train_ccg = self.tokenize_ccg(os.path.join(ccg_path, trainfname))
                 self.valid_ccg = self.tokenize_ccg(os.path.join(ccg_path, validfname))
             else:
-                self.train_ccg = self.valid_ccg = None
+                self.train_ccg = self.valid_ccg = torch.LongTensor(0)
             self.save_to = self.save_dict(save_to)
         else:
             self.dictionary = self.load_dict(save_to)
@@ -62,7 +62,7 @@ class SentenceCorpus(object):
             if ccg_path:
                 self.test_ccg = self.sent_tokenize_ccg_with_unks(os.path.join(ccg_path, testfname))
             else:
-                self.test_ccg = None
+                self.test_ccg = torch.LongTensor(0)
 
     def save_dict(self, path):
         with open(path, 'wb') as f:

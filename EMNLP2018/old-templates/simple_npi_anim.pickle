@@ -1,0 +1,848 @@
+(dp0
+S'past'
+p1
+(lp2
+(S'no authors have ever been popular'
+p3
+S'the authors have ever been popular'
+p4
+S'most authors have ever been popular'
+p5
+tp6
+a(S'no authors have ever been famous'
+p7
+S'the authors have ever been famous'
+p8
+S'most authors have ever been famous'
+p9
+tp10
+a(S'no authors have ever had children'
+p11
+S'the authors have ever had children'
+p12
+S'most authors have ever had children'
+p13
+tp14
+a(S'no pilots have ever been popular'
+p15
+S'the pilots have ever been popular'
+p16
+S'most pilots have ever been popular'
+p17
+tp18
+a(S'no pilots have ever been famous'
+p19
+S'the pilots have ever been famous'
+p20
+S'most pilots have ever been famous'
+p21
+tp22
+a(S'no pilots have ever had children'
+p23
+S'the pilots have ever had children'
+p24
+S'most pilots have ever had children'
+p25
+tp26
+a(S'no surgeons have ever been popular'
+p27
+S'the surgeons have ever been popular'
+p28
+S'most surgeons have ever been popular'
+p29
+tp30
+a(S'no surgeons have ever been famous'
+p31
+S'the surgeons have ever been famous'
+p32
+S'most surgeons have ever been famous'
+p33
+tp34
+a(S'no surgeons have ever had children'
+p35
+S'the surgeons have ever had children'
+p36
+S'most surgeons have ever had children'
+p37
+tp38
+a(S'no farmers have ever been popular'
+p39
+S'the farmers have ever been popular'
+p40
+S'most farmers have ever been popular'
+p41
+tp42
+a(S'no farmers have ever been famous'
+p43
+S'the farmers have ever been famous'
+p44
+S'most farmers have ever been famous'
+p45
+tp46
+a(S'no farmers have ever had children'
+p47
+S'the farmers have ever had children'
+p48
+S'most farmers have ever had children'
+p49
+tp50
+a(S'no managers have ever been popular'
+p51
+S'the managers have ever been popular'
+p52
+S'most managers have ever been popular'
+p53
+tp54
+a(S'no managers have ever been famous'
+p55
+S'the managers have ever been famous'
+p56
+S'most managers have ever been famous'
+p57
+tp58
+a(S'no managers have ever had children'
+p59
+S'the managers have ever had children'
+p60
+S'most managers have ever had children'
+p61
+tp62
+a(S'no customers have ever been popular'
+p63
+S'the customers have ever been popular'
+p64
+S'most customers have ever been popular'
+p65
+tp66
+a(S'no customers have ever been famous'
+p67
+S'the customers have ever been famous'
+p68
+S'most customers have ever been famous'
+p69
+tp70
+a(S'no customers have ever had children'
+p71
+S'the customers have ever had children'
+p72
+S'most customers have ever had children'
+p73
+tp74
+a(S'no officers have ever been popular'
+p75
+S'the officers have ever been popular'
+p76
+S'most officers have ever been popular'
+p77
+tp78
+a(S'no officers have ever been famous'
+p79
+S'the officers have ever been famous'
+p80
+S'most officers have ever been famous'
+p81
+tp82
+a(S'no officers have ever had children'
+p83
+S'the officers have ever had children'
+p84
+S'most officers have ever had children'
+p85
+tp86
+a(S'no teachers have ever been popular'
+p87
+S'the teachers have ever been popular'
+p88
+S'most teachers have ever been popular'
+p89
+tp90
+a(S'no teachers have ever been famous'
+p91
+S'the teachers have ever been famous'
+p92
+S'most teachers have ever been famous'
+p93
+tp94
+a(S'no teachers have ever had children'
+p95
+S'the teachers have ever had children'
+p96
+S'most teachers have ever had children'
+p97
+tp98
+a(S'no senators have ever been popular'
+p99
+S'the senators have ever been popular'
+p100
+S'most senators have ever been popular'
+p101
+tp102
+a(S'no senators have ever been famous'
+p103
+S'the senators have ever been famous'
+p104
+S'most senators have ever been famous'
+p105
+tp106
+a(S'no senators have ever had children'
+p107
+S'the senators have ever had children'
+p108
+S'most senators have ever had children'
+p109
+tp110
+a(S'no consultants have ever been popular'
+p111
+S'the consultants have ever been popular'
+p112
+S'most consultants have ever been popular'
+p113
+tp114
+a(S'no consultants have ever been famous'
+p115
+S'the consultants have ever been famous'
+p116
+S'most consultants have ever been famous'
+p117
+tp118
+a(S'no consultants have ever had children'
+p119
+S'the consultants have ever had children'
+p120
+S'most consultants have ever had children'
+p121
+tp122
+a(S'few authors have ever been popular'
+p123
+S'some authors have ever been popular'
+p124
+S'many authors have ever been popular'
+p125
+tp126
+a(S'few authors have ever been famous'
+p127
+S'some authors have ever been famous'
+p128
+S'many authors have ever been famous'
+p129
+tp130
+a(S'few authors have ever had children'
+p131
+S'some authors have ever had children'
+p132
+S'many authors have ever had children'
+p133
+tp134
+a(S'few pilots have ever been popular'
+p135
+S'some pilots have ever been popular'
+p136
+S'many pilots have ever been popular'
+p137
+tp138
+a(S'few pilots have ever been famous'
+p139
+S'some pilots have ever been famous'
+p140
+S'many pilots have ever been famous'
+p141
+tp142
+a(S'few pilots have ever had children'
+p143
+S'some pilots have ever had children'
+p144
+S'many pilots have ever had children'
+p145
+tp146
+a(S'few surgeons have ever been popular'
+p147
+S'some surgeons have ever been popular'
+p148
+S'many surgeons have ever been popular'
+p149
+tp150
+a(S'few surgeons have ever been famous'
+p151
+S'some surgeons have ever been famous'
+p152
+S'many surgeons have ever been famous'
+p153
+tp154
+a(S'few surgeons have ever had children'
+p155
+S'some surgeons have ever had children'
+p156
+S'many surgeons have ever had children'
+p157
+tp158
+a(S'few farmers have ever been popular'
+p159
+S'some farmers have ever been popular'
+p160
+S'many farmers have ever been popular'
+p161
+tp162
+a(S'few farmers have ever been famous'
+p163
+S'some farmers have ever been famous'
+p164
+S'many farmers have ever been famous'
+p165
+tp166
+a(S'few farmers have ever had children'
+p167
+S'some farmers have ever had children'
+p168
+S'many farmers have ever had children'
+p169
+tp170
+a(S'few managers have ever been popular'
+p171
+S'some managers have ever been popular'
+p172
+S'many managers have ever been popular'
+p173
+tp174
+a(S'few managers have ever been famous'
+p175
+S'some managers have ever been famous'
+p176
+S'many managers have ever been famous'
+p177
+tp178
+a(S'few managers have ever had children'
+p179
+S'some managers have ever had children'
+p180
+S'many managers have ever had children'
+p181
+tp182
+a(S'few customers have ever been popular'
+p183
+S'some customers have ever been popular'
+p184
+S'many customers have ever been popular'
+p185
+tp186
+a(S'few customers have ever been famous'
+p187
+S'some customers have ever been famous'
+p188
+S'many customers have ever been famous'
+p189
+tp190
+a(S'few customers have ever had children'
+p191
+S'some customers have ever had children'
+p192
+S'many customers have ever had children'
+p193
+tp194
+a(S'few officers have ever been popular'
+p195
+S'some officers have ever been popular'
+p196
+S'many officers have ever been popular'
+p197
+tp198
+a(S'few officers have ever been famous'
+p199
+S'some officers have ever been famous'
+p200
+S'many officers have ever been famous'
+p201
+tp202
+a(S'few officers have ever had children'
+p203
+S'some officers have ever had children'
+p204
+S'many officers have ever had children'
+p205
+tp206
+a(S'few teachers have ever been popular'
+p207
+S'some teachers have ever been popular'
+p208
+S'many teachers have ever been popular'
+p209
+tp210
+a(S'few teachers have ever been famous'
+p211
+S'some teachers have ever been famous'
+p212
+S'many teachers have ever been famous'
+p213
+tp214
+a(S'few teachers have ever had children'
+p215
+S'some teachers have ever had children'
+p216
+S'many teachers have ever had children'
+p217
+tp218
+a(S'few senators have ever been popular'
+p219
+S'some senators have ever been popular'
+p220
+S'many senators have ever been popular'
+p221
+tp222
+a(S'few senators have ever been famous'
+p223
+S'some senators have ever been famous'
+p224
+S'many senators have ever been famous'
+p225
+tp226
+a(S'few senators have ever had children'
+p227
+S'some senators have ever had children'
+p228
+S'many senators have ever had children'
+p229
+tp230
+a(S'few consultants have ever been popular'
+p231
+S'some consultants have ever been popular'
+p232
+S'many consultants have ever been popular'
+p233
+tp234
+a(S'few consultants have ever been famous'
+p235
+S'some consultants have ever been famous'
+p236
+S'many consultants have ever been famous'
+p237
+tp238
+a(S'few consultants have ever had children'
+p239
+S'some consultants have ever had children'
+p240
+S'many consultants have ever had children'
+p241
+tp242
+asS'future'
+p243
+(lp244
+(S'no authors will ever be popular'
+p245
+S'the authors will ever be popular'
+p246
+S'most authors will ever be popular'
+p247
+tp248
+a(S'no authors will ever be famous'
+p249
+S'the authors will ever be famous'
+p250
+S'most authors will ever be famous'
+p251
+tp252
+a(S'no authors will ever have children'
+p253
+S'the authors will ever have children'
+p254
+S'most authors will ever have children'
+p255
+tp256
+a(S'no pilots will ever be popular'
+p257
+S'the pilots will ever be popular'
+p258
+S'most pilots will ever be popular'
+p259
+tp260
+a(S'no pilots will ever be famous'
+p261
+S'the pilots will ever be famous'
+p262
+S'most pilots will ever be famous'
+p263
+tp264
+a(S'no pilots will ever have children'
+p265
+S'the pilots will ever have children'
+p266
+S'most pilots will ever have children'
+p267
+tp268
+a(S'no surgeons will ever be popular'
+p269
+S'the surgeons will ever be popular'
+p270
+S'most surgeons will ever be popular'
+p271
+tp272
+a(S'no surgeons will ever be famous'
+p273
+S'the surgeons will ever be famous'
+p274
+S'most surgeons will ever be famous'
+p275
+tp276
+a(S'no surgeons will ever have children'
+p277
+S'the surgeons will ever have children'
+p278
+S'most surgeons will ever have children'
+p279
+tp280
+a(S'no farmers will ever be popular'
+p281
+S'the farmers will ever be popular'
+p282
+S'most farmers will ever be popular'
+p283
+tp284
+a(S'no farmers will ever be famous'
+p285
+S'the farmers will ever be famous'
+p286
+S'most farmers will ever be famous'
+p287
+tp288
+a(S'no farmers will ever have children'
+p289
+S'the farmers will ever have children'
+p290
+S'most farmers will ever have children'
+p291
+tp292
+a(S'no managers will ever be popular'
+p293
+S'the managers will ever be popular'
+p294
+S'most managers will ever be popular'
+p295
+tp296
+a(S'no managers will ever be famous'
+p297
+S'the managers will ever be famous'
+p298
+S'most managers will ever be famous'
+p299
+tp300
+a(S'no managers will ever have children'
+p301
+S'the managers will ever have children'
+p302
+S'most managers will ever have children'
+p303
+tp304
+a(S'no customers will ever be popular'
+p305
+S'the customers will ever be popular'
+p306
+S'most customers will ever be popular'
+p307
+tp308
+a(S'no customers will ever be famous'
+p309
+S'the customers will ever be famous'
+p310
+S'most customers will ever be famous'
+p311
+tp312
+a(S'no customers will ever have children'
+p313
+S'the customers will ever have children'
+p314
+S'most customers will ever have children'
+p315
+tp316
+a(S'no officers will ever be popular'
+p317
+S'the officers will ever be popular'
+p318
+S'most officers will ever be popular'
+p319
+tp320
+a(S'no officers will ever be famous'
+p321
+S'the officers will ever be famous'
+p322
+S'most officers will ever be famous'
+p323
+tp324
+a(S'no officers will ever have children'
+p325
+S'the officers will ever have children'
+p326
+S'most officers will ever have children'
+p327
+tp328
+a(S'no teachers will ever be popular'
+p329
+S'the teachers will ever be popular'
+p330
+S'most teachers will ever be popular'
+p331
+tp332
+a(S'no teachers will ever be famous'
+p333
+S'the teachers will ever be famous'
+p334
+S'most teachers will ever be famous'
+p335
+tp336
+a(S'no teachers will ever have children'
+p337
+S'the teachers will ever have children'
+p338
+S'most teachers will ever have children'
+p339
+tp340
+a(S'no senators will ever be popular'
+p341
+S'the senators will ever be popular'
+p342
+S'most senators will ever be popular'
+p343
+tp344
+a(S'no senators will ever be famous'
+p345
+S'the senators will ever be famous'
+p346
+S'most senators will ever be famous'
+p347
+tp348
+a(S'no senators will ever have children'
+p349
+S'the senators will ever have children'
+p350
+S'most senators will ever have children'
+p351
+tp352
+a(S'no consultants will ever be popular'
+p353
+S'the consultants will ever be popular'
+p354
+S'most consultants will ever be popular'
+p355
+tp356
+a(S'no consultants will ever be famous'
+p357
+S'the consultants will ever be famous'
+p358
+S'most consultants will ever be famous'
+p359
+tp360
+a(S'no consultants will ever have children'
+p361
+S'the consultants will ever have children'
+p362
+S'most consultants will ever have children'
+p363
+tp364
+a(S'few authors will ever be popular'
+p365
+S'some authors will ever be popular'
+p366
+S'many authors will ever be popular'
+p367
+tp368
+a(S'few authors will ever be famous'
+p369
+S'some authors will ever be famous'
+p370
+S'many authors will ever be famous'
+p371
+tp372
+a(S'few authors will ever have children'
+p373
+S'some authors will ever have children'
+p374
+S'many authors will ever have children'
+p375
+tp376
+a(S'few pilots will ever be popular'
+p377
+S'some pilots will ever be popular'
+p378
+S'many pilots will ever be popular'
+p379
+tp380
+a(S'few pilots will ever be famous'
+p381
+S'some pilots will ever be famous'
+p382
+S'many pilots will ever be famous'
+p383
+tp384
+a(S'few pilots will ever have children'
+p385
+S'some pilots will ever have children'
+p386
+S'many pilots will ever have children'
+p387
+tp388
+a(S'few surgeons will ever be popular'
+p389
+S'some surgeons will ever be popular'
+p390
+S'many surgeons will ever be popular'
+p391
+tp392
+a(S'few surgeons will ever be famous'
+p393
+S'some surgeons will ever be famous'
+p394
+S'many surgeons will ever be famous'
+p395
+tp396
+a(S'few surgeons will ever have children'
+p397
+S'some surgeons will ever have children'
+p398
+S'many surgeons will ever have children'
+p399
+tp400
+a(S'few farmers will ever be popular'
+p401
+S'some farmers will ever be popular'
+p402
+S'many farmers will ever be popular'
+p403
+tp404
+a(S'few farmers will ever be famous'
+p405
+S'some farmers will ever be famous'
+p406
+S'many farmers will ever be famous'
+p407
+tp408
+a(S'few farmers will ever have children'
+p409
+S'some farmers will ever have children'
+p410
+S'many farmers will ever have children'
+p411
+tp412
+a(S'few managers will ever be popular'
+p413
+S'some managers will ever be popular'
+p414
+S'many managers will ever be popular'
+p415
+tp416
+a(S'few managers will ever be famous'
+p417
+S'some managers will ever be famous'
+p418
+S'many managers will ever be famous'
+p419
+tp420
+a(S'few managers will ever have children'
+p421
+S'some managers will ever have children'
+p422
+S'many managers will ever have children'
+p423
+tp424
+a(S'few customers will ever be popular'
+p425
+S'some customers will ever be popular'
+p426
+S'many customers will ever be popular'
+p427
+tp428
+a(S'few customers will ever be famous'
+p429
+S'some customers will ever be famous'
+p430
+S'many customers will ever be famous'
+p431
+tp432
+a(S'few customers will ever have children'
+p433
+S'some customers will ever have children'
+p434
+S'many customers will ever have children'
+p435
+tp436
+a(S'few officers will ever be popular'
+p437
+S'some officers will ever be popular'
+p438
+S'many officers will ever be popular'
+p439
+tp440
+a(S'few officers will ever be famous'
+p441
+S'some officers will ever be famous'
+p442
+S'many officers will ever be famous'
+p443
+tp444
+a(S'few officers will ever have children'
+p445
+S'some officers will ever have children'
+p446
+S'many officers will ever have children'
+p447
+tp448
+a(S'few teachers will ever be popular'
+p449
+S'some teachers will ever be popular'
+p450
+S'many teachers will ever be popular'
+p451
+tp452
+a(S'few teachers will ever be famous'
+p453
+S'some teachers will ever be famous'
+p454
+S'many teachers will ever be famous'
+p455
+tp456
+a(S'few teachers will ever have children'
+p457
+S'some teachers will ever have children'
+p458
+S'many teachers will ever have children'
+p459
+tp460
+a(S'few senators will ever be popular'
+p461
+S'some senators will ever be popular'
+p462
+S'many senators will ever be popular'
+p463
+tp464
+a(S'few senators will ever be famous'
+p465
+S'some senators will ever be famous'
+p466
+S'many senators will ever be famous'
+p467
+tp468
+a(S'few senators will ever have children'
+p469
+S'some senators will ever have children'
+p470
+S'many senators will ever have children'
+p471
+tp472
+a(S'few consultants will ever be popular'
+p473
+S'some consultants will ever be popular'
+p474
+S'many consultants will ever be popular'
+p475
+tp476
+a(S'few consultants will ever be famous'
+p477
+S'some consultants will ever be famous'
+p478
+S'many consultants will ever be famous'
+p479
+tp480
+a(S'few consultants will ever have children'
+p481
+S'some consultants will ever have children'
+p482
+S'many consultants will ever have children'
+p483
+tp484
+as.

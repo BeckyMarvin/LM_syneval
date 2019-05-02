@@ -1,0 +1,8414 @@
+(dp0
+S'sing_MS_MV_plur_BS'
+p1
+(lp2
+(S'the mechanics said the author laughs'
+p3
+S'the mechanics said the author laugh'
+p4
+tp5
+a(S'the mechanics said the author swims'
+p6
+S'the mechanics said the author swim'
+p7
+tp8
+a(S'the mechanics said the author smiles'
+p9
+S'the mechanics said the author smile'
+p10
+tp11
+a(S'the mechanics said the author is tall'
+p12
+S'the mechanics said the author are tall'
+p13
+tp14
+a(S'the mechanics said the author is old'
+p15
+S'the mechanics said the author are old'
+p16
+tp17
+a(S'the mechanics said the author is young'
+p18
+S'the mechanics said the author are young'
+p19
+tp20
+a(S'the mechanics said the author is short'
+p21
+S'the mechanics said the author are short'
+p22
+tp23
+a(S'the mechanics said the pilot laughs'
+p24
+S'the mechanics said the pilot laugh'
+p25
+tp26
+a(S'the mechanics said the pilot swims'
+p27
+S'the mechanics said the pilot swim'
+p28
+tp29
+a(S'the mechanics said the pilot smiles'
+p30
+S'the mechanics said the pilot smile'
+p31
+tp32
+a(S'the mechanics said the pilot is tall'
+p33
+S'the mechanics said the pilot are tall'
+p34
+tp35
+a(S'the mechanics said the pilot is old'
+p36
+S'the mechanics said the pilot are old'
+p37
+tp38
+a(S'the mechanics said the pilot is young'
+p39
+S'the mechanics said the pilot are young'
+p40
+tp41
+a(S'the mechanics said the pilot is short'
+p42
+S'the mechanics said the pilot are short'
+p43
+tp44
+a(S'the mechanics said the surgeon laughs'
+p45
+S'the mechanics said the surgeon laugh'
+p46
+tp47
+a(S'the mechanics said the surgeon swims'
+p48
+S'the mechanics said the surgeon swim'
+p49
+tp50
+a(S'the mechanics said the surgeon smiles'
+p51
+S'the mechanics said the surgeon smile'
+p52
+tp53
+a(S'the mechanics said the surgeon is tall'
+p54
+S'the mechanics said the surgeon are tall'
+p55
+tp56
+a(S'the mechanics said the surgeon is old'
+p57
+S'the mechanics said the surgeon are old'
+p58
+tp59
+a(S'the mechanics said the surgeon is young'
+p60
+S'the mechanics said the surgeon are young'
+p61
+tp62
+a(S'the mechanics said the surgeon is short'
+p63
+S'the mechanics said the surgeon are short'
+p64
+tp65
+a(S'the mechanics said the farmer laughs'
+p66
+S'the mechanics said the farmer laugh'
+p67
+tp68
+a(S'the mechanics said the farmer swims'
+p69
+S'the mechanics said the farmer swim'
+p70
+tp71
+a(S'the mechanics said the farmer smiles'
+p72
+S'the mechanics said the farmer smile'
+p73
+tp74
+a(S'the mechanics said the farmer is tall'
+p75
+S'the mechanics said the farmer are tall'
+p76
+tp77
+a(S'the mechanics said the farmer is old'
+p78
+S'the mechanics said the farmer are old'
+p79
+tp80
+a(S'the mechanics said the farmer is young'
+p81
+S'the mechanics said the farmer are young'
+p82
+tp83
+a(S'the mechanics said the farmer is short'
+p84
+S'the mechanics said the farmer are short'
+p85
+tp86
+a(S'the mechanics said the manager laughs'
+p87
+S'the mechanics said the manager laugh'
+p88
+tp89
+a(S'the mechanics said the manager swims'
+p90
+S'the mechanics said the manager swim'
+p91
+tp92
+a(S'the mechanics said the manager smiles'
+p93
+S'the mechanics said the manager smile'
+p94
+tp95
+a(S'the mechanics said the manager is tall'
+p96
+S'the mechanics said the manager are tall'
+p97
+tp98
+a(S'the mechanics said the manager is old'
+p99
+S'the mechanics said the manager are old'
+p100
+tp101
+a(S'the mechanics said the manager is young'
+p102
+S'the mechanics said the manager are young'
+p103
+tp104
+a(S'the mechanics said the manager is short'
+p105
+S'the mechanics said the manager are short'
+p106
+tp107
+a(S'the mechanics said the customer laughs'
+p108
+S'the mechanics said the customer laugh'
+p109
+tp110
+a(S'the mechanics said the customer swims'
+p111
+S'the mechanics said the customer swim'
+p112
+tp113
+a(S'the mechanics said the customer smiles'
+p114
+S'the mechanics said the customer smile'
+p115
+tp116
+a(S'the mechanics said the customer is tall'
+p117
+S'the mechanics said the customer are tall'
+p118
+tp119
+a(S'the mechanics said the customer is old'
+p120
+S'the mechanics said the customer are old'
+p121
+tp122
+a(S'the mechanics said the customer is young'
+p123
+S'the mechanics said the customer are young'
+p124
+tp125
+a(S'the mechanics said the customer is short'
+p126
+S'the mechanics said the customer are short'
+p127
+tp128
+a(S'the mechanics said the officer laughs'
+p129
+S'the mechanics said the officer laugh'
+p130
+tp131
+a(S'the mechanics said the officer swims'
+p132
+S'the mechanics said the officer swim'
+p133
+tp134
+a(S'the mechanics said the officer smiles'
+p135
+S'the mechanics said the officer smile'
+p136
+tp137
+a(S'the mechanics said the officer is tall'
+p138
+S'the mechanics said the officer are tall'
+p139
+tp140
+a(S'the mechanics said the officer is old'
+p141
+S'the mechanics said the officer are old'
+p142
+tp143
+a(S'the mechanics said the officer is young'
+p144
+S'the mechanics said the officer are young'
+p145
+tp146
+a(S'the mechanics said the officer is short'
+p147
+S'the mechanics said the officer are short'
+p148
+tp149
+a(S'the mechanics said the teacher laughs'
+p150
+S'the mechanics said the teacher laugh'
+p151
+tp152
+a(S'the mechanics said the teacher swims'
+p153
+S'the mechanics said the teacher swim'
+p154
+tp155
+a(S'the mechanics said the teacher smiles'
+p156
+S'the mechanics said the teacher smile'
+p157
+tp158
+a(S'the mechanics said the teacher is tall'
+p159
+S'the mechanics said the teacher are tall'
+p160
+tp161
+a(S'the mechanics said the teacher is old'
+p162
+S'the mechanics said the teacher are old'
+p163
+tp164
+a(S'the mechanics said the teacher is young'
+p165
+S'the mechanics said the teacher are young'
+p166
+tp167
+a(S'the mechanics said the teacher is short'
+p168
+S'the mechanics said the teacher are short'
+p169
+tp170
+a(S'the mechanics said the senator laughs'
+p171
+S'the mechanics said the senator laugh'
+p172
+tp173
+a(S'the mechanics said the senator swims'
+p174
+S'the mechanics said the senator swim'
+p175
+tp176
+a(S'the mechanics said the senator smiles'
+p177
+S'the mechanics said the senator smile'
+p178
+tp179
+a(S'the mechanics said the senator is tall'
+p180
+S'the mechanics said the senator are tall'
+p181
+tp182
+a(S'the mechanics said the senator is old'
+p183
+S'the mechanics said the senator are old'
+p184
+tp185
+a(S'the mechanics said the senator is young'
+p186
+S'the mechanics said the senator are young'
+p187
+tp188
+a(S'the mechanics said the senator is short'
+p189
+S'the mechanics said the senator are short'
+p190
+tp191
+a(S'the mechanics said the consultant laughs'
+p192
+S'the mechanics said the consultant laugh'
+p193
+tp194
+a(S'the mechanics said the consultant swims'
+p195
+S'the mechanics said the consultant swim'
+p196
+tp197
+a(S'the mechanics said the consultant smiles'
+p198
+S'the mechanics said the consultant smile'
+p199
+tp200
+a(S'the mechanics said the consultant is tall'
+p201
+S'the mechanics said the consultant are tall'
+p202
+tp203
+a(S'the mechanics said the consultant is old'
+p204
+S'the mechanics said the consultant are old'
+p205
+tp206
+a(S'the mechanics said the consultant is young'
+p207
+S'the mechanics said the consultant are young'
+p208
+tp209
+a(S'the mechanics said the consultant is short'
+p210
+S'the mechanics said the consultant are short'
+p211
+tp212
+a(S'the mechanics thought the author laughs'
+p213
+S'the mechanics thought the author laugh'
+p214
+tp215
+a(S'the mechanics thought the author swims'
+p216
+S'the mechanics thought the author swim'
+p217
+tp218
+a(S'the mechanics thought the author smiles'
+p219
+S'the mechanics thought the author smile'
+p220
+tp221
+a(S'the mechanics thought the author is tall'
+p222
+S'the mechanics thought the author are tall'
+p223
+tp224
+a(S'the mechanics thought the author is old'
+p225
+S'the mechanics thought the author are old'
+p226
+tp227
+a(S'the mechanics thought the author is young'
+p228
+S'the mechanics thought the author are young'
+p229
+tp230
+a(S'the mechanics thought the author is short'
+p231
+S'the mechanics thought the author are short'
+p232
+tp233
+a(S'the mechanics thought the pilot laughs'
+p234
+S'the mechanics thought the pilot laugh'
+p235
+tp236
+a(S'the mechanics thought the pilot swims'
+p237
+S'the mechanics thought the pilot swim'
+p238
+tp239
+a(S'the mechanics thought the pilot smiles'
+p240
+S'the mechanics thought the pilot smile'
+p241
+tp242
+a(S'the mechanics thought the pilot is tall'
+p243
+S'the mechanics thought the pilot are tall'
+p244
+tp245
+a(S'the mechanics thought the pilot is old'
+p246
+S'the mechanics thought the pilot are old'
+p247
+tp248
+a(S'the mechanics thought the pilot is young'
+p249
+S'the mechanics thought the pilot are young'
+p250
+tp251
+a(S'the mechanics thought the pilot is short'
+p252
+S'the mechanics thought the pilot are short'
+p253
+tp254
+a(S'the mechanics thought the surgeon laughs'
+p255
+S'the mechanics thought the surgeon laugh'
+p256
+tp257
+a(S'the mechanics thought the surgeon swims'
+p258
+S'the mechanics thought the surgeon swim'
+p259
+tp260
+a(S'the mechanics thought the surgeon smiles'
+p261
+S'the mechanics thought the surgeon smile'
+p262
+tp263
+a(S'the mechanics thought the surgeon is tall'
+p264
+S'the mechanics thought the surgeon are tall'
+p265
+tp266
+a(S'the mechanics thought the surgeon is old'
+p267
+S'the mechanics thought the surgeon are old'
+p268
+tp269
+a(S'the mechanics thought the surgeon is young'
+p270
+S'the mechanics thought the surgeon are young'
+p271
+tp272
+a(S'the mechanics thought the surgeon is short'
+p273
+S'the mechanics thought the surgeon are short'
+p274
+tp275
+a(S'the mechanics thought the farmer laughs'
+p276
+S'the mechanics thought the farmer laugh'
+p277
+tp278
+a(S'the mechanics thought the farmer swims'
+p279
+S'the mechanics thought the farmer swim'
+p280
+tp281
+a(S'the mechanics thought the farmer smiles'
+p282
+S'the mechanics thought the farmer smile'
+p283
+tp284
+a(S'the mechanics thought the farmer is tall'
+p285
+S'the mechanics thought the farmer are tall'
+p286
+tp287
+a(S'the mechanics thought the farmer is old'
+p288
+S'the mechanics thought the farmer are old'
+p289
+tp290
+a(S'the mechanics thought the farmer is young'
+p291
+S'the mechanics thought the farmer are young'
+p292
+tp293
+a(S'the mechanics thought the farmer is short'
+p294
+S'the mechanics thought the farmer are short'
+p295
+tp296
+a(S'the mechanics thought the manager laughs'
+p297
+S'the mechanics thought the manager laugh'
+p298
+tp299
+a(S'the mechanics thought the manager swims'
+p300
+S'the mechanics thought the manager swim'
+p301
+tp302
+a(S'the mechanics thought the manager smiles'
+p303
+S'the mechanics thought the manager smile'
+p304
+tp305
+a(S'the mechanics thought the manager is tall'
+p306
+S'the mechanics thought the manager are tall'
+p307
+tp308
+a(S'the mechanics thought the manager is old'
+p309
+S'the mechanics thought the manager are old'
+p310
+tp311
+a(S'the mechanics thought the manager is young'
+p312
+S'the mechanics thought the manager are young'
+p313
+tp314
+a(S'the mechanics thought the manager is short'
+p315
+S'the mechanics thought the manager are short'
+p316
+tp317
+a(S'the mechanics thought the customer laughs'
+p318
+S'the mechanics thought the customer laugh'
+p319
+tp320
+a(S'the mechanics thought the customer swims'
+p321
+S'the mechanics thought the customer swim'
+p322
+tp323
+a(S'the mechanics thought the customer smiles'
+p324
+S'the mechanics thought the customer smile'
+p325
+tp326
+a(S'the mechanics thought the customer is tall'
+p327
+S'the mechanics thought the customer are tall'
+p328
+tp329
+a(S'the mechanics thought the customer is old'
+p330
+S'the mechanics thought the customer are old'
+p331
+tp332
+a(S'the mechanics thought the customer is young'
+p333
+S'the mechanics thought the customer are young'
+p334
+tp335
+a(S'the mechanics thought the customer is short'
+p336
+S'the mechanics thought the customer are short'
+p337
+tp338
+a(S'the mechanics thought the officer laughs'
+p339
+S'the mechanics thought the officer laugh'
+p340
+tp341
+a(S'the mechanics thought the officer swims'
+p342
+S'the mechanics thought the officer swim'
+p343
+tp344
+a(S'the mechanics thought the officer smiles'
+p345
+S'the mechanics thought the officer smile'
+p346
+tp347
+a(S'the mechanics thought the officer is tall'
+p348
+S'the mechanics thought the officer are tall'
+p349
+tp350
+a(S'the mechanics thought the officer is old'
+p351
+S'the mechanics thought the officer are old'
+p352
+tp353
+a(S'the mechanics thought the officer is young'
+p354
+S'the mechanics thought the officer are young'
+p355
+tp356
+a(S'the mechanics thought the officer is short'
+p357
+S'the mechanics thought the officer are short'
+p358
+tp359
+a(S'the mechanics thought the teacher laughs'
+p360
+S'the mechanics thought the teacher laugh'
+p361
+tp362
+a(S'the mechanics thought the teacher swims'
+p363
+S'the mechanics thought the teacher swim'
+p364
+tp365
+a(S'the mechanics thought the teacher smiles'
+p366
+S'the mechanics thought the teacher smile'
+p367
+tp368
+a(S'the mechanics thought the teacher is tall'
+p369
+S'the mechanics thought the teacher are tall'
+p370
+tp371
+a(S'the mechanics thought the teacher is old'
+p372
+S'the mechanics thought the teacher are old'
+p373
+tp374
+a(S'the mechanics thought the teacher is young'
+p375
+S'the mechanics thought the teacher are young'
+p376
+tp377
+a(S'the mechanics thought the teacher is short'
+p378
+S'the mechanics thought the teacher are short'
+p379
+tp380
+a(S'the mechanics thought the senator laughs'
+p381
+S'the mechanics thought the senator laugh'
+p382
+tp383
+a(S'the mechanics thought the senator swims'
+p384
+S'the mechanics thought the senator swim'
+p385
+tp386
+a(S'the mechanics thought the senator smiles'
+p387
+S'the mechanics thought the senator smile'
+p388
+tp389
+a(S'the mechanics thought the senator is tall'
+p390
+S'the mechanics thought the senator are tall'
+p391
+tp392
+a(S'the mechanics thought the senator is old'
+p393
+S'the mechanics thought the senator are old'
+p394
+tp395
+a(S'the mechanics thought the senator is young'
+p396
+S'the mechanics thought the senator are young'
+p397
+tp398
+a(S'the mechanics thought the senator is short'
+p399
+S'the mechanics thought the senator are short'
+p400
+tp401
+a(S'the mechanics thought the consultant laughs'
+p402
+S'the mechanics thought the consultant laugh'
+p403
+tp404
+a(S'the mechanics thought the consultant swims'
+p405
+S'the mechanics thought the consultant swim'
+p406
+tp407
+a(S'the mechanics thought the consultant smiles'
+p408
+S'the mechanics thought the consultant smile'
+p409
+tp410
+a(S'the mechanics thought the consultant is tall'
+p411
+S'the mechanics thought the consultant are tall'
+p412
+tp413
+a(S'the mechanics thought the consultant is old'
+p414
+S'the mechanics thought the consultant are old'
+p415
+tp416
+a(S'the mechanics thought the consultant is young'
+p417
+S'the mechanics thought the consultant are young'
+p418
+tp419
+a(S'the mechanics thought the consultant is short'
+p420
+S'the mechanics thought the consultant are short'
+p421
+tp422
+a(S'the mechanics knew the author laughs'
+p423
+S'the mechanics knew the author laugh'
+p424
+tp425
+a(S'the mechanics knew the author swims'
+p426
+S'the mechanics knew the author swim'
+p427
+tp428
+a(S'the mechanics knew the author smiles'
+p429
+S'the mechanics knew the author smile'
+p430
+tp431
+a(S'the mechanics knew the author is tall'
+p432
+S'the mechanics knew the author are tall'
+p433
+tp434
+a(S'the mechanics knew the author is old'
+p435
+S'the mechanics knew the author are old'
+p436
+tp437
+a(S'the mechanics knew the author is young'
+p438
+S'the mechanics knew the author are young'
+p439
+tp440
+a(S'the mechanics knew the author is short'
+p441
+S'the mechanics knew the author are short'
+p442
+tp443
+a(S'the mechanics knew the pilot laughs'
+p444
+S'the mechanics knew the pilot laugh'
+p445
+tp446
+a(S'the mechanics knew the pilot swims'
+p447
+S'the mechanics knew the pilot swim'
+p448
+tp449
+a(S'the mechanics knew the pilot smiles'
+p450
+S'the mechanics knew the pilot smile'
+p451
+tp452
+a(S'the mechanics knew the pilot is tall'
+p453
+S'the mechanics knew the pilot are tall'
+p454
+tp455
+a(S'the mechanics knew the pilot is old'
+p456
+S'the mechanics knew the pilot are old'
+p457
+tp458
+a(S'the mechanics knew the pilot is young'
+p459
+S'the mechanics knew the pilot are young'
+p460
+tp461
+a(S'the mechanics knew the pilot is short'
+p462
+S'the mechanics knew the pilot are short'
+p463
+tp464
+a(S'the mechanics knew the surgeon laughs'
+p465
+S'the mechanics knew the surgeon laugh'
+p466
+tp467
+a(S'the mechanics knew the surgeon swims'
+p468
+S'the mechanics knew the surgeon swim'
+p469
+tp470
+a(S'the mechanics knew the surgeon smiles'
+p471
+S'the mechanics knew the surgeon smile'
+p472
+tp473
+a(S'the mechanics knew the surgeon is tall'
+p474
+S'the mechanics knew the surgeon are tall'
+p475
+tp476
+a(S'the mechanics knew the surgeon is old'
+p477
+S'the mechanics knew the surgeon are old'
+p478
+tp479
+a(S'the mechanics knew the surgeon is young'
+p480
+S'the mechanics knew the surgeon are young'
+p481
+tp482
+a(S'the mechanics knew the surgeon is short'
+p483
+S'the mechanics knew the surgeon are short'
+p484
+tp485
+a(S'the mechanics knew the farmer laughs'
+p486
+S'the mechanics knew the farmer laugh'
+p487
+tp488
+a(S'the mechanics knew the farmer swims'
+p489
+S'the mechanics knew the farmer swim'
+p490
+tp491
+a(S'the mechanics knew the farmer smiles'
+p492
+S'the mechanics knew the farmer smile'
+p493
+tp494
+a(S'the mechanics knew the farmer is tall'
+p495
+S'the mechanics knew the farmer are tall'
+p496
+tp497
+a(S'the mechanics knew the farmer is old'
+p498
+S'the mechanics knew the farmer are old'
+p499
+tp500
+a(S'the mechanics knew the farmer is young'
+p501
+S'the mechanics knew the farmer are young'
+p502
+tp503
+a(S'the mechanics knew the farmer is short'
+p504
+S'the mechanics knew the farmer are short'
+p505
+tp506
+a(S'the mechanics knew the manager laughs'
+p507
+S'the mechanics knew the manager laugh'
+p508
+tp509
+a(S'the mechanics knew the manager swims'
+p510
+S'the mechanics knew the manager swim'
+p511
+tp512
+a(S'the mechanics knew the manager smiles'
+p513
+S'the mechanics knew the manager smile'
+p514
+tp515
+a(S'the mechanics knew the manager is tall'
+p516
+S'the mechanics knew the manager are tall'
+p517
+tp518
+a(S'the mechanics knew the manager is old'
+p519
+S'the mechanics knew the manager are old'
+p520
+tp521
+a(S'the mechanics knew the manager is young'
+p522
+S'the mechanics knew the manager are young'
+p523
+tp524
+a(S'the mechanics knew the manager is short'
+p525
+S'the mechanics knew the manager are short'
+p526
+tp527
+a(S'the mechanics knew the customer laughs'
+p528
+S'the mechanics knew the customer laugh'
+p529
+tp530
+a(S'the mechanics knew the customer swims'
+p531
+S'the mechanics knew the customer swim'
+p532
+tp533
+a(S'the mechanics knew the customer smiles'
+p534
+S'the mechanics knew the customer smile'
+p535
+tp536
+a(S'the mechanics knew the customer is tall'
+p537
+S'the mechanics knew the customer are tall'
+p538
+tp539
+a(S'the mechanics knew the customer is old'
+p540
+S'the mechanics knew the customer are old'
+p541
+tp542
+a(S'the mechanics knew the customer is young'
+p543
+S'the mechanics knew the customer are young'
+p544
+tp545
+a(S'the mechanics knew the customer is short'
+p546
+S'the mechanics knew the customer are short'
+p547
+tp548
+a(S'the mechanics knew the officer laughs'
+p549
+S'the mechanics knew the officer laugh'
+p550
+tp551
+a(S'the mechanics knew the officer swims'
+p552
+S'the mechanics knew the officer swim'
+p553
+tp554
+a(S'the mechanics knew the officer smiles'
+p555
+S'the mechanics knew the officer smile'
+p556
+tp557
+a(S'the mechanics knew the officer is tall'
+p558
+S'the mechanics knew the officer are tall'
+p559
+tp560
+a(S'the mechanics knew the officer is old'
+p561
+S'the mechanics knew the officer are old'
+p562
+tp563
+a(S'the mechanics knew the officer is young'
+p564
+S'the mechanics knew the officer are young'
+p565
+tp566
+a(S'the mechanics knew the officer is short'
+p567
+S'the mechanics knew the officer are short'
+p568
+tp569
+a(S'the mechanics knew the teacher laughs'
+p570
+S'the mechanics knew the teacher laugh'
+p571
+tp572
+a(S'the mechanics knew the teacher swims'
+p573
+S'the mechanics knew the teacher swim'
+p574
+tp575
+a(S'the mechanics knew the teacher smiles'
+p576
+S'the mechanics knew the teacher smile'
+p577
+tp578
+a(S'the mechanics knew the teacher is tall'
+p579
+S'the mechanics knew the teacher are tall'
+p580
+tp581
+a(S'the mechanics knew the teacher is old'
+p582
+S'the mechanics knew the teacher are old'
+p583
+tp584
+a(S'the mechanics knew the teacher is young'
+p585
+S'the mechanics knew the teacher are young'
+p586
+tp587
+a(S'the mechanics knew the teacher is short'
+p588
+S'the mechanics knew the teacher are short'
+p589
+tp590
+a(S'the mechanics knew the senator laughs'
+p591
+S'the mechanics knew the senator laugh'
+p592
+tp593
+a(S'the mechanics knew the senator swims'
+p594
+S'the mechanics knew the senator swim'
+p595
+tp596
+a(S'the mechanics knew the senator smiles'
+p597
+S'the mechanics knew the senator smile'
+p598
+tp599
+a(S'the mechanics knew the senator is tall'
+p600
+S'the mechanics knew the senator are tall'
+p601
+tp602
+a(S'the mechanics knew the senator is old'
+p603
+S'the mechanics knew the senator are old'
+p604
+tp605
+a(S'the mechanics knew the senator is young'
+p606
+S'the mechanics knew the senator are young'
+p607
+tp608
+a(S'the mechanics knew the senator is short'
+p609
+S'the mechanics knew the senator are short'
+p610
+tp611
+a(S'the mechanics knew the consultant laughs'
+p612
+S'the mechanics knew the consultant laugh'
+p613
+tp614
+a(S'the mechanics knew the consultant swims'
+p615
+S'the mechanics knew the consultant swim'
+p616
+tp617
+a(S'the mechanics knew the consultant smiles'
+p618
+S'the mechanics knew the consultant smile'
+p619
+tp620
+a(S'the mechanics knew the consultant is tall'
+p621
+S'the mechanics knew the consultant are tall'
+p622
+tp623
+a(S'the mechanics knew the consultant is old'
+p624
+S'the mechanics knew the consultant are old'
+p625
+tp626
+a(S'the mechanics knew the consultant is young'
+p627
+S'the mechanics knew the consultant are young'
+p628
+tp629
+a(S'the mechanics knew the consultant is short'
+p630
+S'the mechanics knew the consultant are short'
+p631
+tp632
+a(S'the bankers said the author laughs'
+p633
+S'the bankers said the author laugh'
+p634
+tp635
+a(S'the bankers said the author swims'
+p636
+S'the bankers said the author swim'
+p637
+tp638
+a(S'the bankers said the author smiles'
+p639
+S'the bankers said the author smile'
+p640
+tp641
+a(S'the bankers said the author is tall'
+p642
+S'the bankers said the author are tall'
+p643
+tp644
+a(S'the bankers said the author is old'
+p645
+S'the bankers said the author are old'
+p646
+tp647
+a(S'the bankers said the author is young'
+p648
+S'the bankers said the author are young'
+p649
+tp650
+a(S'the bankers said the author is short'
+p651
+S'the bankers said the author are short'
+p652
+tp653
+a(S'the bankers said the pilot laughs'
+p654
+S'the bankers said the pilot laugh'
+p655
+tp656
+a(S'the bankers said the pilot swims'
+p657
+S'the bankers said the pilot swim'
+p658
+tp659
+a(S'the bankers said the pilot smiles'
+p660
+S'the bankers said the pilot smile'
+p661
+tp662
+a(S'the bankers said the pilot is tall'
+p663
+S'the bankers said the pilot are tall'
+p664
+tp665
+a(S'the bankers said the pilot is old'
+p666
+S'the bankers said the pilot are old'
+p667
+tp668
+a(S'the bankers said the pilot is young'
+p669
+S'the bankers said the pilot are young'
+p670
+tp671
+a(S'the bankers said the pilot is short'
+p672
+S'the bankers said the pilot are short'
+p673
+tp674
+a(S'the bankers said the surgeon laughs'
+p675
+S'the bankers said the surgeon laugh'
+p676
+tp677
+a(S'the bankers said the surgeon swims'
+p678
+S'the bankers said the surgeon swim'
+p679
+tp680
+a(S'the bankers said the surgeon smiles'
+p681
+S'the bankers said the surgeon smile'
+p682
+tp683
+a(S'the bankers said the surgeon is tall'
+p684
+S'the bankers said the surgeon are tall'
+p685
+tp686
+a(S'the bankers said the surgeon is old'
+p687
+S'the bankers said the surgeon are old'
+p688
+tp689
+a(S'the bankers said the surgeon is young'
+p690
+S'the bankers said the surgeon are young'
+p691
+tp692
+a(S'the bankers said the surgeon is short'
+p693
+S'the bankers said the surgeon are short'
+p694
+tp695
+a(S'the bankers said the farmer laughs'
+p696
+S'the bankers said the farmer laugh'
+p697
+tp698
+a(S'the bankers said the farmer swims'
+p699
+S'the bankers said the farmer swim'
+p700
+tp701
+a(S'the bankers said the farmer smiles'
+p702
+S'the bankers said the farmer smile'
+p703
+tp704
+a(S'the bankers said the farmer is tall'
+p705
+S'the bankers said the farmer are tall'
+p706
+tp707
+a(S'the bankers said the farmer is old'
+p708
+S'the bankers said the farmer are old'
+p709
+tp710
+a(S'the bankers said the farmer is young'
+p711
+S'the bankers said the farmer are young'
+p712
+tp713
+a(S'the bankers said the farmer is short'
+p714
+S'the bankers said the farmer are short'
+p715
+tp716
+a(S'the bankers said the manager laughs'
+p717
+S'the bankers said the manager laugh'
+p718
+tp719
+a(S'the bankers said the manager swims'
+p720
+S'the bankers said the manager swim'
+p721
+tp722
+a(S'the bankers said the manager smiles'
+p723
+S'the bankers said the manager smile'
+p724
+tp725
+a(S'the bankers said the manager is tall'
+p726
+S'the bankers said the manager are tall'
+p727
+tp728
+a(S'the bankers said the manager is old'
+p729
+S'the bankers said the manager are old'
+p730
+tp731
+a(S'the bankers said the manager is young'
+p732
+S'the bankers said the manager are young'
+p733
+tp734
+a(S'the bankers said the manager is short'
+p735
+S'the bankers said the manager are short'
+p736
+tp737
+a(S'the bankers said the customer laughs'
+p738
+S'the bankers said the customer laugh'
+p739
+tp740
+a(S'the bankers said the customer swims'
+p741
+S'the bankers said the customer swim'
+p742
+tp743
+a(S'the bankers said the customer smiles'
+p744
+S'the bankers said the customer smile'
+p745
+tp746
+a(S'the bankers said the customer is tall'
+p747
+S'the bankers said the customer are tall'
+p748
+tp749
+a(S'the bankers said the customer is old'
+p750
+S'the bankers said the customer are old'
+p751
+tp752
+a(S'the bankers said the customer is young'
+p753
+S'the bankers said the customer are young'
+p754
+tp755
+a(S'the bankers said the customer is short'
+p756
+S'the bankers said the customer are short'
+p757
+tp758
+a(S'the bankers said the officer laughs'
+p759
+S'the bankers said the officer laugh'
+p760
+tp761
+a(S'the bankers said the officer swims'
+p762
+S'the bankers said the officer swim'
+p763
+tp764
+a(S'the bankers said the officer smiles'
+p765
+S'the bankers said the officer smile'
+p766
+tp767
+a(S'the bankers said the officer is tall'
+p768
+S'the bankers said the officer are tall'
+p769
+tp770
+a(S'the bankers said the officer is old'
+p771
+S'the bankers said the officer are old'
+p772
+tp773
+a(S'the bankers said the officer is young'
+p774
+S'the bankers said the officer are young'
+p775
+tp776
+a(S'the bankers said the officer is short'
+p777
+S'the bankers said the officer are short'
+p778
+tp779
+a(S'the bankers said the teacher laughs'
+p780
+S'the bankers said the teacher laugh'
+p781
+tp782
+a(S'the bankers said the teacher swims'
+p783
+S'the bankers said the teacher swim'
+p784
+tp785
+a(S'the bankers said the teacher smiles'
+p786
+S'the bankers said the teacher smile'
+p787
+tp788
+a(S'the bankers said the teacher is tall'
+p789
+S'the bankers said the teacher are tall'
+p790
+tp791
+a(S'the bankers said the teacher is old'
+p792
+S'the bankers said the teacher are old'
+p793
+tp794
+a(S'the bankers said the teacher is young'
+p795
+S'the bankers said the teacher are young'
+p796
+tp797
+a(S'the bankers said the teacher is short'
+p798
+S'the bankers said the teacher are short'
+p799
+tp800
+a(S'the bankers said the senator laughs'
+p801
+S'the bankers said the senator laugh'
+p802
+tp803
+a(S'the bankers said the senator swims'
+p804
+S'the bankers said the senator swim'
+p805
+tp806
+a(S'the bankers said the senator smiles'
+p807
+S'the bankers said the senator smile'
+p808
+tp809
+a(S'the bankers said the senator is tall'
+p810
+S'the bankers said the senator are tall'
+p811
+tp812
+a(S'the bankers said the senator is old'
+p813
+S'the bankers said the senator are old'
+p814
+tp815
+a(S'the bankers said the senator is young'
+p816
+S'the bankers said the senator are young'
+p817
+tp818
+a(S'the bankers said the senator is short'
+p819
+S'the bankers said the senator are short'
+p820
+tp821
+a(S'the bankers said the consultant laughs'
+p822
+S'the bankers said the consultant laugh'
+p823
+tp824
+a(S'the bankers said the consultant swims'
+p825
+S'the bankers said the consultant swim'
+p826
+tp827
+a(S'the bankers said the consultant smiles'
+p828
+S'the bankers said the consultant smile'
+p829
+tp830
+a(S'the bankers said the consultant is tall'
+p831
+S'the bankers said the consultant are tall'
+p832
+tp833
+a(S'the bankers said the consultant is old'
+p834
+S'the bankers said the consultant are old'
+p835
+tp836
+a(S'the bankers said the consultant is young'
+p837
+S'the bankers said the consultant are young'
+p838
+tp839
+a(S'the bankers said the consultant is short'
+p840
+S'the bankers said the consultant are short'
+p841
+tp842
+a(S'the bankers thought the author laughs'
+p843
+S'the bankers thought the author laugh'
+p844
+tp845
+a(S'the bankers thought the author swims'
+p846
+S'the bankers thought the author swim'
+p847
+tp848
+a(S'the bankers thought the author smiles'
+p849
+S'the bankers thought the author smile'
+p850
+tp851
+a(S'the bankers thought the author is tall'
+p852
+S'the bankers thought the author are tall'
+p853
+tp854
+a(S'the bankers thought the author is old'
+p855
+S'the bankers thought the author are old'
+p856
+tp857
+a(S'the bankers thought the author is young'
+p858
+S'the bankers thought the author are young'
+p859
+tp860
+a(S'the bankers thought the author is short'
+p861
+S'the bankers thought the author are short'
+p862
+tp863
+a(S'the bankers thought the pilot laughs'
+p864
+S'the bankers thought the pilot laugh'
+p865
+tp866
+a(S'the bankers thought the pilot swims'
+p867
+S'the bankers thought the pilot swim'
+p868
+tp869
+a(S'the bankers thought the pilot smiles'
+p870
+S'the bankers thought the pilot smile'
+p871
+tp872
+a(S'the bankers thought the pilot is tall'
+p873
+S'the bankers thought the pilot are tall'
+p874
+tp875
+a(S'the bankers thought the pilot is old'
+p876
+S'the bankers thought the pilot are old'
+p877
+tp878
+a(S'the bankers thought the pilot is young'
+p879
+S'the bankers thought the pilot are young'
+p880
+tp881
+a(S'the bankers thought the pilot is short'
+p882
+S'the bankers thought the pilot are short'
+p883
+tp884
+a(S'the bankers thought the surgeon laughs'
+p885
+S'the bankers thought the surgeon laugh'
+p886
+tp887
+a(S'the bankers thought the surgeon swims'
+p888
+S'the bankers thought the surgeon swim'
+p889
+tp890
+a(S'the bankers thought the surgeon smiles'
+p891
+S'the bankers thought the surgeon smile'
+p892
+tp893
+a(S'the bankers thought the surgeon is tall'
+p894
+S'the bankers thought the surgeon are tall'
+p895
+tp896
+a(S'the bankers thought the surgeon is old'
+p897
+S'the bankers thought the surgeon are old'
+p898
+tp899
+a(S'the bankers thought the surgeon is young'
+p900
+S'the bankers thought the surgeon are young'
+p901
+tp902
+a(S'the bankers thought the surgeon is short'
+p903
+S'the bankers thought the surgeon are short'
+p904
+tp905
+a(S'the bankers thought the farmer laughs'
+p906
+S'the bankers thought the farmer laugh'
+p907
+tp908
+a(S'the bankers thought the farmer swims'
+p909
+S'the bankers thought the farmer swim'
+p910
+tp911
+a(S'the bankers thought the farmer smiles'
+p912
+S'the bankers thought the farmer smile'
+p913
+tp914
+a(S'the bankers thought the farmer is tall'
+p915
+S'the bankers thought the farmer are tall'
+p916
+tp917
+a(S'the bankers thought the farmer is old'
+p918
+S'the bankers thought the farmer are old'
+p919
+tp920
+a(S'the bankers thought the farmer is young'
+p921
+S'the bankers thought the farmer are young'
+p922
+tp923
+a(S'the bankers thought the farmer is short'
+p924
+S'the bankers thought the farmer are short'
+p925
+tp926
+a(S'the bankers thought the manager laughs'
+p927
+S'the bankers thought the manager laugh'
+p928
+tp929
+a(S'the bankers thought the manager swims'
+p930
+S'the bankers thought the manager swim'
+p931
+tp932
+a(S'the bankers thought the manager smiles'
+p933
+S'the bankers thought the manager smile'
+p934
+tp935
+a(S'the bankers thought the manager is tall'
+p936
+S'the bankers thought the manager are tall'
+p937
+tp938
+a(S'the bankers thought the manager is old'
+p939
+S'the bankers thought the manager are old'
+p940
+tp941
+a(S'the bankers thought the manager is young'
+p942
+S'the bankers thought the manager are young'
+p943
+tp944
+a(S'the bankers thought the manager is short'
+p945
+S'the bankers thought the manager are short'
+p946
+tp947
+a(S'the bankers thought the customer laughs'
+p948
+S'the bankers thought the customer laugh'
+p949
+tp950
+a(S'the bankers thought the customer swims'
+p951
+S'the bankers thought the customer swim'
+p952
+tp953
+a(S'the bankers thought the customer smiles'
+p954
+S'the bankers thought the customer smile'
+p955
+tp956
+a(S'the bankers thought the customer is tall'
+p957
+S'the bankers thought the customer are tall'
+p958
+tp959
+a(S'the bankers thought the customer is old'
+p960
+S'the bankers thought the customer are old'
+p961
+tp962
+a(S'the bankers thought the customer is young'
+p963
+S'the bankers thought the customer are young'
+p964
+tp965
+a(S'the bankers thought the customer is short'
+p966
+S'the bankers thought the customer are short'
+p967
+tp968
+a(S'the bankers thought the officer laughs'
+p969
+S'the bankers thought the officer laugh'
+p970
+tp971
+a(S'the bankers thought the officer swims'
+p972
+S'the bankers thought the officer swim'
+p973
+tp974
+a(S'the bankers thought the officer smiles'
+p975
+S'the bankers thought the officer smile'
+p976
+tp977
+a(S'the bankers thought the officer is tall'
+p978
+S'the bankers thought the officer are tall'
+p979
+tp980
+a(S'the bankers thought the officer is old'
+p981
+S'the bankers thought the officer are old'
+p982
+tp983
+a(S'the bankers thought the officer is young'
+p984
+S'the bankers thought the officer are young'
+p985
+tp986
+a(S'the bankers thought the officer is short'
+p987
+S'the bankers thought the officer are short'
+p988
+tp989
+a(S'the bankers thought the teacher laughs'
+p990
+S'the bankers thought the teacher laugh'
+p991
+tp992
+a(S'the bankers thought the teacher swims'
+p993
+S'the bankers thought the teacher swim'
+p994
+tp995
+a(S'the bankers thought the teacher smiles'
+p996
+S'the bankers thought the teacher smile'
+p997
+tp998
+a(S'the bankers thought the teacher is tall'
+p999
+S'the bankers thought the teacher are tall'
+p1000
+tp1001
+a(S'the bankers thought the teacher is old'
+p1002
+S'the bankers thought the teacher are old'
+p1003
+tp1004
+a(S'the bankers thought the teacher is young'
+p1005
+S'the bankers thought the teacher are young'
+p1006
+tp1007
+a(S'the bankers thought the teacher is short'
+p1008
+S'the bankers thought the teacher are short'
+p1009
+tp1010
+a(S'the bankers thought the senator laughs'
+p1011
+S'the bankers thought the senator laugh'
+p1012
+tp1013
+a(S'the bankers thought the senator swims'
+p1014
+S'the bankers thought the senator swim'
+p1015
+tp1016
+a(S'the bankers thought the senator smiles'
+p1017
+S'the bankers thought the senator smile'
+p1018
+tp1019
+a(S'the bankers thought the senator is tall'
+p1020
+S'the bankers thought the senator are tall'
+p1021
+tp1022
+a(S'the bankers thought the senator is old'
+p1023
+S'the bankers thought the senator are old'
+p1024
+tp1025
+a(S'the bankers thought the senator is young'
+p1026
+S'the bankers thought the senator are young'
+p1027
+tp1028
+a(S'the bankers thought the senator is short'
+p1029
+S'the bankers thought the senator are short'
+p1030
+tp1031
+a(S'the bankers thought the consultant laughs'
+p1032
+S'the bankers thought the consultant laugh'
+p1033
+tp1034
+a(S'the bankers thought the consultant swims'
+p1035
+S'the bankers thought the consultant swim'
+p1036
+tp1037
+a(S'the bankers thought the consultant smiles'
+p1038
+S'the bankers thought the consultant smile'
+p1039
+tp1040
+a(S'the bankers thought the consultant is tall'
+p1041
+S'the bankers thought the consultant are tall'
+p1042
+tp1043
+a(S'the bankers thought the consultant is old'
+p1044
+S'the bankers thought the consultant are old'
+p1045
+tp1046
+a(S'the bankers thought the consultant is young'
+p1047
+S'the bankers thought the consultant are young'
+p1048
+tp1049
+a(S'the bankers thought the consultant is short'
+p1050
+S'the bankers thought the consultant are short'
+p1051
+tp1052
+a(S'the bankers knew the author laughs'
+p1053
+S'the bankers knew the author laugh'
+p1054
+tp1055
+a(S'the bankers knew the author swims'
+p1056
+S'the bankers knew the author swim'
+p1057
+tp1058
+a(S'the bankers knew the author smiles'
+p1059
+S'the bankers knew the author smile'
+p1060
+tp1061
+a(S'the bankers knew the author is tall'
+p1062
+S'the bankers knew the author are tall'
+p1063
+tp1064
+a(S'the bankers knew the author is old'
+p1065
+S'the bankers knew the author are old'
+p1066
+tp1067
+a(S'the bankers knew the author is young'
+p1068
+S'the bankers knew the author are young'
+p1069
+tp1070
+a(S'the bankers knew the author is short'
+p1071
+S'the bankers knew the author are short'
+p1072
+tp1073
+a(S'the bankers knew the pilot laughs'
+p1074
+S'the bankers knew the pilot laugh'
+p1075
+tp1076
+a(S'the bankers knew the pilot swims'
+p1077
+S'the bankers knew the pilot swim'
+p1078
+tp1079
+a(S'the bankers knew the pilot smiles'
+p1080
+S'the bankers knew the pilot smile'
+p1081
+tp1082
+a(S'the bankers knew the pilot is tall'
+p1083
+S'the bankers knew the pilot are tall'
+p1084
+tp1085
+a(S'the bankers knew the pilot is old'
+p1086
+S'the bankers knew the pilot are old'
+p1087
+tp1088
+a(S'the bankers knew the pilot is young'
+p1089
+S'the bankers knew the pilot are young'
+p1090
+tp1091
+a(S'the bankers knew the pilot is short'
+p1092
+S'the bankers knew the pilot are short'
+p1093
+tp1094
+a(S'the bankers knew the surgeon laughs'
+p1095
+S'the bankers knew the surgeon laugh'
+p1096
+tp1097
+a(S'the bankers knew the surgeon swims'
+p1098
+S'the bankers knew the surgeon swim'
+p1099
+tp1100
+a(S'the bankers knew the surgeon smiles'
+p1101
+S'the bankers knew the surgeon smile'
+p1102
+tp1103
+a(S'the bankers knew the surgeon is tall'
+p1104
+S'the bankers knew the surgeon are tall'
+p1105
+tp1106
+a(S'the bankers knew the surgeon is old'
+p1107
+S'the bankers knew the surgeon are old'
+p1108
+tp1109
+a(S'the bankers knew the surgeon is young'
+p1110
+S'the bankers knew the surgeon are young'
+p1111
+tp1112
+a(S'the bankers knew the surgeon is short'
+p1113
+S'the bankers knew the surgeon are short'
+p1114
+tp1115
+a(S'the bankers knew the farmer laughs'
+p1116
+S'the bankers knew the farmer laugh'
+p1117
+tp1118
+a(S'the bankers knew the farmer swims'
+p1119
+S'the bankers knew the farmer swim'
+p1120
+tp1121
+a(S'the bankers knew the farmer smiles'
+p1122
+S'the bankers knew the farmer smile'
+p1123
+tp1124
+a(S'the bankers knew the farmer is tall'
+p1125
+S'the bankers knew the farmer are tall'
+p1126
+tp1127
+a(S'the bankers knew the farmer is old'
+p1128
+S'the bankers knew the farmer are old'
+p1129
+tp1130
+a(S'the bankers knew the farmer is young'
+p1131
+S'the bankers knew the farmer are young'
+p1132
+tp1133
+a(S'the bankers knew the farmer is short'
+p1134
+S'the bankers knew the farmer are short'
+p1135
+tp1136
+a(S'the bankers knew the manager laughs'
+p1137
+S'the bankers knew the manager laugh'
+p1138
+tp1139
+a(S'the bankers knew the manager swims'
+p1140
+S'the bankers knew the manager swim'
+p1141
+tp1142
+a(S'the bankers knew the manager smiles'
+p1143
+S'the bankers knew the manager smile'
+p1144
+tp1145
+a(S'the bankers knew the manager is tall'
+p1146
+S'the bankers knew the manager are tall'
+p1147
+tp1148
+a(S'the bankers knew the manager is old'
+p1149
+S'the bankers knew the manager are old'
+p1150
+tp1151
+a(S'the bankers knew the manager is young'
+p1152
+S'the bankers knew the manager are young'
+p1153
+tp1154
+a(S'the bankers knew the manager is short'
+p1155
+S'the bankers knew the manager are short'
+p1156
+tp1157
+a(S'the bankers knew the customer laughs'
+p1158
+S'the bankers knew the customer laugh'
+p1159
+tp1160
+a(S'the bankers knew the customer swims'
+p1161
+S'the bankers knew the customer swim'
+p1162
+tp1163
+a(S'the bankers knew the customer smiles'
+p1164
+S'the bankers knew the customer smile'
+p1165
+tp1166
+a(S'the bankers knew the customer is tall'
+p1167
+S'the bankers knew the customer are tall'
+p1168
+tp1169
+a(S'the bankers knew the customer is old'
+p1170
+S'the bankers knew the customer are old'
+p1171
+tp1172
+a(S'the bankers knew the customer is young'
+p1173
+S'the bankers knew the customer are young'
+p1174
+tp1175
+a(S'the bankers knew the customer is short'
+p1176
+S'the bankers knew the customer are short'
+p1177
+tp1178
+a(S'the bankers knew the officer laughs'
+p1179
+S'the bankers knew the officer laugh'
+p1180
+tp1181
+a(S'the bankers knew the officer swims'
+p1182
+S'the bankers knew the officer swim'
+p1183
+tp1184
+a(S'the bankers knew the officer smiles'
+p1185
+S'the bankers knew the officer smile'
+p1186
+tp1187
+a(S'the bankers knew the officer is tall'
+p1188
+S'the bankers knew the officer are tall'
+p1189
+tp1190
+a(S'the bankers knew the officer is old'
+p1191
+S'the bankers knew the officer are old'
+p1192
+tp1193
+a(S'the bankers knew the officer is young'
+p1194
+S'the bankers knew the officer are young'
+p1195
+tp1196
+a(S'the bankers knew the officer is short'
+p1197
+S'the bankers knew the officer are short'
+p1198
+tp1199
+a(S'the bankers knew the teacher laughs'
+p1200
+S'the bankers knew the teacher laugh'
+p1201
+tp1202
+a(S'the bankers knew the teacher swims'
+p1203
+S'the bankers knew the teacher swim'
+p1204
+tp1205
+a(S'the bankers knew the teacher smiles'
+p1206
+S'the bankers knew the teacher smile'
+p1207
+tp1208
+a(S'the bankers knew the teacher is tall'
+p1209
+S'the bankers knew the teacher are tall'
+p1210
+tp1211
+a(S'the bankers knew the teacher is old'
+p1212
+S'the bankers knew the teacher are old'
+p1213
+tp1214
+a(S'the bankers knew the teacher is young'
+p1215
+S'the bankers knew the teacher are young'
+p1216
+tp1217
+a(S'the bankers knew the teacher is short'
+p1218
+S'the bankers knew the teacher are short'
+p1219
+tp1220
+a(S'the bankers knew the senator laughs'
+p1221
+S'the bankers knew the senator laugh'
+p1222
+tp1223
+a(S'the bankers knew the senator swims'
+p1224
+S'the bankers knew the senator swim'
+p1225
+tp1226
+a(S'the bankers knew the senator smiles'
+p1227
+S'the bankers knew the senator smile'
+p1228
+tp1229
+a(S'the bankers knew the senator is tall'
+p1230
+S'the bankers knew the senator are tall'
+p1231
+tp1232
+a(S'the bankers knew the senator is old'
+p1233
+S'the bankers knew the senator are old'
+p1234
+tp1235
+a(S'the bankers knew the senator is young'
+p1236
+S'the bankers knew the senator are young'
+p1237
+tp1238
+a(S'the bankers knew the senator is short'
+p1239
+S'the bankers knew the senator are short'
+p1240
+tp1241
+a(S'the bankers knew the consultant laughs'
+p1242
+S'the bankers knew the consultant laugh'
+p1243
+tp1244
+a(S'the bankers knew the consultant swims'
+p1245
+S'the bankers knew the consultant swim'
+p1246
+tp1247
+a(S'the bankers knew the consultant smiles'
+p1248
+S'the bankers knew the consultant smile'
+p1249
+tp1250
+a(S'the bankers knew the consultant is tall'
+p1251
+S'the bankers knew the consultant are tall'
+p1252
+tp1253
+a(S'the bankers knew the consultant is old'
+p1254
+S'the bankers knew the consultant are old'
+p1255
+tp1256
+a(S'the bankers knew the consultant is young'
+p1257
+S'the bankers knew the consultant are young'
+p1258
+tp1259
+a(S'the bankers knew the consultant is short'
+p1260
+S'the bankers knew the consultant are short'
+p1261
+tp1262
+asS'plur_MS_MV_sing_BS'
+p1263
+(lp1264
+(S'the mechanic said the authors laugh'
+p1265
+S'the mechanic said the authors laughs'
+p1266
+tp1267
+a(S'the mechanic said the authors swim'
+p1268
+S'the mechanic said the authors swims'
+p1269
+tp1270
+a(S'the mechanic said the authors smile'
+p1271
+S'the mechanic said the authors smiles'
+p1272
+tp1273
+a(S'the mechanic said the authors are tall'
+p1274
+S'the mechanic said the authors is tall'
+p1275
+tp1276
+a(S'the mechanic said the authors are old'
+p1277
+S'the mechanic said the authors is old'
+p1278
+tp1279
+a(S'the mechanic said the authors are young'
+p1280
+S'the mechanic said the authors is young'
+p1281
+tp1282
+a(S'the mechanic said the authors are short'
+p1283
+S'the mechanic said the authors is short'
+p1284
+tp1285
+a(S'the mechanic said the pilots laugh'
+p1286
+S'the mechanic said the pilots laughs'
+p1287
+tp1288
+a(S'the mechanic said the pilots swim'
+p1289
+S'the mechanic said the pilots swims'
+p1290
+tp1291
+a(S'the mechanic said the pilots smile'
+p1292
+S'the mechanic said the pilots smiles'
+p1293
+tp1294
+a(S'the mechanic said the pilots are tall'
+p1295
+S'the mechanic said the pilots is tall'
+p1296
+tp1297
+a(S'the mechanic said the pilots are old'
+p1298
+S'the mechanic said the pilots is old'
+p1299
+tp1300
+a(S'the mechanic said the pilots are young'
+p1301
+S'the mechanic said the pilots is young'
+p1302
+tp1303
+a(S'the mechanic said the pilots are short'
+p1304
+S'the mechanic said the pilots is short'
+p1305
+tp1306
+a(S'the mechanic said the surgeons laugh'
+p1307
+S'the mechanic said the surgeons laughs'
+p1308
+tp1309
+a(S'the mechanic said the surgeons swim'
+p1310
+S'the mechanic said the surgeons swims'
+p1311
+tp1312
+a(S'the mechanic said the surgeons smile'
+p1313
+S'the mechanic said the surgeons smiles'
+p1314
+tp1315
+a(S'the mechanic said the surgeons are tall'
+p1316
+S'the mechanic said the surgeons is tall'
+p1317
+tp1318
+a(S'the mechanic said the surgeons are old'
+p1319
+S'the mechanic said the surgeons is old'
+p1320
+tp1321
+a(S'the mechanic said the surgeons are young'
+p1322
+S'the mechanic said the surgeons is young'
+p1323
+tp1324
+a(S'the mechanic said the surgeons are short'
+p1325
+S'the mechanic said the surgeons is short'
+p1326
+tp1327
+a(S'the mechanic said the farmers laugh'
+p1328
+S'the mechanic said the farmers laughs'
+p1329
+tp1330
+a(S'the mechanic said the farmers swim'
+p1331
+S'the mechanic said the farmers swims'
+p1332
+tp1333
+a(S'the mechanic said the farmers smile'
+p1334
+S'the mechanic said the farmers smiles'
+p1335
+tp1336
+a(S'the mechanic said the farmers are tall'
+p1337
+S'the mechanic said the farmers is tall'
+p1338
+tp1339
+a(S'the mechanic said the farmers are old'
+p1340
+S'the mechanic said the farmers is old'
+p1341
+tp1342
+a(S'the mechanic said the farmers are young'
+p1343
+S'the mechanic said the farmers is young'
+p1344
+tp1345
+a(S'the mechanic said the farmers are short'
+p1346
+S'the mechanic said the farmers is short'
+p1347
+tp1348
+a(S'the mechanic said the managers laugh'
+p1349
+S'the mechanic said the managers laughs'
+p1350
+tp1351
+a(S'the mechanic said the managers swim'
+p1352
+S'the mechanic said the managers swims'
+p1353
+tp1354
+a(S'the mechanic said the managers smile'
+p1355
+S'the mechanic said the managers smiles'
+p1356
+tp1357
+a(S'the mechanic said the managers are tall'
+p1358
+S'the mechanic said the managers is tall'
+p1359
+tp1360
+a(S'the mechanic said the managers are old'
+p1361
+S'the mechanic said the managers is old'
+p1362
+tp1363
+a(S'the mechanic said the managers are young'
+p1364
+S'the mechanic said the managers is young'
+p1365
+tp1366
+a(S'the mechanic said the managers are short'
+p1367
+S'the mechanic said the managers is short'
+p1368
+tp1369
+a(S'the mechanic said the customers laugh'
+p1370
+S'the mechanic said the customers laughs'
+p1371
+tp1372
+a(S'the mechanic said the customers swim'
+p1373
+S'the mechanic said the customers swims'
+p1374
+tp1375
+a(S'the mechanic said the customers smile'
+p1376
+S'the mechanic said the customers smiles'
+p1377
+tp1378
+a(S'the mechanic said the customers are tall'
+p1379
+S'the mechanic said the customers is tall'
+p1380
+tp1381
+a(S'the mechanic said the customers are old'
+p1382
+S'the mechanic said the customers is old'
+p1383
+tp1384
+a(S'the mechanic said the customers are young'
+p1385
+S'the mechanic said the customers is young'
+p1386
+tp1387
+a(S'the mechanic said the customers are short'
+p1388
+S'the mechanic said the customers is short'
+p1389
+tp1390
+a(S'the mechanic said the officers laugh'
+p1391
+S'the mechanic said the officers laughs'
+p1392
+tp1393
+a(S'the mechanic said the officers swim'
+p1394
+S'the mechanic said the officers swims'
+p1395
+tp1396
+a(S'the mechanic said the officers smile'
+p1397
+S'the mechanic said the officers smiles'
+p1398
+tp1399
+a(S'the mechanic said the officers are tall'
+p1400
+S'the mechanic said the officers is tall'
+p1401
+tp1402
+a(S'the mechanic said the officers are old'
+p1403
+S'the mechanic said the officers is old'
+p1404
+tp1405
+a(S'the mechanic said the officers are young'
+p1406
+S'the mechanic said the officers is young'
+p1407
+tp1408
+a(S'the mechanic said the officers are short'
+p1409
+S'the mechanic said the officers is short'
+p1410
+tp1411
+a(S'the mechanic said the teachers laugh'
+p1412
+S'the mechanic said the teachers laughs'
+p1413
+tp1414
+a(S'the mechanic said the teachers swim'
+p1415
+S'the mechanic said the teachers swims'
+p1416
+tp1417
+a(S'the mechanic said the teachers smile'
+p1418
+S'the mechanic said the teachers smiles'
+p1419
+tp1420
+a(S'the mechanic said the teachers are tall'
+p1421
+S'the mechanic said the teachers is tall'
+p1422
+tp1423
+a(S'the mechanic said the teachers are old'
+p1424
+S'the mechanic said the teachers is old'
+p1425
+tp1426
+a(S'the mechanic said the teachers are young'
+p1427
+S'the mechanic said the teachers is young'
+p1428
+tp1429
+a(S'the mechanic said the teachers are short'
+p1430
+S'the mechanic said the teachers is short'
+p1431
+tp1432
+a(S'the mechanic said the senators laugh'
+p1433
+S'the mechanic said the senators laughs'
+p1434
+tp1435
+a(S'the mechanic said the senators swim'
+p1436
+S'the mechanic said the senators swims'
+p1437
+tp1438
+a(S'the mechanic said the senators smile'
+p1439
+S'the mechanic said the senators smiles'
+p1440
+tp1441
+a(S'the mechanic said the senators are tall'
+p1442
+S'the mechanic said the senators is tall'
+p1443
+tp1444
+a(S'the mechanic said the senators are old'
+p1445
+S'the mechanic said the senators is old'
+p1446
+tp1447
+a(S'the mechanic said the senators are young'
+p1448
+S'the mechanic said the senators is young'
+p1449
+tp1450
+a(S'the mechanic said the senators are short'
+p1451
+S'the mechanic said the senators is short'
+p1452
+tp1453
+a(S'the mechanic said the consultants laugh'
+p1454
+S'the mechanic said the consultants laughs'
+p1455
+tp1456
+a(S'the mechanic said the consultants swim'
+p1457
+S'the mechanic said the consultants swims'
+p1458
+tp1459
+a(S'the mechanic said the consultants smile'
+p1460
+S'the mechanic said the consultants smiles'
+p1461
+tp1462
+a(S'the mechanic said the consultants are tall'
+p1463
+S'the mechanic said the consultants is tall'
+p1464
+tp1465
+a(S'the mechanic said the consultants are old'
+p1466
+S'the mechanic said the consultants is old'
+p1467
+tp1468
+a(S'the mechanic said the consultants are young'
+p1469
+S'the mechanic said the consultants is young'
+p1470
+tp1471
+a(S'the mechanic said the consultants are short'
+p1472
+S'the mechanic said the consultants is short'
+p1473
+tp1474
+a(S'the mechanic thought the authors laugh'
+p1475
+S'the mechanic thought the authors laughs'
+p1476
+tp1477
+a(S'the mechanic thought the authors swim'
+p1478
+S'the mechanic thought the authors swims'
+p1479
+tp1480
+a(S'the mechanic thought the authors smile'
+p1481
+S'the mechanic thought the authors smiles'
+p1482
+tp1483
+a(S'the mechanic thought the authors are tall'
+p1484
+S'the mechanic thought the authors is tall'
+p1485
+tp1486
+a(S'the mechanic thought the authors are old'
+p1487
+S'the mechanic thought the authors is old'
+p1488
+tp1489
+a(S'the mechanic thought the authors are young'
+p1490
+S'the mechanic thought the authors is young'
+p1491
+tp1492
+a(S'the mechanic thought the authors are short'
+p1493
+S'the mechanic thought the authors is short'
+p1494
+tp1495
+a(S'the mechanic thought the pilots laugh'
+p1496
+S'the mechanic thought the pilots laughs'
+p1497
+tp1498
+a(S'the mechanic thought the pilots swim'
+p1499
+S'the mechanic thought the pilots swims'
+p1500
+tp1501
+a(S'the mechanic thought the pilots smile'
+p1502
+S'the mechanic thought the pilots smiles'
+p1503
+tp1504
+a(S'the mechanic thought the pilots are tall'
+p1505
+S'the mechanic thought the pilots is tall'
+p1506
+tp1507
+a(S'the mechanic thought the pilots are old'
+p1508
+S'the mechanic thought the pilots is old'
+p1509
+tp1510
+a(S'the mechanic thought the pilots are young'
+p1511
+S'the mechanic thought the pilots is young'
+p1512
+tp1513
+a(S'the mechanic thought the pilots are short'
+p1514
+S'the mechanic thought the pilots is short'
+p1515
+tp1516
+a(S'the mechanic thought the surgeons laugh'
+p1517
+S'the mechanic thought the surgeons laughs'
+p1518
+tp1519
+a(S'the mechanic thought the surgeons swim'
+p1520
+S'the mechanic thought the surgeons swims'
+p1521
+tp1522
+a(S'the mechanic thought the surgeons smile'
+p1523
+S'the mechanic thought the surgeons smiles'
+p1524
+tp1525
+a(S'the mechanic thought the surgeons are tall'
+p1526
+S'the mechanic thought the surgeons is tall'
+p1527
+tp1528
+a(S'the mechanic thought the surgeons are old'
+p1529
+S'the mechanic thought the surgeons is old'
+p1530
+tp1531
+a(S'the mechanic thought the surgeons are young'
+p1532
+S'the mechanic thought the surgeons is young'
+p1533
+tp1534
+a(S'the mechanic thought the surgeons are short'
+p1535
+S'the mechanic thought the surgeons is short'
+p1536
+tp1537
+a(S'the mechanic thought the farmers laugh'
+p1538
+S'the mechanic thought the farmers laughs'
+p1539
+tp1540
+a(S'the mechanic thought the farmers swim'
+p1541
+S'the mechanic thought the farmers swims'
+p1542
+tp1543
+a(S'the mechanic thought the farmers smile'
+p1544
+S'the mechanic thought the farmers smiles'
+p1545
+tp1546
+a(S'the mechanic thought the farmers are tall'
+p1547
+S'the mechanic thought the farmers is tall'
+p1548
+tp1549
+a(S'the mechanic thought the farmers are old'
+p1550
+S'the mechanic thought the farmers is old'
+p1551
+tp1552
+a(S'the mechanic thought the farmers are young'
+p1553
+S'the mechanic thought the farmers is young'
+p1554
+tp1555
+a(S'the mechanic thought the farmers are short'
+p1556
+S'the mechanic thought the farmers is short'
+p1557
+tp1558
+a(S'the mechanic thought the managers laugh'
+p1559
+S'the mechanic thought the managers laughs'
+p1560
+tp1561
+a(S'the mechanic thought the managers swim'
+p1562
+S'the mechanic thought the managers swims'
+p1563
+tp1564
+a(S'the mechanic thought the managers smile'
+p1565
+S'the mechanic thought the managers smiles'
+p1566
+tp1567
+a(S'the mechanic thought the managers are tall'
+p1568
+S'the mechanic thought the managers is tall'
+p1569
+tp1570
+a(S'the mechanic thought the managers are old'
+p1571
+S'the mechanic thought the managers is old'
+p1572
+tp1573
+a(S'the mechanic thought the managers are young'
+p1574
+S'the mechanic thought the managers is young'
+p1575
+tp1576
+a(S'the mechanic thought the managers are short'
+p1577
+S'the mechanic thought the managers is short'
+p1578
+tp1579
+a(S'the mechanic thought the customers laugh'
+p1580
+S'the mechanic thought the customers laughs'
+p1581
+tp1582
+a(S'the mechanic thought the customers swim'
+p1583
+S'the mechanic thought the customers swims'
+p1584
+tp1585
+a(S'the mechanic thought the customers smile'
+p1586
+S'the mechanic thought the customers smiles'
+p1587
+tp1588
+a(S'the mechanic thought the customers are tall'
+p1589
+S'the mechanic thought the customers is tall'
+p1590
+tp1591
+a(S'the mechanic thought the customers are old'
+p1592
+S'the mechanic thought the customers is old'
+p1593
+tp1594
+a(S'the mechanic thought the customers are young'
+p1595
+S'the mechanic thought the customers is young'
+p1596
+tp1597
+a(S'the mechanic thought the customers are short'
+p1598
+S'the mechanic thought the customers is short'
+p1599
+tp1600
+a(S'the mechanic thought the officers laugh'
+p1601
+S'the mechanic thought the officers laughs'
+p1602
+tp1603
+a(S'the mechanic thought the officers swim'
+p1604
+S'the mechanic thought the officers swims'
+p1605
+tp1606
+a(S'the mechanic thought the officers smile'
+p1607
+S'the mechanic thought the officers smiles'
+p1608
+tp1609
+a(S'the mechanic thought the officers are tall'
+p1610
+S'the mechanic thought the officers is tall'
+p1611
+tp1612
+a(S'the mechanic thought the officers are old'
+p1613
+S'the mechanic thought the officers is old'
+p1614
+tp1615
+a(S'the mechanic thought the officers are young'
+p1616
+S'the mechanic thought the officers is young'
+p1617
+tp1618
+a(S'the mechanic thought the officers are short'
+p1619
+S'the mechanic thought the officers is short'
+p1620
+tp1621
+a(S'the mechanic thought the teachers laugh'
+p1622
+S'the mechanic thought the teachers laughs'
+p1623
+tp1624
+a(S'the mechanic thought the teachers swim'
+p1625
+S'the mechanic thought the teachers swims'
+p1626
+tp1627
+a(S'the mechanic thought the teachers smile'
+p1628
+S'the mechanic thought the teachers smiles'
+p1629
+tp1630
+a(S'the mechanic thought the teachers are tall'
+p1631
+S'the mechanic thought the teachers is tall'
+p1632
+tp1633
+a(S'the mechanic thought the teachers are old'
+p1634
+S'the mechanic thought the teachers is old'
+p1635
+tp1636
+a(S'the mechanic thought the teachers are young'
+p1637
+S'the mechanic thought the teachers is young'
+p1638
+tp1639
+a(S'the mechanic thought the teachers are short'
+p1640
+S'the mechanic thought the teachers is short'
+p1641
+tp1642
+a(S'the mechanic thought the senators laugh'
+p1643
+S'the mechanic thought the senators laughs'
+p1644
+tp1645
+a(S'the mechanic thought the senators swim'
+p1646
+S'the mechanic thought the senators swims'
+p1647
+tp1648
+a(S'the mechanic thought the senators smile'
+p1649
+S'the mechanic thought the senators smiles'
+p1650
+tp1651
+a(S'the mechanic thought the senators are tall'
+p1652
+S'the mechanic thought the senators is tall'
+p1653
+tp1654
+a(S'the mechanic thought the senators are old'
+p1655
+S'the mechanic thought the senators is old'
+p1656
+tp1657
+a(S'the mechanic thought the senators are young'
+p1658
+S'the mechanic thought the senators is young'
+p1659
+tp1660
+a(S'the mechanic thought the senators are short'
+p1661
+S'the mechanic thought the senators is short'
+p1662
+tp1663
+a(S'the mechanic thought the consultants laugh'
+p1664
+S'the mechanic thought the consultants laughs'
+p1665
+tp1666
+a(S'the mechanic thought the consultants swim'
+p1667
+S'the mechanic thought the consultants swims'
+p1668
+tp1669
+a(S'the mechanic thought the consultants smile'
+p1670
+S'the mechanic thought the consultants smiles'
+p1671
+tp1672
+a(S'the mechanic thought the consultants are tall'
+p1673
+S'the mechanic thought the consultants is tall'
+p1674
+tp1675
+a(S'the mechanic thought the consultants are old'
+p1676
+S'the mechanic thought the consultants is old'
+p1677
+tp1678
+a(S'the mechanic thought the consultants are young'
+p1679
+S'the mechanic thought the consultants is young'
+p1680
+tp1681
+a(S'the mechanic thought the consultants are short'
+p1682
+S'the mechanic thought the consultants is short'
+p1683
+tp1684
+a(S'the mechanic knew the authors laugh'
+p1685
+S'the mechanic knew the authors laughs'
+p1686
+tp1687
+a(S'the mechanic knew the authors swim'
+p1688
+S'the mechanic knew the authors swims'
+p1689
+tp1690
+a(S'the mechanic knew the authors smile'
+p1691
+S'the mechanic knew the authors smiles'
+p1692
+tp1693
+a(S'the mechanic knew the authors are tall'
+p1694
+S'the mechanic knew the authors is tall'
+p1695
+tp1696
+a(S'the mechanic knew the authors are old'
+p1697
+S'the mechanic knew the authors is old'
+p1698
+tp1699
+a(S'the mechanic knew the authors are young'
+p1700
+S'the mechanic knew the authors is young'
+p1701
+tp1702
+a(S'the mechanic knew the authors are short'
+p1703
+S'the mechanic knew the authors is short'
+p1704
+tp1705
+a(S'the mechanic knew the pilots laugh'
+p1706
+S'the mechanic knew the pilots laughs'
+p1707
+tp1708
+a(S'the mechanic knew the pilots swim'
+p1709
+S'the mechanic knew the pilots swims'
+p1710
+tp1711
+a(S'the mechanic knew the pilots smile'
+p1712
+S'the mechanic knew the pilots smiles'
+p1713
+tp1714
+a(S'the mechanic knew the pilots are tall'
+p1715
+S'the mechanic knew the pilots is tall'
+p1716
+tp1717
+a(S'the mechanic knew the pilots are old'
+p1718
+S'the mechanic knew the pilots is old'
+p1719
+tp1720
+a(S'the mechanic knew the pilots are young'
+p1721
+S'the mechanic knew the pilots is young'
+p1722
+tp1723
+a(S'the mechanic knew the pilots are short'
+p1724
+S'the mechanic knew the pilots is short'
+p1725
+tp1726
+a(S'the mechanic knew the surgeons laugh'
+p1727
+S'the mechanic knew the surgeons laughs'
+p1728
+tp1729
+a(S'the mechanic knew the surgeons swim'
+p1730
+S'the mechanic knew the surgeons swims'
+p1731
+tp1732
+a(S'the mechanic knew the surgeons smile'
+p1733
+S'the mechanic knew the surgeons smiles'
+p1734
+tp1735
+a(S'the mechanic knew the surgeons are tall'
+p1736
+S'the mechanic knew the surgeons is tall'
+p1737
+tp1738
+a(S'the mechanic knew the surgeons are old'
+p1739
+S'the mechanic knew the surgeons is old'
+p1740
+tp1741
+a(S'the mechanic knew the surgeons are young'
+p1742
+S'the mechanic knew the surgeons is young'
+p1743
+tp1744
+a(S'the mechanic knew the surgeons are short'
+p1745
+S'the mechanic knew the surgeons is short'
+p1746
+tp1747
+a(S'the mechanic knew the farmers laugh'
+p1748
+S'the mechanic knew the farmers laughs'
+p1749
+tp1750
+a(S'the mechanic knew the farmers swim'
+p1751
+S'the mechanic knew the farmers swims'
+p1752
+tp1753
+a(S'the mechanic knew the farmers smile'
+p1754
+S'the mechanic knew the farmers smiles'
+p1755
+tp1756
+a(S'the mechanic knew the farmers are tall'
+p1757
+S'the mechanic knew the farmers is tall'
+p1758
+tp1759
+a(S'the mechanic knew the farmers are old'
+p1760
+S'the mechanic knew the farmers is old'
+p1761
+tp1762
+a(S'the mechanic knew the farmers are young'
+p1763
+S'the mechanic knew the farmers is young'
+p1764
+tp1765
+a(S'the mechanic knew the farmers are short'
+p1766
+S'the mechanic knew the farmers is short'
+p1767
+tp1768
+a(S'the mechanic knew the managers laugh'
+p1769
+S'the mechanic knew the managers laughs'
+p1770
+tp1771
+a(S'the mechanic knew the managers swim'
+p1772
+S'the mechanic knew the managers swims'
+p1773
+tp1774
+a(S'the mechanic knew the managers smile'
+p1775
+S'the mechanic knew the managers smiles'
+p1776
+tp1777
+a(S'the mechanic knew the managers are tall'
+p1778
+S'the mechanic knew the managers is tall'
+p1779
+tp1780
+a(S'the mechanic knew the managers are old'
+p1781
+S'the mechanic knew the managers is old'
+p1782
+tp1783
+a(S'the mechanic knew the managers are young'
+p1784
+S'the mechanic knew the managers is young'
+p1785
+tp1786
+a(S'the mechanic knew the managers are short'
+p1787
+S'the mechanic knew the managers is short'
+p1788
+tp1789
+a(S'the mechanic knew the customers laugh'
+p1790
+S'the mechanic knew the customers laughs'
+p1791
+tp1792
+a(S'the mechanic knew the customers swim'
+p1793
+S'the mechanic knew the customers swims'
+p1794
+tp1795
+a(S'the mechanic knew the customers smile'
+p1796
+S'the mechanic knew the customers smiles'
+p1797
+tp1798
+a(S'the mechanic knew the customers are tall'
+p1799
+S'the mechanic knew the customers is tall'
+p1800
+tp1801
+a(S'the mechanic knew the customers are old'
+p1802
+S'the mechanic knew the customers is old'
+p1803
+tp1804
+a(S'the mechanic knew the customers are young'
+p1805
+S'the mechanic knew the customers is young'
+p1806
+tp1807
+a(S'the mechanic knew the customers are short'
+p1808
+S'the mechanic knew the customers is short'
+p1809
+tp1810
+a(S'the mechanic knew the officers laugh'
+p1811
+S'the mechanic knew the officers laughs'
+p1812
+tp1813
+a(S'the mechanic knew the officers swim'
+p1814
+S'the mechanic knew the officers swims'
+p1815
+tp1816
+a(S'the mechanic knew the officers smile'
+p1817
+S'the mechanic knew the officers smiles'
+p1818
+tp1819
+a(S'the mechanic knew the officers are tall'
+p1820
+S'the mechanic knew the officers is tall'
+p1821
+tp1822
+a(S'the mechanic knew the officers are old'
+p1823
+S'the mechanic knew the officers is old'
+p1824
+tp1825
+a(S'the mechanic knew the officers are young'
+p1826
+S'the mechanic knew the officers is young'
+p1827
+tp1828
+a(S'the mechanic knew the officers are short'
+p1829
+S'the mechanic knew the officers is short'
+p1830
+tp1831
+a(S'the mechanic knew the teachers laugh'
+p1832
+S'the mechanic knew the teachers laughs'
+p1833
+tp1834
+a(S'the mechanic knew the teachers swim'
+p1835
+S'the mechanic knew the teachers swims'
+p1836
+tp1837
+a(S'the mechanic knew the teachers smile'
+p1838
+S'the mechanic knew the teachers smiles'
+p1839
+tp1840
+a(S'the mechanic knew the teachers are tall'
+p1841
+S'the mechanic knew the teachers is tall'
+p1842
+tp1843
+a(S'the mechanic knew the teachers are old'
+p1844
+S'the mechanic knew the teachers is old'
+p1845
+tp1846
+a(S'the mechanic knew the teachers are young'
+p1847
+S'the mechanic knew the teachers is young'
+p1848
+tp1849
+a(S'the mechanic knew the teachers are short'
+p1850
+S'the mechanic knew the teachers is short'
+p1851
+tp1852
+a(S'the mechanic knew the senators laugh'
+p1853
+S'the mechanic knew the senators laughs'
+p1854
+tp1855
+a(S'the mechanic knew the senators swim'
+p1856
+S'the mechanic knew the senators swims'
+p1857
+tp1858
+a(S'the mechanic knew the senators smile'
+p1859
+S'the mechanic knew the senators smiles'
+p1860
+tp1861
+a(S'the mechanic knew the senators are tall'
+p1862
+S'the mechanic knew the senators is tall'
+p1863
+tp1864
+a(S'the mechanic knew the senators are old'
+p1865
+S'the mechanic knew the senators is old'
+p1866
+tp1867
+a(S'the mechanic knew the senators are young'
+p1868
+S'the mechanic knew the senators is young'
+p1869
+tp1870
+a(S'the mechanic knew the senators are short'
+p1871
+S'the mechanic knew the senators is short'
+p1872
+tp1873
+a(S'the mechanic knew the consultants laugh'
+p1874
+S'the mechanic knew the consultants laughs'
+p1875
+tp1876
+a(S'the mechanic knew the consultants swim'
+p1877
+S'the mechanic knew the consultants swims'
+p1878
+tp1879
+a(S'the mechanic knew the consultants smile'
+p1880
+S'the mechanic knew the consultants smiles'
+p1881
+tp1882
+a(S'the mechanic knew the consultants are tall'
+p1883
+S'the mechanic knew the consultants is tall'
+p1884
+tp1885
+a(S'the mechanic knew the consultants are old'
+p1886
+S'the mechanic knew the consultants is old'
+p1887
+tp1888
+a(S'the mechanic knew the consultants are young'
+p1889
+S'the mechanic knew the consultants is young'
+p1890
+tp1891
+a(S'the mechanic knew the consultants are short'
+p1892
+S'the mechanic knew the consultants is short'
+p1893
+tp1894
+a(S'the banker said the authors laugh'
+p1895
+S'the banker said the authors laughs'
+p1896
+tp1897
+a(S'the banker said the authors swim'
+p1898
+S'the banker said the authors swims'
+p1899
+tp1900
+a(S'the banker said the authors smile'
+p1901
+S'the banker said the authors smiles'
+p1902
+tp1903
+a(S'the banker said the authors are tall'
+p1904
+S'the banker said the authors is tall'
+p1905
+tp1906
+a(S'the banker said the authors are old'
+p1907
+S'the banker said the authors is old'
+p1908
+tp1909
+a(S'the banker said the authors are young'
+p1910
+S'the banker said the authors is young'
+p1911
+tp1912
+a(S'the banker said the authors are short'
+p1913
+S'the banker said the authors is short'
+p1914
+tp1915
+a(S'the banker said the pilots laugh'
+p1916
+S'the banker said the pilots laughs'
+p1917
+tp1918
+a(S'the banker said the pilots swim'
+p1919
+S'the banker said the pilots swims'
+p1920
+tp1921
+a(S'the banker said the pilots smile'
+p1922
+S'the banker said the pilots smiles'
+p1923
+tp1924
+a(S'the banker said the pilots are tall'
+p1925
+S'the banker said the pilots is tall'
+p1926
+tp1927
+a(S'the banker said the pilots are old'
+p1928
+S'the banker said the pilots is old'
+p1929
+tp1930
+a(S'the banker said the pilots are young'
+p1931
+S'the banker said the pilots is young'
+p1932
+tp1933
+a(S'the banker said the pilots are short'
+p1934
+S'the banker said the pilots is short'
+p1935
+tp1936
+a(S'the banker said the surgeons laugh'
+p1937
+S'the banker said the surgeons laughs'
+p1938
+tp1939
+a(S'the banker said the surgeons swim'
+p1940
+S'the banker said the surgeons swims'
+p1941
+tp1942
+a(S'the banker said the surgeons smile'
+p1943
+S'the banker said the surgeons smiles'
+p1944
+tp1945
+a(S'the banker said the surgeons are tall'
+p1946
+S'the banker said the surgeons is tall'
+p1947
+tp1948
+a(S'the banker said the surgeons are old'
+p1949
+S'the banker said the surgeons is old'
+p1950
+tp1951
+a(S'the banker said the surgeons are young'
+p1952
+S'the banker said the surgeons is young'
+p1953
+tp1954
+a(S'the banker said the surgeons are short'
+p1955
+S'the banker said the surgeons is short'
+p1956
+tp1957
+a(S'the banker said the farmers laugh'
+p1958
+S'the banker said the farmers laughs'
+p1959
+tp1960
+a(S'the banker said the farmers swim'
+p1961
+S'the banker said the farmers swims'
+p1962
+tp1963
+a(S'the banker said the farmers smile'
+p1964
+S'the banker said the farmers smiles'
+p1965
+tp1966
+a(S'the banker said the farmers are tall'
+p1967
+S'the banker said the farmers is tall'
+p1968
+tp1969
+a(S'the banker said the farmers are old'
+p1970
+S'the banker said the farmers is old'
+p1971
+tp1972
+a(S'the banker said the farmers are young'
+p1973
+S'the banker said the farmers is young'
+p1974
+tp1975
+a(S'the banker said the farmers are short'
+p1976
+S'the banker said the farmers is short'
+p1977
+tp1978
+a(S'the banker said the managers laugh'
+p1979
+S'the banker said the managers laughs'
+p1980
+tp1981
+a(S'the banker said the managers swim'
+p1982
+S'the banker said the managers swims'
+p1983
+tp1984
+a(S'the banker said the managers smile'
+p1985
+S'the banker said the managers smiles'
+p1986
+tp1987
+a(S'the banker said the managers are tall'
+p1988
+S'the banker said the managers is tall'
+p1989
+tp1990
+a(S'the banker said the managers are old'
+p1991
+S'the banker said the managers is old'
+p1992
+tp1993
+a(S'the banker said the managers are young'
+p1994
+S'the banker said the managers is young'
+p1995
+tp1996
+a(S'the banker said the managers are short'
+p1997
+S'the banker said the managers is short'
+p1998
+tp1999
+a(S'the banker said the customers laugh'
+p2000
+S'the banker said the customers laughs'
+p2001
+tp2002
+a(S'the banker said the customers swim'
+p2003
+S'the banker said the customers swims'
+p2004
+tp2005
+a(S'the banker said the customers smile'
+p2006
+S'the banker said the customers smiles'
+p2007
+tp2008
+a(S'the banker said the customers are tall'
+p2009
+S'the banker said the customers is tall'
+p2010
+tp2011
+a(S'the banker said the customers are old'
+p2012
+S'the banker said the customers is old'
+p2013
+tp2014
+a(S'the banker said the customers are young'
+p2015
+S'the banker said the customers is young'
+p2016
+tp2017
+a(S'the banker said the customers are short'
+p2018
+S'the banker said the customers is short'
+p2019
+tp2020
+a(S'the banker said the officers laugh'
+p2021
+S'the banker said the officers laughs'
+p2022
+tp2023
+a(S'the banker said the officers swim'
+p2024
+S'the banker said the officers swims'
+p2025
+tp2026
+a(S'the banker said the officers smile'
+p2027
+S'the banker said the officers smiles'
+p2028
+tp2029
+a(S'the banker said the officers are tall'
+p2030
+S'the banker said the officers is tall'
+p2031
+tp2032
+a(S'the banker said the officers are old'
+p2033
+S'the banker said the officers is old'
+p2034
+tp2035
+a(S'the banker said the officers are young'
+p2036
+S'the banker said the officers is young'
+p2037
+tp2038
+a(S'the banker said the officers are short'
+p2039
+S'the banker said the officers is short'
+p2040
+tp2041
+a(S'the banker said the teachers laugh'
+p2042
+S'the banker said the teachers laughs'
+p2043
+tp2044
+a(S'the banker said the teachers swim'
+p2045
+S'the banker said the teachers swims'
+p2046
+tp2047
+a(S'the banker said the teachers smile'
+p2048
+S'the banker said the teachers smiles'
+p2049
+tp2050
+a(S'the banker said the teachers are tall'
+p2051
+S'the banker said the teachers is tall'
+p2052
+tp2053
+a(S'the banker said the teachers are old'
+p2054
+S'the banker said the teachers is old'
+p2055
+tp2056
+a(S'the banker said the teachers are young'
+p2057
+S'the banker said the teachers is young'
+p2058
+tp2059
+a(S'the banker said the teachers are short'
+p2060
+S'the banker said the teachers is short'
+p2061
+tp2062
+a(S'the banker said the senators laugh'
+p2063
+S'the banker said the senators laughs'
+p2064
+tp2065
+a(S'the banker said the senators swim'
+p2066
+S'the banker said the senators swims'
+p2067
+tp2068
+a(S'the banker said the senators smile'
+p2069
+S'the banker said the senators smiles'
+p2070
+tp2071
+a(S'the banker said the senators are tall'
+p2072
+S'the banker said the senators is tall'
+p2073
+tp2074
+a(S'the banker said the senators are old'
+p2075
+S'the banker said the senators is old'
+p2076
+tp2077
+a(S'the banker said the senators are young'
+p2078
+S'the banker said the senators is young'
+p2079
+tp2080
+a(S'the banker said the senators are short'
+p2081
+S'the banker said the senators is short'
+p2082
+tp2083
+a(S'the banker said the consultants laugh'
+p2084
+S'the banker said the consultants laughs'
+p2085
+tp2086
+a(S'the banker said the consultants swim'
+p2087
+S'the banker said the consultants swims'
+p2088
+tp2089
+a(S'the banker said the consultants smile'
+p2090
+S'the banker said the consultants smiles'
+p2091
+tp2092
+a(S'the banker said the consultants are tall'
+p2093
+S'the banker said the consultants is tall'
+p2094
+tp2095
+a(S'the banker said the consultants are old'
+p2096
+S'the banker said the consultants is old'
+p2097
+tp2098
+a(S'the banker said the consultants are young'
+p2099
+S'the banker said the consultants is young'
+p2100
+tp2101
+a(S'the banker said the consultants are short'
+p2102
+S'the banker said the consultants is short'
+p2103
+tp2104
+a(S'the banker thought the authors laugh'
+p2105
+S'the banker thought the authors laughs'
+p2106
+tp2107
+a(S'the banker thought the authors swim'
+p2108
+S'the banker thought the authors swims'
+p2109
+tp2110
+a(S'the banker thought the authors smile'
+p2111
+S'the banker thought the authors smiles'
+p2112
+tp2113
+a(S'the banker thought the authors are tall'
+p2114
+S'the banker thought the authors is tall'
+p2115
+tp2116
+a(S'the banker thought the authors are old'
+p2117
+S'the banker thought the authors is old'
+p2118
+tp2119
+a(S'the banker thought the authors are young'
+p2120
+S'the banker thought the authors is young'
+p2121
+tp2122
+a(S'the banker thought the authors are short'
+p2123
+S'the banker thought the authors is short'
+p2124
+tp2125
+a(S'the banker thought the pilots laugh'
+p2126
+S'the banker thought the pilots laughs'
+p2127
+tp2128
+a(S'the banker thought the pilots swim'
+p2129
+S'the banker thought the pilots swims'
+p2130
+tp2131
+a(S'the banker thought the pilots smile'
+p2132
+S'the banker thought the pilots smiles'
+p2133
+tp2134
+a(S'the banker thought the pilots are tall'
+p2135
+S'the banker thought the pilots is tall'
+p2136
+tp2137
+a(S'the banker thought the pilots are old'
+p2138
+S'the banker thought the pilots is old'
+p2139
+tp2140
+a(S'the banker thought the pilots are young'
+p2141
+S'the banker thought the pilots is young'
+p2142
+tp2143
+a(S'the banker thought the pilots are short'
+p2144
+S'the banker thought the pilots is short'
+p2145
+tp2146
+a(S'the banker thought the surgeons laugh'
+p2147
+S'the banker thought the surgeons laughs'
+p2148
+tp2149
+a(S'the banker thought the surgeons swim'
+p2150
+S'the banker thought the surgeons swims'
+p2151
+tp2152
+a(S'the banker thought the surgeons smile'
+p2153
+S'the banker thought the surgeons smiles'
+p2154
+tp2155
+a(S'the banker thought the surgeons are tall'
+p2156
+S'the banker thought the surgeons is tall'
+p2157
+tp2158
+a(S'the banker thought the surgeons are old'
+p2159
+S'the banker thought the surgeons is old'
+p2160
+tp2161
+a(S'the banker thought the surgeons are young'
+p2162
+S'the banker thought the surgeons is young'
+p2163
+tp2164
+a(S'the banker thought the surgeons are short'
+p2165
+S'the banker thought the surgeons is short'
+p2166
+tp2167
+a(S'the banker thought the farmers laugh'
+p2168
+S'the banker thought the farmers laughs'
+p2169
+tp2170
+a(S'the banker thought the farmers swim'
+p2171
+S'the banker thought the farmers swims'
+p2172
+tp2173
+a(S'the banker thought the farmers smile'
+p2174
+S'the banker thought the farmers smiles'
+p2175
+tp2176
+a(S'the banker thought the farmers are tall'
+p2177
+S'the banker thought the farmers is tall'
+p2178
+tp2179
+a(S'the banker thought the farmers are old'
+p2180
+S'the banker thought the farmers is old'
+p2181
+tp2182
+a(S'the banker thought the farmers are young'
+p2183
+S'the banker thought the farmers is young'
+p2184
+tp2185
+a(S'the banker thought the farmers are short'
+p2186
+S'the banker thought the farmers is short'
+p2187
+tp2188
+a(S'the banker thought the managers laugh'
+p2189
+S'the banker thought the managers laughs'
+p2190
+tp2191
+a(S'the banker thought the managers swim'
+p2192
+S'the banker thought the managers swims'
+p2193
+tp2194
+a(S'the banker thought the managers smile'
+p2195
+S'the banker thought the managers smiles'
+p2196
+tp2197
+a(S'the banker thought the managers are tall'
+p2198
+S'the banker thought the managers is tall'
+p2199
+tp2200
+a(S'the banker thought the managers are old'
+p2201
+S'the banker thought the managers is old'
+p2202
+tp2203
+a(S'the banker thought the managers are young'
+p2204
+S'the banker thought the managers is young'
+p2205
+tp2206
+a(S'the banker thought the managers are short'
+p2207
+S'the banker thought the managers is short'
+p2208
+tp2209
+a(S'the banker thought the customers laugh'
+p2210
+S'the banker thought the customers laughs'
+p2211
+tp2212
+a(S'the banker thought the customers swim'
+p2213
+S'the banker thought the customers swims'
+p2214
+tp2215
+a(S'the banker thought the customers smile'
+p2216
+S'the banker thought the customers smiles'
+p2217
+tp2218
+a(S'the banker thought the customers are tall'
+p2219
+S'the banker thought the customers is tall'
+p2220
+tp2221
+a(S'the banker thought the customers are old'
+p2222
+S'the banker thought the customers is old'
+p2223
+tp2224
+a(S'the banker thought the customers are young'
+p2225
+S'the banker thought the customers is young'
+p2226
+tp2227
+a(S'the banker thought the customers are short'
+p2228
+S'the banker thought the customers is short'
+p2229
+tp2230
+a(S'the banker thought the officers laugh'
+p2231
+S'the banker thought the officers laughs'
+p2232
+tp2233
+a(S'the banker thought the officers swim'
+p2234
+S'the banker thought the officers swims'
+p2235
+tp2236
+a(S'the banker thought the officers smile'
+p2237
+S'the banker thought the officers smiles'
+p2238
+tp2239
+a(S'the banker thought the officers are tall'
+p2240
+S'the banker thought the officers is tall'
+p2241
+tp2242
+a(S'the banker thought the officers are old'
+p2243
+S'the banker thought the officers is old'
+p2244
+tp2245
+a(S'the banker thought the officers are young'
+p2246
+S'the banker thought the officers is young'
+p2247
+tp2248
+a(S'the banker thought the officers are short'
+p2249
+S'the banker thought the officers is short'
+p2250
+tp2251
+a(S'the banker thought the teachers laugh'
+p2252
+S'the banker thought the teachers laughs'
+p2253
+tp2254
+a(S'the banker thought the teachers swim'
+p2255
+S'the banker thought the teachers swims'
+p2256
+tp2257
+a(S'the banker thought the teachers smile'
+p2258
+S'the banker thought the teachers smiles'
+p2259
+tp2260
+a(S'the banker thought the teachers are tall'
+p2261
+S'the banker thought the teachers is tall'
+p2262
+tp2263
+a(S'the banker thought the teachers are old'
+p2264
+S'the banker thought the teachers is old'
+p2265
+tp2266
+a(S'the banker thought the teachers are young'
+p2267
+S'the banker thought the teachers is young'
+p2268
+tp2269
+a(S'the banker thought the teachers are short'
+p2270
+S'the banker thought the teachers is short'
+p2271
+tp2272
+a(S'the banker thought the senators laugh'
+p2273
+S'the banker thought the senators laughs'
+p2274
+tp2275
+a(S'the banker thought the senators swim'
+p2276
+S'the banker thought the senators swims'
+p2277
+tp2278
+a(S'the banker thought the senators smile'
+p2279
+S'the banker thought the senators smiles'
+p2280
+tp2281
+a(S'the banker thought the senators are tall'
+p2282
+S'the banker thought the senators is tall'
+p2283
+tp2284
+a(S'the banker thought the senators are old'
+p2285
+S'the banker thought the senators is old'
+p2286
+tp2287
+a(S'the banker thought the senators are young'
+p2288
+S'the banker thought the senators is young'
+p2289
+tp2290
+a(S'the banker thought the senators are short'
+p2291
+S'the banker thought the senators is short'
+p2292
+tp2293
+a(S'the banker thought the consultants laugh'
+p2294
+S'the banker thought the consultants laughs'
+p2295
+tp2296
+a(S'the banker thought the consultants swim'
+p2297
+S'the banker thought the consultants swims'
+p2298
+tp2299
+a(S'the banker thought the consultants smile'
+p2300
+S'the banker thought the consultants smiles'
+p2301
+tp2302
+a(S'the banker thought the consultants are tall'
+p2303
+S'the banker thought the consultants is tall'
+p2304
+tp2305
+a(S'the banker thought the consultants are old'
+p2306
+S'the banker thought the consultants is old'
+p2307
+tp2308
+a(S'the banker thought the consultants are young'
+p2309
+S'the banker thought the consultants is young'
+p2310
+tp2311
+a(S'the banker thought the consultants are short'
+p2312
+S'the banker thought the consultants is short'
+p2313
+tp2314
+a(S'the banker knew the authors laugh'
+p2315
+S'the banker knew the authors laughs'
+p2316
+tp2317
+a(S'the banker knew the authors swim'
+p2318
+S'the banker knew the authors swims'
+p2319
+tp2320
+a(S'the banker knew the authors smile'
+p2321
+S'the banker knew the authors smiles'
+p2322
+tp2323
+a(S'the banker knew the authors are tall'
+p2324
+S'the banker knew the authors is tall'
+p2325
+tp2326
+a(S'the banker knew the authors are old'
+p2327
+S'the banker knew the authors is old'
+p2328
+tp2329
+a(S'the banker knew the authors are young'
+p2330
+S'the banker knew the authors is young'
+p2331
+tp2332
+a(S'the banker knew the authors are short'
+p2333
+S'the banker knew the authors is short'
+p2334
+tp2335
+a(S'the banker knew the pilots laugh'
+p2336
+S'the banker knew the pilots laughs'
+p2337
+tp2338
+a(S'the banker knew the pilots swim'
+p2339
+S'the banker knew the pilots swims'
+p2340
+tp2341
+a(S'the banker knew the pilots smile'
+p2342
+S'the banker knew the pilots smiles'
+p2343
+tp2344
+a(S'the banker knew the pilots are tall'
+p2345
+S'the banker knew the pilots is tall'
+p2346
+tp2347
+a(S'the banker knew the pilots are old'
+p2348
+S'the banker knew the pilots is old'
+p2349
+tp2350
+a(S'the banker knew the pilots are young'
+p2351
+S'the banker knew the pilots is young'
+p2352
+tp2353
+a(S'the banker knew the pilots are short'
+p2354
+S'the banker knew the pilots is short'
+p2355
+tp2356
+a(S'the banker knew the surgeons laugh'
+p2357
+S'the banker knew the surgeons laughs'
+p2358
+tp2359
+a(S'the banker knew the surgeons swim'
+p2360
+S'the banker knew the surgeons swims'
+p2361
+tp2362
+a(S'the banker knew the surgeons smile'
+p2363
+S'the banker knew the surgeons smiles'
+p2364
+tp2365
+a(S'the banker knew the surgeons are tall'
+p2366
+S'the banker knew the surgeons is tall'
+p2367
+tp2368
+a(S'the banker knew the surgeons are old'
+p2369
+S'the banker knew the surgeons is old'
+p2370
+tp2371
+a(S'the banker knew the surgeons are young'
+p2372
+S'the banker knew the surgeons is young'
+p2373
+tp2374
+a(S'the banker knew the surgeons are short'
+p2375
+S'the banker knew the surgeons is short'
+p2376
+tp2377
+a(S'the banker knew the farmers laugh'
+p2378
+S'the banker knew the farmers laughs'
+p2379
+tp2380
+a(S'the banker knew the farmers swim'
+p2381
+S'the banker knew the farmers swims'
+p2382
+tp2383
+a(S'the banker knew the farmers smile'
+p2384
+S'the banker knew the farmers smiles'
+p2385
+tp2386
+a(S'the banker knew the farmers are tall'
+p2387
+S'the banker knew the farmers is tall'
+p2388
+tp2389
+a(S'the banker knew the farmers are old'
+p2390
+S'the banker knew the farmers is old'
+p2391
+tp2392
+a(S'the banker knew the farmers are young'
+p2393
+S'the banker knew the farmers is young'
+p2394
+tp2395
+a(S'the banker knew the farmers are short'
+p2396
+S'the banker knew the farmers is short'
+p2397
+tp2398
+a(S'the banker knew the managers laugh'
+p2399
+S'the banker knew the managers laughs'
+p2400
+tp2401
+a(S'the banker knew the managers swim'
+p2402
+S'the banker knew the managers swims'
+p2403
+tp2404
+a(S'the banker knew the managers smile'
+p2405
+S'the banker knew the managers smiles'
+p2406
+tp2407
+a(S'the banker knew the managers are tall'
+p2408
+S'the banker knew the managers is tall'
+p2409
+tp2410
+a(S'the banker knew the managers are old'
+p2411
+S'the banker knew the managers is old'
+p2412
+tp2413
+a(S'the banker knew the managers are young'
+p2414
+S'the banker knew the managers is young'
+p2415
+tp2416
+a(S'the banker knew the managers are short'
+p2417
+S'the banker knew the managers is short'
+p2418
+tp2419
+a(S'the banker knew the customers laugh'
+p2420
+S'the banker knew the customers laughs'
+p2421
+tp2422
+a(S'the banker knew the customers swim'
+p2423
+S'the banker knew the customers swims'
+p2424
+tp2425
+a(S'the banker knew the customers smile'
+p2426
+S'the banker knew the customers smiles'
+p2427
+tp2428
+a(S'the banker knew the customers are tall'
+p2429
+S'the banker knew the customers is tall'
+p2430
+tp2431
+a(S'the banker knew the customers are old'
+p2432
+S'the banker knew the customers is old'
+p2433
+tp2434
+a(S'the banker knew the customers are young'
+p2435
+S'the banker knew the customers is young'
+p2436
+tp2437
+a(S'the banker knew the customers are short'
+p2438
+S'the banker knew the customers is short'
+p2439
+tp2440
+a(S'the banker knew the officers laugh'
+p2441
+S'the banker knew the officers laughs'
+p2442
+tp2443
+a(S'the banker knew the officers swim'
+p2444
+S'the banker knew the officers swims'
+p2445
+tp2446
+a(S'the banker knew the officers smile'
+p2447
+S'the banker knew the officers smiles'
+p2448
+tp2449
+a(S'the banker knew the officers are tall'
+p2450
+S'the banker knew the officers is tall'
+p2451
+tp2452
+a(S'the banker knew the officers are old'
+p2453
+S'the banker knew the officers is old'
+p2454
+tp2455
+a(S'the banker knew the officers are young'
+p2456
+S'the banker knew the officers is young'
+p2457
+tp2458
+a(S'the banker knew the officers are short'
+p2459
+S'the banker knew the officers is short'
+p2460
+tp2461
+a(S'the banker knew the teachers laugh'
+p2462
+S'the banker knew the teachers laughs'
+p2463
+tp2464
+a(S'the banker knew the teachers swim'
+p2465
+S'the banker knew the teachers swims'
+p2466
+tp2467
+a(S'the banker knew the teachers smile'
+p2468
+S'the banker knew the teachers smiles'
+p2469
+tp2470
+a(S'the banker knew the teachers are tall'
+p2471
+S'the banker knew the teachers is tall'
+p2472
+tp2473
+a(S'the banker knew the teachers are old'
+p2474
+S'the banker knew the teachers is old'
+p2475
+tp2476
+a(S'the banker knew the teachers are young'
+p2477
+S'the banker knew the teachers is young'
+p2478
+tp2479
+a(S'the banker knew the teachers are short'
+p2480
+S'the banker knew the teachers is short'
+p2481
+tp2482
+a(S'the banker knew the senators laugh'
+p2483
+S'the banker knew the senators laughs'
+p2484
+tp2485
+a(S'the banker knew the senators swim'
+p2486
+S'the banker knew the senators swims'
+p2487
+tp2488
+a(S'the banker knew the senators smile'
+p2489
+S'the banker knew the senators smiles'
+p2490
+tp2491
+a(S'the banker knew the senators are tall'
+p2492
+S'the banker knew the senators is tall'
+p2493
+tp2494
+a(S'the banker knew the senators are old'
+p2495
+S'the banker knew the senators is old'
+p2496
+tp2497
+a(S'the banker knew the senators are young'
+p2498
+S'the banker knew the senators is young'
+p2499
+tp2500
+a(S'the banker knew the senators are short'
+p2501
+S'the banker knew the senators is short'
+p2502
+tp2503
+a(S'the banker knew the consultants laugh'
+p2504
+S'the banker knew the consultants laughs'
+p2505
+tp2506
+a(S'the banker knew the consultants swim'
+p2507
+S'the banker knew the consultants swims'
+p2508
+tp2509
+a(S'the banker knew the consultants smile'
+p2510
+S'the banker knew the consultants smiles'
+p2511
+tp2512
+a(S'the banker knew the consultants are tall'
+p2513
+S'the banker knew the consultants is tall'
+p2514
+tp2515
+a(S'the banker knew the consultants are old'
+p2516
+S'the banker knew the consultants is old'
+p2517
+tp2518
+a(S'the banker knew the consultants are young'
+p2519
+S'the banker knew the consultants is young'
+p2520
+tp2521
+a(S'the banker knew the consultants are short'
+p2522
+S'the banker knew the consultants is short'
+p2523
+tp2524
+asS'sing_MS_MV_sing_BS'
+p2525
+(lp2526
+(S'the mechanic said the author laughs'
+p2527
+S'the mechanic said the author laugh'
+p2528
+tp2529
+a(S'the mechanic said the author swims'
+p2530
+S'the mechanic said the author swim'
+p2531
+tp2532
+a(S'the mechanic said the author smiles'
+p2533
+S'the mechanic said the author smile'
+p2534
+tp2535
+a(S'the mechanic said the author is tall'
+p2536
+S'the mechanic said the author are tall'
+p2537
+tp2538
+a(S'the mechanic said the author is old'
+p2539
+S'the mechanic said the author are old'
+p2540
+tp2541
+a(S'the mechanic said the author is young'
+p2542
+S'the mechanic said the author are young'
+p2543
+tp2544
+a(S'the mechanic said the author is short'
+p2545
+S'the mechanic said the author are short'
+p2546
+tp2547
+a(S'the mechanic said the pilot laughs'
+p2548
+S'the mechanic said the pilot laugh'
+p2549
+tp2550
+a(S'the mechanic said the pilot swims'
+p2551
+S'the mechanic said the pilot swim'
+p2552
+tp2553
+a(S'the mechanic said the pilot smiles'
+p2554
+S'the mechanic said the pilot smile'
+p2555
+tp2556
+a(S'the mechanic said the pilot is tall'
+p2557
+S'the mechanic said the pilot are tall'
+p2558
+tp2559
+a(S'the mechanic said the pilot is old'
+p2560
+S'the mechanic said the pilot are old'
+p2561
+tp2562
+a(S'the mechanic said the pilot is young'
+p2563
+S'the mechanic said the pilot are young'
+p2564
+tp2565
+a(S'the mechanic said the pilot is short'
+p2566
+S'the mechanic said the pilot are short'
+p2567
+tp2568
+a(S'the mechanic said the surgeon laughs'
+p2569
+S'the mechanic said the surgeon laugh'
+p2570
+tp2571
+a(S'the mechanic said the surgeon swims'
+p2572
+S'the mechanic said the surgeon swim'
+p2573
+tp2574
+a(S'the mechanic said the surgeon smiles'
+p2575
+S'the mechanic said the surgeon smile'
+p2576
+tp2577
+a(S'the mechanic said the surgeon is tall'
+p2578
+S'the mechanic said the surgeon are tall'
+p2579
+tp2580
+a(S'the mechanic said the surgeon is old'
+p2581
+S'the mechanic said the surgeon are old'
+p2582
+tp2583
+a(S'the mechanic said the surgeon is young'
+p2584
+S'the mechanic said the surgeon are young'
+p2585
+tp2586
+a(S'the mechanic said the surgeon is short'
+p2587
+S'the mechanic said the surgeon are short'
+p2588
+tp2589
+a(S'the mechanic said the farmer laughs'
+p2590
+S'the mechanic said the farmer laugh'
+p2591
+tp2592
+a(S'the mechanic said the farmer swims'
+p2593
+S'the mechanic said the farmer swim'
+p2594
+tp2595
+a(S'the mechanic said the farmer smiles'
+p2596
+S'the mechanic said the farmer smile'
+p2597
+tp2598
+a(S'the mechanic said the farmer is tall'
+p2599
+S'the mechanic said the farmer are tall'
+p2600
+tp2601
+a(S'the mechanic said the farmer is old'
+p2602
+S'the mechanic said the farmer are old'
+p2603
+tp2604
+a(S'the mechanic said the farmer is young'
+p2605
+S'the mechanic said the farmer are young'
+p2606
+tp2607
+a(S'the mechanic said the farmer is short'
+p2608
+S'the mechanic said the farmer are short'
+p2609
+tp2610
+a(S'the mechanic said the manager laughs'
+p2611
+S'the mechanic said the manager laugh'
+p2612
+tp2613
+a(S'the mechanic said the manager swims'
+p2614
+S'the mechanic said the manager swim'
+p2615
+tp2616
+a(S'the mechanic said the manager smiles'
+p2617
+S'the mechanic said the manager smile'
+p2618
+tp2619
+a(S'the mechanic said the manager is tall'
+p2620
+S'the mechanic said the manager are tall'
+p2621
+tp2622
+a(S'the mechanic said the manager is old'
+p2623
+S'the mechanic said the manager are old'
+p2624
+tp2625
+a(S'the mechanic said the manager is young'
+p2626
+S'the mechanic said the manager are young'
+p2627
+tp2628
+a(S'the mechanic said the manager is short'
+p2629
+S'the mechanic said the manager are short'
+p2630
+tp2631
+a(S'the mechanic said the customer laughs'
+p2632
+S'the mechanic said the customer laugh'
+p2633
+tp2634
+a(S'the mechanic said the customer swims'
+p2635
+S'the mechanic said the customer swim'
+p2636
+tp2637
+a(S'the mechanic said the customer smiles'
+p2638
+S'the mechanic said the customer smile'
+p2639
+tp2640
+a(S'the mechanic said the customer is tall'
+p2641
+S'the mechanic said the customer are tall'
+p2642
+tp2643
+a(S'the mechanic said the customer is old'
+p2644
+S'the mechanic said the customer are old'
+p2645
+tp2646
+a(S'the mechanic said the customer is young'
+p2647
+S'the mechanic said the customer are young'
+p2648
+tp2649
+a(S'the mechanic said the customer is short'
+p2650
+S'the mechanic said the customer are short'
+p2651
+tp2652
+a(S'the mechanic said the officer laughs'
+p2653
+S'the mechanic said the officer laugh'
+p2654
+tp2655
+a(S'the mechanic said the officer swims'
+p2656
+S'the mechanic said the officer swim'
+p2657
+tp2658
+a(S'the mechanic said the officer smiles'
+p2659
+S'the mechanic said the officer smile'
+p2660
+tp2661
+a(S'the mechanic said the officer is tall'
+p2662
+S'the mechanic said the officer are tall'
+p2663
+tp2664
+a(S'the mechanic said the officer is old'
+p2665
+S'the mechanic said the officer are old'
+p2666
+tp2667
+a(S'the mechanic said the officer is young'
+p2668
+S'the mechanic said the officer are young'
+p2669
+tp2670
+a(S'the mechanic said the officer is short'
+p2671
+S'the mechanic said the officer are short'
+p2672
+tp2673
+a(S'the mechanic said the teacher laughs'
+p2674
+S'the mechanic said the teacher laugh'
+p2675
+tp2676
+a(S'the mechanic said the teacher swims'
+p2677
+S'the mechanic said the teacher swim'
+p2678
+tp2679
+a(S'the mechanic said the teacher smiles'
+p2680
+S'the mechanic said the teacher smile'
+p2681
+tp2682
+a(S'the mechanic said the teacher is tall'
+p2683
+S'the mechanic said the teacher are tall'
+p2684
+tp2685
+a(S'the mechanic said the teacher is old'
+p2686
+S'the mechanic said the teacher are old'
+p2687
+tp2688
+a(S'the mechanic said the teacher is young'
+p2689
+S'the mechanic said the teacher are young'
+p2690
+tp2691
+a(S'the mechanic said the teacher is short'
+p2692
+S'the mechanic said the teacher are short'
+p2693
+tp2694
+a(S'the mechanic said the senator laughs'
+p2695
+S'the mechanic said the senator laugh'
+p2696
+tp2697
+a(S'the mechanic said the senator swims'
+p2698
+S'the mechanic said the senator swim'
+p2699
+tp2700
+a(S'the mechanic said the senator smiles'
+p2701
+S'the mechanic said the senator smile'
+p2702
+tp2703
+a(S'the mechanic said the senator is tall'
+p2704
+S'the mechanic said the senator are tall'
+p2705
+tp2706
+a(S'the mechanic said the senator is old'
+p2707
+S'the mechanic said the senator are old'
+p2708
+tp2709
+a(S'the mechanic said the senator is young'
+p2710
+S'the mechanic said the senator are young'
+p2711
+tp2712
+a(S'the mechanic said the senator is short'
+p2713
+S'the mechanic said the senator are short'
+p2714
+tp2715
+a(S'the mechanic said the consultant laughs'
+p2716
+S'the mechanic said the consultant laugh'
+p2717
+tp2718
+a(S'the mechanic said the consultant swims'
+p2719
+S'the mechanic said the consultant swim'
+p2720
+tp2721
+a(S'the mechanic said the consultant smiles'
+p2722
+S'the mechanic said the consultant smile'
+p2723
+tp2724
+a(S'the mechanic said the consultant is tall'
+p2725
+S'the mechanic said the consultant are tall'
+p2726
+tp2727
+a(S'the mechanic said the consultant is old'
+p2728
+S'the mechanic said the consultant are old'
+p2729
+tp2730
+a(S'the mechanic said the consultant is young'
+p2731
+S'the mechanic said the consultant are young'
+p2732
+tp2733
+a(S'the mechanic said the consultant is short'
+p2734
+S'the mechanic said the consultant are short'
+p2735
+tp2736
+a(S'the mechanic thought the author laughs'
+p2737
+S'the mechanic thought the author laugh'
+p2738
+tp2739
+a(S'the mechanic thought the author swims'
+p2740
+S'the mechanic thought the author swim'
+p2741
+tp2742
+a(S'the mechanic thought the author smiles'
+p2743
+S'the mechanic thought the author smile'
+p2744
+tp2745
+a(S'the mechanic thought the author is tall'
+p2746
+S'the mechanic thought the author are tall'
+p2747
+tp2748
+a(S'the mechanic thought the author is old'
+p2749
+S'the mechanic thought the author are old'
+p2750
+tp2751
+a(S'the mechanic thought the author is young'
+p2752
+S'the mechanic thought the author are young'
+p2753
+tp2754
+a(S'the mechanic thought the author is short'
+p2755
+S'the mechanic thought the author are short'
+p2756
+tp2757
+a(S'the mechanic thought the pilot laughs'
+p2758
+S'the mechanic thought the pilot laugh'
+p2759
+tp2760
+a(S'the mechanic thought the pilot swims'
+p2761
+S'the mechanic thought the pilot swim'
+p2762
+tp2763
+a(S'the mechanic thought the pilot smiles'
+p2764
+S'the mechanic thought the pilot smile'
+p2765
+tp2766
+a(S'the mechanic thought the pilot is tall'
+p2767
+S'the mechanic thought the pilot are tall'
+p2768
+tp2769
+a(S'the mechanic thought the pilot is old'
+p2770
+S'the mechanic thought the pilot are old'
+p2771
+tp2772
+a(S'the mechanic thought the pilot is young'
+p2773
+S'the mechanic thought the pilot are young'
+p2774
+tp2775
+a(S'the mechanic thought the pilot is short'
+p2776
+S'the mechanic thought the pilot are short'
+p2777
+tp2778
+a(S'the mechanic thought the surgeon laughs'
+p2779
+S'the mechanic thought the surgeon laugh'
+p2780
+tp2781
+a(S'the mechanic thought the surgeon swims'
+p2782
+S'the mechanic thought the surgeon swim'
+p2783
+tp2784
+a(S'the mechanic thought the surgeon smiles'
+p2785
+S'the mechanic thought the surgeon smile'
+p2786
+tp2787
+a(S'the mechanic thought the surgeon is tall'
+p2788
+S'the mechanic thought the surgeon are tall'
+p2789
+tp2790
+a(S'the mechanic thought the surgeon is old'
+p2791
+S'the mechanic thought the surgeon are old'
+p2792
+tp2793
+a(S'the mechanic thought the surgeon is young'
+p2794
+S'the mechanic thought the surgeon are young'
+p2795
+tp2796
+a(S'the mechanic thought the surgeon is short'
+p2797
+S'the mechanic thought the surgeon are short'
+p2798
+tp2799
+a(S'the mechanic thought the farmer laughs'
+p2800
+S'the mechanic thought the farmer laugh'
+p2801
+tp2802
+a(S'the mechanic thought the farmer swims'
+p2803
+S'the mechanic thought the farmer swim'
+p2804
+tp2805
+a(S'the mechanic thought the farmer smiles'
+p2806
+S'the mechanic thought the farmer smile'
+p2807
+tp2808
+a(S'the mechanic thought the farmer is tall'
+p2809
+S'the mechanic thought the farmer are tall'
+p2810
+tp2811
+a(S'the mechanic thought the farmer is old'
+p2812
+S'the mechanic thought the farmer are old'
+p2813
+tp2814
+a(S'the mechanic thought the farmer is young'
+p2815
+S'the mechanic thought the farmer are young'
+p2816
+tp2817
+a(S'the mechanic thought the farmer is short'
+p2818
+S'the mechanic thought the farmer are short'
+p2819
+tp2820
+a(S'the mechanic thought the manager laughs'
+p2821
+S'the mechanic thought the manager laugh'
+p2822
+tp2823
+a(S'the mechanic thought the manager swims'
+p2824
+S'the mechanic thought the manager swim'
+p2825
+tp2826
+a(S'the mechanic thought the manager smiles'
+p2827
+S'the mechanic thought the manager smile'
+p2828
+tp2829
+a(S'the mechanic thought the manager is tall'
+p2830
+S'the mechanic thought the manager are tall'
+p2831
+tp2832
+a(S'the mechanic thought the manager is old'
+p2833
+S'the mechanic thought the manager are old'
+p2834
+tp2835
+a(S'the mechanic thought the manager is young'
+p2836
+S'the mechanic thought the manager are young'
+p2837
+tp2838
+a(S'the mechanic thought the manager is short'
+p2839
+S'the mechanic thought the manager are short'
+p2840
+tp2841
+a(S'the mechanic thought the customer laughs'
+p2842
+S'the mechanic thought the customer laugh'
+p2843
+tp2844
+a(S'the mechanic thought the customer swims'
+p2845
+S'the mechanic thought the customer swim'
+p2846
+tp2847
+a(S'the mechanic thought the customer smiles'
+p2848
+S'the mechanic thought the customer smile'
+p2849
+tp2850
+a(S'the mechanic thought the customer is tall'
+p2851
+S'the mechanic thought the customer are tall'
+p2852
+tp2853
+a(S'the mechanic thought the customer is old'
+p2854
+S'the mechanic thought the customer are old'
+p2855
+tp2856
+a(S'the mechanic thought the customer is young'
+p2857
+S'the mechanic thought the customer are young'
+p2858
+tp2859
+a(S'the mechanic thought the customer is short'
+p2860
+S'the mechanic thought the customer are short'
+p2861
+tp2862
+a(S'the mechanic thought the officer laughs'
+p2863
+S'the mechanic thought the officer laugh'
+p2864
+tp2865
+a(S'the mechanic thought the officer swims'
+p2866
+S'the mechanic thought the officer swim'
+p2867
+tp2868
+a(S'the mechanic thought the officer smiles'
+p2869
+S'the mechanic thought the officer smile'
+p2870
+tp2871
+a(S'the mechanic thought the officer is tall'
+p2872
+S'the mechanic thought the officer are tall'
+p2873
+tp2874
+a(S'the mechanic thought the officer is old'
+p2875
+S'the mechanic thought the officer are old'
+p2876
+tp2877
+a(S'the mechanic thought the officer is young'
+p2878
+S'the mechanic thought the officer are young'
+p2879
+tp2880
+a(S'the mechanic thought the officer is short'
+p2881
+S'the mechanic thought the officer are short'
+p2882
+tp2883
+a(S'the mechanic thought the teacher laughs'
+p2884
+S'the mechanic thought the teacher laugh'
+p2885
+tp2886
+a(S'the mechanic thought the teacher swims'
+p2887
+S'the mechanic thought the teacher swim'
+p2888
+tp2889
+a(S'the mechanic thought the teacher smiles'
+p2890
+S'the mechanic thought the teacher smile'
+p2891
+tp2892
+a(S'the mechanic thought the teacher is tall'
+p2893
+S'the mechanic thought the teacher are tall'
+p2894
+tp2895
+a(S'the mechanic thought the teacher is old'
+p2896
+S'the mechanic thought the teacher are old'
+p2897
+tp2898
+a(S'the mechanic thought the teacher is young'
+p2899
+S'the mechanic thought the teacher are young'
+p2900
+tp2901
+a(S'the mechanic thought the teacher is short'
+p2902
+S'the mechanic thought the teacher are short'
+p2903
+tp2904
+a(S'the mechanic thought the senator laughs'
+p2905
+S'the mechanic thought the senator laugh'
+p2906
+tp2907
+a(S'the mechanic thought the senator swims'
+p2908
+S'the mechanic thought the senator swim'
+p2909
+tp2910
+a(S'the mechanic thought the senator smiles'
+p2911
+S'the mechanic thought the senator smile'
+p2912
+tp2913
+a(S'the mechanic thought the senator is tall'
+p2914
+S'the mechanic thought the senator are tall'
+p2915
+tp2916
+a(S'the mechanic thought the senator is old'
+p2917
+S'the mechanic thought the senator are old'
+p2918
+tp2919
+a(S'the mechanic thought the senator is young'
+p2920
+S'the mechanic thought the senator are young'
+p2921
+tp2922
+a(S'the mechanic thought the senator is short'
+p2923
+S'the mechanic thought the senator are short'
+p2924
+tp2925
+a(S'the mechanic thought the consultant laughs'
+p2926
+S'the mechanic thought the consultant laugh'
+p2927
+tp2928
+a(S'the mechanic thought the consultant swims'
+p2929
+S'the mechanic thought the consultant swim'
+p2930
+tp2931
+a(S'the mechanic thought the consultant smiles'
+p2932
+S'the mechanic thought the consultant smile'
+p2933
+tp2934
+a(S'the mechanic thought the consultant is tall'
+p2935
+S'the mechanic thought the consultant are tall'
+p2936
+tp2937
+a(S'the mechanic thought the consultant is old'
+p2938
+S'the mechanic thought the consultant are old'
+p2939
+tp2940
+a(S'the mechanic thought the consultant is young'
+p2941
+S'the mechanic thought the consultant are young'
+p2942
+tp2943
+a(S'the mechanic thought the consultant is short'
+p2944
+S'the mechanic thought the consultant are short'
+p2945
+tp2946
+a(S'the mechanic knew the author laughs'
+p2947
+S'the mechanic knew the author laugh'
+p2948
+tp2949
+a(S'the mechanic knew the author swims'
+p2950
+S'the mechanic knew the author swim'
+p2951
+tp2952
+a(S'the mechanic knew the author smiles'
+p2953
+S'the mechanic knew the author smile'
+p2954
+tp2955
+a(S'the mechanic knew the author is tall'
+p2956
+S'the mechanic knew the author are tall'
+p2957
+tp2958
+a(S'the mechanic knew the author is old'
+p2959
+S'the mechanic knew the author are old'
+p2960
+tp2961
+a(S'the mechanic knew the author is young'
+p2962
+S'the mechanic knew the author are young'
+p2963
+tp2964
+a(S'the mechanic knew the author is short'
+p2965
+S'the mechanic knew the author are short'
+p2966
+tp2967
+a(S'the mechanic knew the pilot laughs'
+p2968
+S'the mechanic knew the pilot laugh'
+p2969
+tp2970
+a(S'the mechanic knew the pilot swims'
+p2971
+S'the mechanic knew the pilot swim'
+p2972
+tp2973
+a(S'the mechanic knew the pilot smiles'
+p2974
+S'the mechanic knew the pilot smile'
+p2975
+tp2976
+a(S'the mechanic knew the pilot is tall'
+p2977
+S'the mechanic knew the pilot are tall'
+p2978
+tp2979
+a(S'the mechanic knew the pilot is old'
+p2980
+S'the mechanic knew the pilot are old'
+p2981
+tp2982
+a(S'the mechanic knew the pilot is young'
+p2983
+S'the mechanic knew the pilot are young'
+p2984
+tp2985
+a(S'the mechanic knew the pilot is short'
+p2986
+S'the mechanic knew the pilot are short'
+p2987
+tp2988
+a(S'the mechanic knew the surgeon laughs'
+p2989
+S'the mechanic knew the surgeon laugh'
+p2990
+tp2991
+a(S'the mechanic knew the surgeon swims'
+p2992
+S'the mechanic knew the surgeon swim'
+p2993
+tp2994
+a(S'the mechanic knew the surgeon smiles'
+p2995
+S'the mechanic knew the surgeon smile'
+p2996
+tp2997
+a(S'the mechanic knew the surgeon is tall'
+p2998
+S'the mechanic knew the surgeon are tall'
+p2999
+tp3000
+a(S'the mechanic knew the surgeon is old'
+p3001
+S'the mechanic knew the surgeon are old'
+p3002
+tp3003
+a(S'the mechanic knew the surgeon is young'
+p3004
+S'the mechanic knew the surgeon are young'
+p3005
+tp3006
+a(S'the mechanic knew the surgeon is short'
+p3007
+S'the mechanic knew the surgeon are short'
+p3008
+tp3009
+a(S'the mechanic knew the farmer laughs'
+p3010
+S'the mechanic knew the farmer laugh'
+p3011
+tp3012
+a(S'the mechanic knew the farmer swims'
+p3013
+S'the mechanic knew the farmer swim'
+p3014
+tp3015
+a(S'the mechanic knew the farmer smiles'
+p3016
+S'the mechanic knew the farmer smile'
+p3017
+tp3018
+a(S'the mechanic knew the farmer is tall'
+p3019
+S'the mechanic knew the farmer are tall'
+p3020
+tp3021
+a(S'the mechanic knew the farmer is old'
+p3022
+S'the mechanic knew the farmer are old'
+p3023
+tp3024
+a(S'the mechanic knew the farmer is young'
+p3025
+S'the mechanic knew the farmer are young'
+p3026
+tp3027
+a(S'the mechanic knew the farmer is short'
+p3028
+S'the mechanic knew the farmer are short'
+p3029
+tp3030
+a(S'the mechanic knew the manager laughs'
+p3031
+S'the mechanic knew the manager laugh'
+p3032
+tp3033
+a(S'the mechanic knew the manager swims'
+p3034
+S'the mechanic knew the manager swim'
+p3035
+tp3036
+a(S'the mechanic knew the manager smiles'
+p3037
+S'the mechanic knew the manager smile'
+p3038
+tp3039
+a(S'the mechanic knew the manager is tall'
+p3040
+S'the mechanic knew the manager are tall'
+p3041
+tp3042
+a(S'the mechanic knew the manager is old'
+p3043
+S'the mechanic knew the manager are old'
+p3044
+tp3045
+a(S'the mechanic knew the manager is young'
+p3046
+S'the mechanic knew the manager are young'
+p3047
+tp3048
+a(S'the mechanic knew the manager is short'
+p3049
+S'the mechanic knew the manager are short'
+p3050
+tp3051
+a(S'the mechanic knew the customer laughs'
+p3052
+S'the mechanic knew the customer laugh'
+p3053
+tp3054
+a(S'the mechanic knew the customer swims'
+p3055
+S'the mechanic knew the customer swim'
+p3056
+tp3057
+a(S'the mechanic knew the customer smiles'
+p3058
+S'the mechanic knew the customer smile'
+p3059
+tp3060
+a(S'the mechanic knew the customer is tall'
+p3061
+S'the mechanic knew the customer are tall'
+p3062
+tp3063
+a(S'the mechanic knew the customer is old'
+p3064
+S'the mechanic knew the customer are old'
+p3065
+tp3066
+a(S'the mechanic knew the customer is young'
+p3067
+S'the mechanic knew the customer are young'
+p3068
+tp3069
+a(S'the mechanic knew the customer is short'
+p3070
+S'the mechanic knew the customer are short'
+p3071
+tp3072
+a(S'the mechanic knew the officer laughs'
+p3073
+S'the mechanic knew the officer laugh'
+p3074
+tp3075
+a(S'the mechanic knew the officer swims'
+p3076
+S'the mechanic knew the officer swim'
+p3077
+tp3078
+a(S'the mechanic knew the officer smiles'
+p3079
+S'the mechanic knew the officer smile'
+p3080
+tp3081
+a(S'the mechanic knew the officer is tall'
+p3082
+S'the mechanic knew the officer are tall'
+p3083
+tp3084
+a(S'the mechanic knew the officer is old'
+p3085
+S'the mechanic knew the officer are old'
+p3086
+tp3087
+a(S'the mechanic knew the officer is young'
+p3088
+S'the mechanic knew the officer are young'
+p3089
+tp3090
+a(S'the mechanic knew the officer is short'
+p3091
+S'the mechanic knew the officer are short'
+p3092
+tp3093
+a(S'the mechanic knew the teacher laughs'
+p3094
+S'the mechanic knew the teacher laugh'
+p3095
+tp3096
+a(S'the mechanic knew the teacher swims'
+p3097
+S'the mechanic knew the teacher swim'
+p3098
+tp3099
+a(S'the mechanic knew the teacher smiles'
+p3100
+S'the mechanic knew the teacher smile'
+p3101
+tp3102
+a(S'the mechanic knew the teacher is tall'
+p3103
+S'the mechanic knew the teacher are tall'
+p3104
+tp3105
+a(S'the mechanic knew the teacher is old'
+p3106
+S'the mechanic knew the teacher are old'
+p3107
+tp3108
+a(S'the mechanic knew the teacher is young'
+p3109
+S'the mechanic knew the teacher are young'
+p3110
+tp3111
+a(S'the mechanic knew the teacher is short'
+p3112
+S'the mechanic knew the teacher are short'
+p3113
+tp3114
+a(S'the mechanic knew the senator laughs'
+p3115
+S'the mechanic knew the senator laugh'
+p3116
+tp3117
+a(S'the mechanic knew the senator swims'
+p3118
+S'the mechanic knew the senator swim'
+p3119
+tp3120
+a(S'the mechanic knew the senator smiles'
+p3121
+S'the mechanic knew the senator smile'
+p3122
+tp3123
+a(S'the mechanic knew the senator is tall'
+p3124
+S'the mechanic knew the senator are tall'
+p3125
+tp3126
+a(S'the mechanic knew the senator is old'
+p3127
+S'the mechanic knew the senator are old'
+p3128
+tp3129
+a(S'the mechanic knew the senator is young'
+p3130
+S'the mechanic knew the senator are young'
+p3131
+tp3132
+a(S'the mechanic knew the senator is short'
+p3133
+S'the mechanic knew the senator are short'
+p3134
+tp3135
+a(S'the mechanic knew the consultant laughs'
+p3136
+S'the mechanic knew the consultant laugh'
+p3137
+tp3138
+a(S'the mechanic knew the consultant swims'
+p3139
+S'the mechanic knew the consultant swim'
+p3140
+tp3141
+a(S'the mechanic knew the consultant smiles'
+p3142
+S'the mechanic knew the consultant smile'
+p3143
+tp3144
+a(S'the mechanic knew the consultant is tall'
+p3145
+S'the mechanic knew the consultant are tall'
+p3146
+tp3147
+a(S'the mechanic knew the consultant is old'
+p3148
+S'the mechanic knew the consultant are old'
+p3149
+tp3150
+a(S'the mechanic knew the consultant is young'
+p3151
+S'the mechanic knew the consultant are young'
+p3152
+tp3153
+a(S'the mechanic knew the consultant is short'
+p3154
+S'the mechanic knew the consultant are short'
+p3155
+tp3156
+a(S'the banker said the author laughs'
+p3157
+S'the banker said the author laugh'
+p3158
+tp3159
+a(S'the banker said the author swims'
+p3160
+S'the banker said the author swim'
+p3161
+tp3162
+a(S'the banker said the author smiles'
+p3163
+S'the banker said the author smile'
+p3164
+tp3165
+a(S'the banker said the author is tall'
+p3166
+S'the banker said the author are tall'
+p3167
+tp3168
+a(S'the banker said the author is old'
+p3169
+S'the banker said the author are old'
+p3170
+tp3171
+a(S'the banker said the author is young'
+p3172
+S'the banker said the author are young'
+p3173
+tp3174
+a(S'the banker said the author is short'
+p3175
+S'the banker said the author are short'
+p3176
+tp3177
+a(S'the banker said the pilot laughs'
+p3178
+S'the banker said the pilot laugh'
+p3179
+tp3180
+a(S'the banker said the pilot swims'
+p3181
+S'the banker said the pilot swim'
+p3182
+tp3183
+a(S'the banker said the pilot smiles'
+p3184
+S'the banker said the pilot smile'
+p3185
+tp3186
+a(S'the banker said the pilot is tall'
+p3187
+S'the banker said the pilot are tall'
+p3188
+tp3189
+a(S'the banker said the pilot is old'
+p3190
+S'the banker said the pilot are old'
+p3191
+tp3192
+a(S'the banker said the pilot is young'
+p3193
+S'the banker said the pilot are young'
+p3194
+tp3195
+a(S'the banker said the pilot is short'
+p3196
+S'the banker said the pilot are short'
+p3197
+tp3198
+a(S'the banker said the surgeon laughs'
+p3199
+S'the banker said the surgeon laugh'
+p3200
+tp3201
+a(S'the banker said the surgeon swims'
+p3202
+S'the banker said the surgeon swim'
+p3203
+tp3204
+a(S'the banker said the surgeon smiles'
+p3205
+S'the banker said the surgeon smile'
+p3206
+tp3207
+a(S'the banker said the surgeon is tall'
+p3208
+S'the banker said the surgeon are tall'
+p3209
+tp3210
+a(S'the banker said the surgeon is old'
+p3211
+S'the banker said the surgeon are old'
+p3212
+tp3213
+a(S'the banker said the surgeon is young'
+p3214
+S'the banker said the surgeon are young'
+p3215
+tp3216
+a(S'the banker said the surgeon is short'
+p3217
+S'the banker said the surgeon are short'
+p3218
+tp3219
+a(S'the banker said the farmer laughs'
+p3220
+S'the banker said the farmer laugh'
+p3221
+tp3222
+a(S'the banker said the farmer swims'
+p3223
+S'the banker said the farmer swim'
+p3224
+tp3225
+a(S'the banker said the farmer smiles'
+p3226
+S'the banker said the farmer smile'
+p3227
+tp3228
+a(S'the banker said the farmer is tall'
+p3229
+S'the banker said the farmer are tall'
+p3230
+tp3231
+a(S'the banker said the farmer is old'
+p3232
+S'the banker said the farmer are old'
+p3233
+tp3234
+a(S'the banker said the farmer is young'
+p3235
+S'the banker said the farmer are young'
+p3236
+tp3237
+a(S'the banker said the farmer is short'
+p3238
+S'the banker said the farmer are short'
+p3239
+tp3240
+a(S'the banker said the manager laughs'
+p3241
+S'the banker said the manager laugh'
+p3242
+tp3243
+a(S'the banker said the manager swims'
+p3244
+S'the banker said the manager swim'
+p3245
+tp3246
+a(S'the banker said the manager smiles'
+p3247
+S'the banker said the manager smile'
+p3248
+tp3249
+a(S'the banker said the manager is tall'
+p3250
+S'the banker said the manager are tall'
+p3251
+tp3252
+a(S'the banker said the manager is old'
+p3253
+S'the banker said the manager are old'
+p3254
+tp3255
+a(S'the banker said the manager is young'
+p3256
+S'the banker said the manager are young'
+p3257
+tp3258
+a(S'the banker said the manager is short'
+p3259
+S'the banker said the manager are short'
+p3260
+tp3261
+a(S'the banker said the customer laughs'
+p3262
+S'the banker said the customer laugh'
+p3263
+tp3264
+a(S'the banker said the customer swims'
+p3265
+S'the banker said the customer swim'
+p3266
+tp3267
+a(S'the banker said the customer smiles'
+p3268
+S'the banker said the customer smile'
+p3269
+tp3270
+a(S'the banker said the customer is tall'
+p3271
+S'the banker said the customer are tall'
+p3272
+tp3273
+a(S'the banker said the customer is old'
+p3274
+S'the banker said the customer are old'
+p3275
+tp3276
+a(S'the banker said the customer is young'
+p3277
+S'the banker said the customer are young'
+p3278
+tp3279
+a(S'the banker said the customer is short'
+p3280
+S'the banker said the customer are short'
+p3281
+tp3282
+a(S'the banker said the officer laughs'
+p3283
+S'the banker said the officer laugh'
+p3284
+tp3285
+a(S'the banker said the officer swims'
+p3286
+S'the banker said the officer swim'
+p3287
+tp3288
+a(S'the banker said the officer smiles'
+p3289
+S'the banker said the officer smile'
+p3290
+tp3291
+a(S'the banker said the officer is tall'
+p3292
+S'the banker said the officer are tall'
+p3293
+tp3294
+a(S'the banker said the officer is old'
+p3295
+S'the banker said the officer are old'
+p3296
+tp3297
+a(S'the banker said the officer is young'
+p3298
+S'the banker said the officer are young'
+p3299
+tp3300
+a(S'the banker said the officer is short'
+p3301
+S'the banker said the officer are short'
+p3302
+tp3303
+a(S'the banker said the teacher laughs'
+p3304
+S'the banker said the teacher laugh'
+p3305
+tp3306
+a(S'the banker said the teacher swims'
+p3307
+S'the banker said the teacher swim'
+p3308
+tp3309
+a(S'the banker said the teacher smiles'
+p3310
+S'the banker said the teacher smile'
+p3311
+tp3312
+a(S'the banker said the teacher is tall'
+p3313
+S'the banker said the teacher are tall'
+p3314
+tp3315
+a(S'the banker said the teacher is old'
+p3316
+S'the banker said the teacher are old'
+p3317
+tp3318
+a(S'the banker said the teacher is young'
+p3319
+S'the banker said the teacher are young'
+p3320
+tp3321
+a(S'the banker said the teacher is short'
+p3322
+S'the banker said the teacher are short'
+p3323
+tp3324
+a(S'the banker said the senator laughs'
+p3325
+S'the banker said the senator laugh'
+p3326
+tp3327
+a(S'the banker said the senator swims'
+p3328
+S'the banker said the senator swim'
+p3329
+tp3330
+a(S'the banker said the senator smiles'
+p3331
+S'the banker said the senator smile'
+p3332
+tp3333
+a(S'the banker said the senator is tall'
+p3334
+S'the banker said the senator are tall'
+p3335
+tp3336
+a(S'the banker said the senator is old'
+p3337
+S'the banker said the senator are old'
+p3338
+tp3339
+a(S'the banker said the senator is young'
+p3340
+S'the banker said the senator are young'
+p3341
+tp3342
+a(S'the banker said the senator is short'
+p3343
+S'the banker said the senator are short'
+p3344
+tp3345
+a(S'the banker said the consultant laughs'
+p3346
+S'the banker said the consultant laugh'
+p3347
+tp3348
+a(S'the banker said the consultant swims'
+p3349
+S'the banker said the consultant swim'
+p3350
+tp3351
+a(S'the banker said the consultant smiles'
+p3352
+S'the banker said the consultant smile'
+p3353
+tp3354
+a(S'the banker said the consultant is tall'
+p3355
+S'the banker said the consultant are tall'
+p3356
+tp3357
+a(S'the banker said the consultant is old'
+p3358
+S'the banker said the consultant are old'
+p3359
+tp3360
+a(S'the banker said the consultant is young'
+p3361
+S'the banker said the consultant are young'
+p3362
+tp3363
+a(S'the banker said the consultant is short'
+p3364
+S'the banker said the consultant are short'
+p3365
+tp3366
+a(S'the banker thought the author laughs'
+p3367
+S'the banker thought the author laugh'
+p3368
+tp3369
+a(S'the banker thought the author swims'
+p3370
+S'the banker thought the author swim'
+p3371
+tp3372
+a(S'the banker thought the author smiles'
+p3373
+S'the banker thought the author smile'
+p3374
+tp3375
+a(S'the banker thought the author is tall'
+p3376
+S'the banker thought the author are tall'
+p3377
+tp3378
+a(S'the banker thought the author is old'
+p3379
+S'the banker thought the author are old'
+p3380
+tp3381
+a(S'the banker thought the author is young'
+p3382
+S'the banker thought the author are young'
+p3383
+tp3384
+a(S'the banker thought the author is short'
+p3385
+S'the banker thought the author are short'
+p3386
+tp3387
+a(S'the banker thought the pilot laughs'
+p3388
+S'the banker thought the pilot laugh'
+p3389
+tp3390
+a(S'the banker thought the pilot swims'
+p3391
+S'the banker thought the pilot swim'
+p3392
+tp3393
+a(S'the banker thought the pilot smiles'
+p3394
+S'the banker thought the pilot smile'
+p3395
+tp3396
+a(S'the banker thought the pilot is tall'
+p3397
+S'the banker thought the pilot are tall'
+p3398
+tp3399
+a(S'the banker thought the pilot is old'
+p3400
+S'the banker thought the pilot are old'
+p3401
+tp3402
+a(S'the banker thought the pilot is young'
+p3403
+S'the banker thought the pilot are young'
+p3404
+tp3405
+a(S'the banker thought the pilot is short'
+p3406
+S'the banker thought the pilot are short'
+p3407
+tp3408
+a(S'the banker thought the surgeon laughs'
+p3409
+S'the banker thought the surgeon laugh'
+p3410
+tp3411
+a(S'the banker thought the surgeon swims'
+p3412
+S'the banker thought the surgeon swim'
+p3413
+tp3414
+a(S'the banker thought the surgeon smiles'
+p3415
+S'the banker thought the surgeon smile'
+p3416
+tp3417
+a(S'the banker thought the surgeon is tall'
+p3418
+S'the banker thought the surgeon are tall'
+p3419
+tp3420
+a(S'the banker thought the surgeon is old'
+p3421
+S'the banker thought the surgeon are old'
+p3422
+tp3423
+a(S'the banker thought the surgeon is young'
+p3424
+S'the banker thought the surgeon are young'
+p3425
+tp3426
+a(S'the banker thought the surgeon is short'
+p3427
+S'the banker thought the surgeon are short'
+p3428
+tp3429
+a(S'the banker thought the farmer laughs'
+p3430
+S'the banker thought the farmer laugh'
+p3431
+tp3432
+a(S'the banker thought the farmer swims'
+p3433
+S'the banker thought the farmer swim'
+p3434
+tp3435
+a(S'the banker thought the farmer smiles'
+p3436
+S'the banker thought the farmer smile'
+p3437
+tp3438
+a(S'the banker thought the farmer is tall'
+p3439
+S'the banker thought the farmer are tall'
+p3440
+tp3441
+a(S'the banker thought the farmer is old'
+p3442
+S'the banker thought the farmer are old'
+p3443
+tp3444
+a(S'the banker thought the farmer is young'
+p3445
+S'the banker thought the farmer are young'
+p3446
+tp3447
+a(S'the banker thought the farmer is short'
+p3448
+S'the banker thought the farmer are short'
+p3449
+tp3450
+a(S'the banker thought the manager laughs'
+p3451
+S'the banker thought the manager laugh'
+p3452
+tp3453
+a(S'the banker thought the manager swims'
+p3454
+S'the banker thought the manager swim'
+p3455
+tp3456
+a(S'the banker thought the manager smiles'
+p3457
+S'the banker thought the manager smile'
+p3458
+tp3459
+a(S'the banker thought the manager is tall'
+p3460
+S'the banker thought the manager are tall'
+p3461
+tp3462
+a(S'the banker thought the manager is old'
+p3463
+S'the banker thought the manager are old'
+p3464
+tp3465
+a(S'the banker thought the manager is young'
+p3466
+S'the banker thought the manager are young'
+p3467
+tp3468
+a(S'the banker thought the manager is short'
+p3469
+S'the banker thought the manager are short'
+p3470
+tp3471
+a(S'the banker thought the customer laughs'
+p3472
+S'the banker thought the customer laugh'
+p3473
+tp3474
+a(S'the banker thought the customer swims'
+p3475
+S'the banker thought the customer swim'
+p3476
+tp3477
+a(S'the banker thought the customer smiles'
+p3478
+S'the banker thought the customer smile'
+p3479
+tp3480
+a(S'the banker thought the customer is tall'
+p3481
+S'the banker thought the customer are tall'
+p3482
+tp3483
+a(S'the banker thought the customer is old'
+p3484
+S'the banker thought the customer are old'
+p3485
+tp3486
+a(S'the banker thought the customer is young'
+p3487
+S'the banker thought the customer are young'
+p3488
+tp3489
+a(S'the banker thought the customer is short'
+p3490
+S'the banker thought the customer are short'
+p3491
+tp3492
+a(S'the banker thought the officer laughs'
+p3493
+S'the banker thought the officer laugh'
+p3494
+tp3495
+a(S'the banker thought the officer swims'
+p3496
+S'the banker thought the officer swim'
+p3497
+tp3498
+a(S'the banker thought the officer smiles'
+p3499
+S'the banker thought the officer smile'
+p3500
+tp3501
+a(S'the banker thought the officer is tall'
+p3502
+S'the banker thought the officer are tall'
+p3503
+tp3504
+a(S'the banker thought the officer is old'
+p3505
+S'the banker thought the officer are old'
+p3506
+tp3507
+a(S'the banker thought the officer is young'
+p3508
+S'the banker thought the officer are young'
+p3509
+tp3510
+a(S'the banker thought the officer is short'
+p3511
+S'the banker thought the officer are short'
+p3512
+tp3513
+a(S'the banker thought the teacher laughs'
+p3514
+S'the banker thought the teacher laugh'
+p3515
+tp3516
+a(S'the banker thought the teacher swims'
+p3517
+S'the banker thought the teacher swim'
+p3518
+tp3519
+a(S'the banker thought the teacher smiles'
+p3520
+S'the banker thought the teacher smile'
+p3521
+tp3522
+a(S'the banker thought the teacher is tall'
+p3523
+S'the banker thought the teacher are tall'
+p3524
+tp3525
+a(S'the banker thought the teacher is old'
+p3526
+S'the banker thought the teacher are old'
+p3527
+tp3528
+a(S'the banker thought the teacher is young'
+p3529
+S'the banker thought the teacher are young'
+p3530
+tp3531
+a(S'the banker thought the teacher is short'
+p3532
+S'the banker thought the teacher are short'
+p3533
+tp3534
+a(S'the banker thought the senator laughs'
+p3535
+S'the banker thought the senator laugh'
+p3536
+tp3537
+a(S'the banker thought the senator swims'
+p3538
+S'the banker thought the senator swim'
+p3539
+tp3540
+a(S'the banker thought the senator smiles'
+p3541
+S'the banker thought the senator smile'
+p3542
+tp3543
+a(S'the banker thought the senator is tall'
+p3544
+S'the banker thought the senator are tall'
+p3545
+tp3546
+a(S'the banker thought the senator is old'
+p3547
+S'the banker thought the senator are old'
+p3548
+tp3549
+a(S'the banker thought the senator is young'
+p3550
+S'the banker thought the senator are young'
+p3551
+tp3552
+a(S'the banker thought the senator is short'
+p3553
+S'the banker thought the senator are short'
+p3554
+tp3555
+a(S'the banker thought the consultant laughs'
+p3556
+S'the banker thought the consultant laugh'
+p3557
+tp3558
+a(S'the banker thought the consultant swims'
+p3559
+S'the banker thought the consultant swim'
+p3560
+tp3561
+a(S'the banker thought the consultant smiles'
+p3562
+S'the banker thought the consultant smile'
+p3563
+tp3564
+a(S'the banker thought the consultant is tall'
+p3565
+S'the banker thought the consultant are tall'
+p3566
+tp3567
+a(S'the banker thought the consultant is old'
+p3568
+S'the banker thought the consultant are old'
+p3569
+tp3570
+a(S'the banker thought the consultant is young'
+p3571
+S'the banker thought the consultant are young'
+p3572
+tp3573
+a(S'the banker thought the consultant is short'
+p3574
+S'the banker thought the consultant are short'
+p3575
+tp3576
+a(S'the banker knew the author laughs'
+p3577
+S'the banker knew the author laugh'
+p3578
+tp3579
+a(S'the banker knew the author swims'
+p3580
+S'the banker knew the author swim'
+p3581
+tp3582
+a(S'the banker knew the author smiles'
+p3583
+S'the banker knew the author smile'
+p3584
+tp3585
+a(S'the banker knew the author is tall'
+p3586
+S'the banker knew the author are tall'
+p3587
+tp3588
+a(S'the banker knew the author is old'
+p3589
+S'the banker knew the author are old'
+p3590
+tp3591
+a(S'the banker knew the author is young'
+p3592
+S'the banker knew the author are young'
+p3593
+tp3594
+a(S'the banker knew the author is short'
+p3595
+S'the banker knew the author are short'
+p3596
+tp3597
+a(S'the banker knew the pilot laughs'
+p3598
+S'the banker knew the pilot laugh'
+p3599
+tp3600
+a(S'the banker knew the pilot swims'
+p3601
+S'the banker knew the pilot swim'
+p3602
+tp3603
+a(S'the banker knew the pilot smiles'
+p3604
+S'the banker knew the pilot smile'
+p3605
+tp3606
+a(S'the banker knew the pilot is tall'
+p3607
+S'the banker knew the pilot are tall'
+p3608
+tp3609
+a(S'the banker knew the pilot is old'
+p3610
+S'the banker knew the pilot are old'
+p3611
+tp3612
+a(S'the banker knew the pilot is young'
+p3613
+S'the banker knew the pilot are young'
+p3614
+tp3615
+a(S'the banker knew the pilot is short'
+p3616
+S'the banker knew the pilot are short'
+p3617
+tp3618
+a(S'the banker knew the surgeon laughs'
+p3619
+S'the banker knew the surgeon laugh'
+p3620
+tp3621
+a(S'the banker knew the surgeon swims'
+p3622
+S'the banker knew the surgeon swim'
+p3623
+tp3624
+a(S'the banker knew the surgeon smiles'
+p3625
+S'the banker knew the surgeon smile'
+p3626
+tp3627
+a(S'the banker knew the surgeon is tall'
+p3628
+S'the banker knew the surgeon are tall'
+p3629
+tp3630
+a(S'the banker knew the surgeon is old'
+p3631
+S'the banker knew the surgeon are old'
+p3632
+tp3633
+a(S'the banker knew the surgeon is young'
+p3634
+S'the banker knew the surgeon are young'
+p3635
+tp3636
+a(S'the banker knew the surgeon is short'
+p3637
+S'the banker knew the surgeon are short'
+p3638
+tp3639
+a(S'the banker knew the farmer laughs'
+p3640
+S'the banker knew the farmer laugh'
+p3641
+tp3642
+a(S'the banker knew the farmer swims'
+p3643
+S'the banker knew the farmer swim'
+p3644
+tp3645
+a(S'the banker knew the farmer smiles'
+p3646
+S'the banker knew the farmer smile'
+p3647
+tp3648
+a(S'the banker knew the farmer is tall'
+p3649
+S'the banker knew the farmer are tall'
+p3650
+tp3651
+a(S'the banker knew the farmer is old'
+p3652
+S'the banker knew the farmer are old'
+p3653
+tp3654
+a(S'the banker knew the farmer is young'
+p3655
+S'the banker knew the farmer are young'
+p3656
+tp3657
+a(S'the banker knew the farmer is short'
+p3658
+S'the banker knew the farmer are short'
+p3659
+tp3660
+a(S'the banker knew the manager laughs'
+p3661
+S'the banker knew the manager laugh'
+p3662
+tp3663
+a(S'the banker knew the manager swims'
+p3664
+S'the banker knew the manager swim'
+p3665
+tp3666
+a(S'the banker knew the manager smiles'
+p3667
+S'the banker knew the manager smile'
+p3668
+tp3669
+a(S'the banker knew the manager is tall'
+p3670
+S'the banker knew the manager are tall'
+p3671
+tp3672
+a(S'the banker knew the manager is old'
+p3673
+S'the banker knew the manager are old'
+p3674
+tp3675
+a(S'the banker knew the manager is young'
+p3676
+S'the banker knew the manager are young'
+p3677
+tp3678
+a(S'the banker knew the manager is short'
+p3679
+S'the banker knew the manager are short'
+p3680
+tp3681
+a(S'the banker knew the customer laughs'
+p3682
+S'the banker knew the customer laugh'
+p3683
+tp3684
+a(S'the banker knew the customer swims'
+p3685
+S'the banker knew the customer swim'
+p3686
+tp3687
+a(S'the banker knew the customer smiles'
+p3688
+S'the banker knew the customer smile'
+p3689
+tp3690
+a(S'the banker knew the customer is tall'
+p3691
+S'the banker knew the customer are tall'
+p3692
+tp3693
+a(S'the banker knew the customer is old'
+p3694
+S'the banker knew the customer are old'
+p3695
+tp3696
+a(S'the banker knew the customer is young'
+p3697
+S'the banker knew the customer are young'
+p3698
+tp3699
+a(S'the banker knew the customer is short'
+p3700
+S'the banker knew the customer are short'
+p3701
+tp3702
+a(S'the banker knew the officer laughs'
+p3703
+S'the banker knew the officer laugh'
+p3704
+tp3705
+a(S'the banker knew the officer swims'
+p3706
+S'the banker knew the officer swim'
+p3707
+tp3708
+a(S'the banker knew the officer smiles'
+p3709
+S'the banker knew the officer smile'
+p3710
+tp3711
+a(S'the banker knew the officer is tall'
+p3712
+S'the banker knew the officer are tall'
+p3713
+tp3714
+a(S'the banker knew the officer is old'
+p3715
+S'the banker knew the officer are old'
+p3716
+tp3717
+a(S'the banker knew the officer is young'
+p3718
+S'the banker knew the officer are young'
+p3719
+tp3720
+a(S'the banker knew the officer is short'
+p3721
+S'the banker knew the officer are short'
+p3722
+tp3723
+a(S'the banker knew the teacher laughs'
+p3724
+S'the banker knew the teacher laugh'
+p3725
+tp3726
+a(S'the banker knew the teacher swims'
+p3727
+S'the banker knew the teacher swim'
+p3728
+tp3729
+a(S'the banker knew the teacher smiles'
+p3730
+S'the banker knew the teacher smile'
+p3731
+tp3732
+a(S'the banker knew the teacher is tall'
+p3733
+S'the banker knew the teacher are tall'
+p3734
+tp3735
+a(S'the banker knew the teacher is old'
+p3736
+S'the banker knew the teacher are old'
+p3737
+tp3738
+a(S'the banker knew the teacher is young'
+p3739
+S'the banker knew the teacher are young'
+p3740
+tp3741
+a(S'the banker knew the teacher is short'
+p3742
+S'the banker knew the teacher are short'
+p3743
+tp3744
+a(S'the banker knew the senator laughs'
+p3745
+S'the banker knew the senator laugh'
+p3746
+tp3747
+a(S'the banker knew the senator swims'
+p3748
+S'the banker knew the senator swim'
+p3749
+tp3750
+a(S'the banker knew the senator smiles'
+p3751
+S'the banker knew the senator smile'
+p3752
+tp3753
+a(S'the banker knew the senator is tall'
+p3754
+S'the banker knew the senator are tall'
+p3755
+tp3756
+a(S'the banker knew the senator is old'
+p3757
+S'the banker knew the senator are old'
+p3758
+tp3759
+a(S'the banker knew the senator is young'
+p3760
+S'the banker knew the senator are young'
+p3761
+tp3762
+a(S'the banker knew the senator is short'
+p3763
+S'the banker knew the senator are short'
+p3764
+tp3765
+a(S'the banker knew the consultant laughs'
+p3766
+S'the banker knew the consultant laugh'
+p3767
+tp3768
+a(S'the banker knew the consultant swims'
+p3769
+S'the banker knew the consultant swim'
+p3770
+tp3771
+a(S'the banker knew the consultant smiles'
+p3772
+S'the banker knew the consultant smile'
+p3773
+tp3774
+a(S'the banker knew the consultant is tall'
+p3775
+S'the banker knew the consultant are tall'
+p3776
+tp3777
+a(S'the banker knew the consultant is old'
+p3778
+S'the banker knew the consultant are old'
+p3779
+tp3780
+a(S'the banker knew the consultant is young'
+p3781
+S'the banker knew the consultant are young'
+p3782
+tp3783
+a(S'the banker knew the consultant is short'
+p3784
+S'the banker knew the consultant are short'
+p3785
+tp3786
+asS'plur_MS_MV_plur_BS'
+p3787
+(lp3788
+(S'the mechanics said the authors laugh'
+p3789
+S'the mechanics said the authors laughs'
+p3790
+tp3791
+a(S'the mechanics said the authors swim'
+p3792
+S'the mechanics said the authors swims'
+p3793
+tp3794
+a(S'the mechanics said the authors smile'
+p3795
+S'the mechanics said the authors smiles'
+p3796
+tp3797
+a(S'the mechanics said the authors are tall'
+p3798
+S'the mechanics said the authors is tall'
+p3799
+tp3800
+a(S'the mechanics said the authors are old'
+p3801
+S'the mechanics said the authors is old'
+p3802
+tp3803
+a(S'the mechanics said the authors are young'
+p3804
+S'the mechanics said the authors is young'
+p3805
+tp3806
+a(S'the mechanics said the authors are short'
+p3807
+S'the mechanics said the authors is short'
+p3808
+tp3809
+a(S'the mechanics said the pilots laugh'
+p3810
+S'the mechanics said the pilots laughs'
+p3811
+tp3812
+a(S'the mechanics said the pilots swim'
+p3813
+S'the mechanics said the pilots swims'
+p3814
+tp3815
+a(S'the mechanics said the pilots smile'
+p3816
+S'the mechanics said the pilots smiles'
+p3817
+tp3818
+a(S'the mechanics said the pilots are tall'
+p3819
+S'the mechanics said the pilots is tall'
+p3820
+tp3821
+a(S'the mechanics said the pilots are old'
+p3822
+S'the mechanics said the pilots is old'
+p3823
+tp3824
+a(S'the mechanics said the pilots are young'
+p3825
+S'the mechanics said the pilots is young'
+p3826
+tp3827
+a(S'the mechanics said the pilots are short'
+p3828
+S'the mechanics said the pilots is short'
+p3829
+tp3830
+a(S'the mechanics said the surgeons laugh'
+p3831
+S'the mechanics said the surgeons laughs'
+p3832
+tp3833
+a(S'the mechanics said the surgeons swim'
+p3834
+S'the mechanics said the surgeons swims'
+p3835
+tp3836
+a(S'the mechanics said the surgeons smile'
+p3837
+S'the mechanics said the surgeons smiles'
+p3838
+tp3839
+a(S'the mechanics said the surgeons are tall'
+p3840
+S'the mechanics said the surgeons is tall'
+p3841
+tp3842
+a(S'the mechanics said the surgeons are old'
+p3843
+S'the mechanics said the surgeons is old'
+p3844
+tp3845
+a(S'the mechanics said the surgeons are young'
+p3846
+S'the mechanics said the surgeons is young'
+p3847
+tp3848
+a(S'the mechanics said the surgeons are short'
+p3849
+S'the mechanics said the surgeons is short'
+p3850
+tp3851
+a(S'the mechanics said the farmers laugh'
+p3852
+S'the mechanics said the farmers laughs'
+p3853
+tp3854
+a(S'the mechanics said the farmers swim'
+p3855
+S'the mechanics said the farmers swims'
+p3856
+tp3857
+a(S'the mechanics said the farmers smile'
+p3858
+S'the mechanics said the farmers smiles'
+p3859
+tp3860
+a(S'the mechanics said the farmers are tall'
+p3861
+S'the mechanics said the farmers is tall'
+p3862
+tp3863
+a(S'the mechanics said the farmers are old'
+p3864
+S'the mechanics said the farmers is old'
+p3865
+tp3866
+a(S'the mechanics said the farmers are young'
+p3867
+S'the mechanics said the farmers is young'
+p3868
+tp3869
+a(S'the mechanics said the farmers are short'
+p3870
+S'the mechanics said the farmers is short'
+p3871
+tp3872
+a(S'the mechanics said the managers laugh'
+p3873
+S'the mechanics said the managers laughs'
+p3874
+tp3875
+a(S'the mechanics said the managers swim'
+p3876
+S'the mechanics said the managers swims'
+p3877
+tp3878
+a(S'the mechanics said the managers smile'
+p3879
+S'the mechanics said the managers smiles'
+p3880
+tp3881
+a(S'the mechanics said the managers are tall'
+p3882
+S'the mechanics said the managers is tall'
+p3883
+tp3884
+a(S'the mechanics said the managers are old'
+p3885
+S'the mechanics said the managers is old'
+p3886
+tp3887
+a(S'the mechanics said the managers are young'
+p3888
+S'the mechanics said the managers is young'
+p3889
+tp3890
+a(S'the mechanics said the managers are short'
+p3891
+S'the mechanics said the managers is short'
+p3892
+tp3893
+a(S'the mechanics said the customers laugh'
+p3894
+S'the mechanics said the customers laughs'
+p3895
+tp3896
+a(S'the mechanics said the customers swim'
+p3897
+S'the mechanics said the customers swims'
+p3898
+tp3899
+a(S'the mechanics said the customers smile'
+p3900
+S'the mechanics said the customers smiles'
+p3901
+tp3902
+a(S'the mechanics said the customers are tall'
+p3903
+S'the mechanics said the customers is tall'
+p3904
+tp3905
+a(S'the mechanics said the customers are old'
+p3906
+S'the mechanics said the customers is old'
+p3907
+tp3908
+a(S'the mechanics said the customers are young'
+p3909
+S'the mechanics said the customers is young'
+p3910
+tp3911
+a(S'the mechanics said the customers are short'
+p3912
+S'the mechanics said the customers is short'
+p3913
+tp3914
+a(S'the mechanics said the officers laugh'
+p3915
+S'the mechanics said the officers laughs'
+p3916
+tp3917
+a(S'the mechanics said the officers swim'
+p3918
+S'the mechanics said the officers swims'
+p3919
+tp3920
+a(S'the mechanics said the officers smile'
+p3921
+S'the mechanics said the officers smiles'
+p3922
+tp3923
+a(S'the mechanics said the officers are tall'
+p3924
+S'the mechanics said the officers is tall'
+p3925
+tp3926
+a(S'the mechanics said the officers are old'
+p3927
+S'the mechanics said the officers is old'
+p3928
+tp3929
+a(S'the mechanics said the officers are young'
+p3930
+S'the mechanics said the officers is young'
+p3931
+tp3932
+a(S'the mechanics said the officers are short'
+p3933
+S'the mechanics said the officers is short'
+p3934
+tp3935
+a(S'the mechanics said the teachers laugh'
+p3936
+S'the mechanics said the teachers laughs'
+p3937
+tp3938
+a(S'the mechanics said the teachers swim'
+p3939
+S'the mechanics said the teachers swims'
+p3940
+tp3941
+a(S'the mechanics said the teachers smile'
+p3942
+S'the mechanics said the teachers smiles'
+p3943
+tp3944
+a(S'the mechanics said the teachers are tall'
+p3945
+S'the mechanics said the teachers is tall'
+p3946
+tp3947
+a(S'the mechanics said the teachers are old'
+p3948
+S'the mechanics said the teachers is old'
+p3949
+tp3950
+a(S'the mechanics said the teachers are young'
+p3951
+S'the mechanics said the teachers is young'
+p3952
+tp3953
+a(S'the mechanics said the teachers are short'
+p3954
+S'the mechanics said the teachers is short'
+p3955
+tp3956
+a(S'the mechanics said the senators laugh'
+p3957
+S'the mechanics said the senators laughs'
+p3958
+tp3959
+a(S'the mechanics said the senators swim'
+p3960
+S'the mechanics said the senators swims'
+p3961
+tp3962
+a(S'the mechanics said the senators smile'
+p3963
+S'the mechanics said the senators smiles'
+p3964
+tp3965
+a(S'the mechanics said the senators are tall'
+p3966
+S'the mechanics said the senators is tall'
+p3967
+tp3968
+a(S'the mechanics said the senators are old'
+p3969
+S'the mechanics said the senators is old'
+p3970
+tp3971
+a(S'the mechanics said the senators are young'
+p3972
+S'the mechanics said the senators is young'
+p3973
+tp3974
+a(S'the mechanics said the senators are short'
+p3975
+S'the mechanics said the senators is short'
+p3976
+tp3977
+a(S'the mechanics said the consultants laugh'
+p3978
+S'the mechanics said the consultants laughs'
+p3979
+tp3980
+a(S'the mechanics said the consultants swim'
+p3981
+S'the mechanics said the consultants swims'
+p3982
+tp3983
+a(S'the mechanics said the consultants smile'
+p3984
+S'the mechanics said the consultants smiles'
+p3985
+tp3986
+a(S'the mechanics said the consultants are tall'
+p3987
+S'the mechanics said the consultants is tall'
+p3988
+tp3989
+a(S'the mechanics said the consultants are old'
+p3990
+S'the mechanics said the consultants is old'
+p3991
+tp3992
+a(S'the mechanics said the consultants are young'
+p3993
+S'the mechanics said the consultants is young'
+p3994
+tp3995
+a(S'the mechanics said the consultants are short'
+p3996
+S'the mechanics said the consultants is short'
+p3997
+tp3998
+a(S'the mechanics thought the authors laugh'
+p3999
+S'the mechanics thought the authors laughs'
+p4000
+tp4001
+a(S'the mechanics thought the authors swim'
+p4002
+S'the mechanics thought the authors swims'
+p4003
+tp4004
+a(S'the mechanics thought the authors smile'
+p4005
+S'the mechanics thought the authors smiles'
+p4006
+tp4007
+a(S'the mechanics thought the authors are tall'
+p4008
+S'the mechanics thought the authors is tall'
+p4009
+tp4010
+a(S'the mechanics thought the authors are old'
+p4011
+S'the mechanics thought the authors is old'
+p4012
+tp4013
+a(S'the mechanics thought the authors are young'
+p4014
+S'the mechanics thought the authors is young'
+p4015
+tp4016
+a(S'the mechanics thought the authors are short'
+p4017
+S'the mechanics thought the authors is short'
+p4018
+tp4019
+a(S'the mechanics thought the pilots laugh'
+p4020
+S'the mechanics thought the pilots laughs'
+p4021
+tp4022
+a(S'the mechanics thought the pilots swim'
+p4023
+S'the mechanics thought the pilots swims'
+p4024
+tp4025
+a(S'the mechanics thought the pilots smile'
+p4026
+S'the mechanics thought the pilots smiles'
+p4027
+tp4028
+a(S'the mechanics thought the pilots are tall'
+p4029
+S'the mechanics thought the pilots is tall'
+p4030
+tp4031
+a(S'the mechanics thought the pilots are old'
+p4032
+S'the mechanics thought the pilots is old'
+p4033
+tp4034
+a(S'the mechanics thought the pilots are young'
+p4035
+S'the mechanics thought the pilots is young'
+p4036
+tp4037
+a(S'the mechanics thought the pilots are short'
+p4038
+S'the mechanics thought the pilots is short'
+p4039
+tp4040
+a(S'the mechanics thought the surgeons laugh'
+p4041
+S'the mechanics thought the surgeons laughs'
+p4042
+tp4043
+a(S'the mechanics thought the surgeons swim'
+p4044
+S'the mechanics thought the surgeons swims'
+p4045
+tp4046
+a(S'the mechanics thought the surgeons smile'
+p4047
+S'the mechanics thought the surgeons smiles'
+p4048
+tp4049
+a(S'the mechanics thought the surgeons are tall'
+p4050
+S'the mechanics thought the surgeons is tall'
+p4051
+tp4052
+a(S'the mechanics thought the surgeons are old'
+p4053
+S'the mechanics thought the surgeons is old'
+p4054
+tp4055
+a(S'the mechanics thought the surgeons are young'
+p4056
+S'the mechanics thought the surgeons is young'
+p4057
+tp4058
+a(S'the mechanics thought the surgeons are short'
+p4059
+S'the mechanics thought the surgeons is short'
+p4060
+tp4061
+a(S'the mechanics thought the farmers laugh'
+p4062
+S'the mechanics thought the farmers laughs'
+p4063
+tp4064
+a(S'the mechanics thought the farmers swim'
+p4065
+S'the mechanics thought the farmers swims'
+p4066
+tp4067
+a(S'the mechanics thought the farmers smile'
+p4068
+S'the mechanics thought the farmers smiles'
+p4069
+tp4070
+a(S'the mechanics thought the farmers are tall'
+p4071
+S'the mechanics thought the farmers is tall'
+p4072
+tp4073
+a(S'the mechanics thought the farmers are old'
+p4074
+S'the mechanics thought the farmers is old'
+p4075
+tp4076
+a(S'the mechanics thought the farmers are young'
+p4077
+S'the mechanics thought the farmers is young'
+p4078
+tp4079
+a(S'the mechanics thought the farmers are short'
+p4080
+S'the mechanics thought the farmers is short'
+p4081
+tp4082
+a(S'the mechanics thought the managers laugh'
+p4083
+S'the mechanics thought the managers laughs'
+p4084
+tp4085
+a(S'the mechanics thought the managers swim'
+p4086
+S'the mechanics thought the managers swims'
+p4087
+tp4088
+a(S'the mechanics thought the managers smile'
+p4089
+S'the mechanics thought the managers smiles'
+p4090
+tp4091
+a(S'the mechanics thought the managers are tall'
+p4092
+S'the mechanics thought the managers is tall'
+p4093
+tp4094
+a(S'the mechanics thought the managers are old'
+p4095
+S'the mechanics thought the managers is old'
+p4096
+tp4097
+a(S'the mechanics thought the managers are young'
+p4098
+S'the mechanics thought the managers is young'
+p4099
+tp4100
+a(S'the mechanics thought the managers are short'
+p4101
+S'the mechanics thought the managers is short'
+p4102
+tp4103
+a(S'the mechanics thought the customers laugh'
+p4104
+S'the mechanics thought the customers laughs'
+p4105
+tp4106
+a(S'the mechanics thought the customers swim'
+p4107
+S'the mechanics thought the customers swims'
+p4108
+tp4109
+a(S'the mechanics thought the customers smile'
+p4110
+S'the mechanics thought the customers smiles'
+p4111
+tp4112
+a(S'the mechanics thought the customers are tall'
+p4113
+S'the mechanics thought the customers is tall'
+p4114
+tp4115
+a(S'the mechanics thought the customers are old'
+p4116
+S'the mechanics thought the customers is old'
+p4117
+tp4118
+a(S'the mechanics thought the customers are young'
+p4119
+S'the mechanics thought the customers is young'
+p4120
+tp4121
+a(S'the mechanics thought the customers are short'
+p4122
+S'the mechanics thought the customers is short'
+p4123
+tp4124
+a(S'the mechanics thought the officers laugh'
+p4125
+S'the mechanics thought the officers laughs'
+p4126
+tp4127
+a(S'the mechanics thought the officers swim'
+p4128
+S'the mechanics thought the officers swims'
+p4129
+tp4130
+a(S'the mechanics thought the officers smile'
+p4131
+S'the mechanics thought the officers smiles'
+p4132
+tp4133
+a(S'the mechanics thought the officers are tall'
+p4134
+S'the mechanics thought the officers is tall'
+p4135
+tp4136
+a(S'the mechanics thought the officers are old'
+p4137
+S'the mechanics thought the officers is old'
+p4138
+tp4139
+a(S'the mechanics thought the officers are young'
+p4140
+S'the mechanics thought the officers is young'
+p4141
+tp4142
+a(S'the mechanics thought the officers are short'
+p4143
+S'the mechanics thought the officers is short'
+p4144
+tp4145
+a(S'the mechanics thought the teachers laugh'
+p4146
+S'the mechanics thought the teachers laughs'
+p4147
+tp4148
+a(S'the mechanics thought the teachers swim'
+p4149
+S'the mechanics thought the teachers swims'
+p4150
+tp4151
+a(S'the mechanics thought the teachers smile'
+p4152
+S'the mechanics thought the teachers smiles'
+p4153
+tp4154
+a(S'the mechanics thought the teachers are tall'
+p4155
+S'the mechanics thought the teachers is tall'
+p4156
+tp4157
+a(S'the mechanics thought the teachers are old'
+p4158
+S'the mechanics thought the teachers is old'
+p4159
+tp4160
+a(S'the mechanics thought the teachers are young'
+p4161
+S'the mechanics thought the teachers is young'
+p4162
+tp4163
+a(S'the mechanics thought the teachers are short'
+p4164
+S'the mechanics thought the teachers is short'
+p4165
+tp4166
+a(S'the mechanics thought the senators laugh'
+p4167
+S'the mechanics thought the senators laughs'
+p4168
+tp4169
+a(S'the mechanics thought the senators swim'
+p4170
+S'the mechanics thought the senators swims'
+p4171
+tp4172
+a(S'the mechanics thought the senators smile'
+p4173
+S'the mechanics thought the senators smiles'
+p4174
+tp4175
+a(S'the mechanics thought the senators are tall'
+p4176
+S'the mechanics thought the senators is tall'
+p4177
+tp4178
+a(S'the mechanics thought the senators are old'
+p4179
+S'the mechanics thought the senators is old'
+p4180
+tp4181
+a(S'the mechanics thought the senators are young'
+p4182
+S'the mechanics thought the senators is young'
+p4183
+tp4184
+a(S'the mechanics thought the senators are short'
+p4185
+S'the mechanics thought the senators is short'
+p4186
+tp4187
+a(S'the mechanics thought the consultants laugh'
+p4188
+S'the mechanics thought the consultants laughs'
+p4189
+tp4190
+a(S'the mechanics thought the consultants swim'
+p4191
+S'the mechanics thought the consultants swims'
+p4192
+tp4193
+a(S'the mechanics thought the consultants smile'
+p4194
+S'the mechanics thought the consultants smiles'
+p4195
+tp4196
+a(S'the mechanics thought the consultants are tall'
+p4197
+S'the mechanics thought the consultants is tall'
+p4198
+tp4199
+a(S'the mechanics thought the consultants are old'
+p4200
+S'the mechanics thought the consultants is old'
+p4201
+tp4202
+a(S'the mechanics thought the consultants are young'
+p4203
+S'the mechanics thought the consultants is young'
+p4204
+tp4205
+a(S'the mechanics thought the consultants are short'
+p4206
+S'the mechanics thought the consultants is short'
+p4207
+tp4208
+a(S'the mechanics knew the authors laugh'
+p4209
+S'the mechanics knew the authors laughs'
+p4210
+tp4211
+a(S'the mechanics knew the authors swim'
+p4212
+S'the mechanics knew the authors swims'
+p4213
+tp4214
+a(S'the mechanics knew the authors smile'
+p4215
+S'the mechanics knew the authors smiles'
+p4216
+tp4217
+a(S'the mechanics knew the authors are tall'
+p4218
+S'the mechanics knew the authors is tall'
+p4219
+tp4220
+a(S'the mechanics knew the authors are old'
+p4221
+S'the mechanics knew the authors is old'
+p4222
+tp4223
+a(S'the mechanics knew the authors are young'
+p4224
+S'the mechanics knew the authors is young'
+p4225
+tp4226
+a(S'the mechanics knew the authors are short'
+p4227
+S'the mechanics knew the authors is short'
+p4228
+tp4229
+a(S'the mechanics knew the pilots laugh'
+p4230
+S'the mechanics knew the pilots laughs'
+p4231
+tp4232
+a(S'the mechanics knew the pilots swim'
+p4233
+S'the mechanics knew the pilots swims'
+p4234
+tp4235
+a(S'the mechanics knew the pilots smile'
+p4236
+S'the mechanics knew the pilots smiles'
+p4237
+tp4238
+a(S'the mechanics knew the pilots are tall'
+p4239
+S'the mechanics knew the pilots is tall'
+p4240
+tp4241
+a(S'the mechanics knew the pilots are old'
+p4242
+S'the mechanics knew the pilots is old'
+p4243
+tp4244
+a(S'the mechanics knew the pilots are young'
+p4245
+S'the mechanics knew the pilots is young'
+p4246
+tp4247
+a(S'the mechanics knew the pilots are short'
+p4248
+S'the mechanics knew the pilots is short'
+p4249
+tp4250
+a(S'the mechanics knew the surgeons laugh'
+p4251
+S'the mechanics knew the surgeons laughs'
+p4252
+tp4253
+a(S'the mechanics knew the surgeons swim'
+p4254
+S'the mechanics knew the surgeons swims'
+p4255
+tp4256
+a(S'the mechanics knew the surgeons smile'
+p4257
+S'the mechanics knew the surgeons smiles'
+p4258
+tp4259
+a(S'the mechanics knew the surgeons are tall'
+p4260
+S'the mechanics knew the surgeons is tall'
+p4261
+tp4262
+a(S'the mechanics knew the surgeons are old'
+p4263
+S'the mechanics knew the surgeons is old'
+p4264
+tp4265
+a(S'the mechanics knew the surgeons are young'
+p4266
+S'the mechanics knew the surgeons is young'
+p4267
+tp4268
+a(S'the mechanics knew the surgeons are short'
+p4269
+S'the mechanics knew the surgeons is short'
+p4270
+tp4271
+a(S'the mechanics knew the farmers laugh'
+p4272
+S'the mechanics knew the farmers laughs'
+p4273
+tp4274
+a(S'the mechanics knew the farmers swim'
+p4275
+S'the mechanics knew the farmers swims'
+p4276
+tp4277
+a(S'the mechanics knew the farmers smile'
+p4278
+S'the mechanics knew the farmers smiles'
+p4279
+tp4280
+a(S'the mechanics knew the farmers are tall'
+p4281
+S'the mechanics knew the farmers is tall'
+p4282
+tp4283
+a(S'the mechanics knew the farmers are old'
+p4284
+S'the mechanics knew the farmers is old'
+p4285
+tp4286
+a(S'the mechanics knew the farmers are young'
+p4287
+S'the mechanics knew the farmers is young'
+p4288
+tp4289
+a(S'the mechanics knew the farmers are short'
+p4290
+S'the mechanics knew the farmers is short'
+p4291
+tp4292
+a(S'the mechanics knew the managers laugh'
+p4293
+S'the mechanics knew the managers laughs'
+p4294
+tp4295
+a(S'the mechanics knew the managers swim'
+p4296
+S'the mechanics knew the managers swims'
+p4297
+tp4298
+a(S'the mechanics knew the managers smile'
+p4299
+S'the mechanics knew the managers smiles'
+p4300
+tp4301
+a(S'the mechanics knew the managers are tall'
+p4302
+S'the mechanics knew the managers is tall'
+p4303
+tp4304
+a(S'the mechanics knew the managers are old'
+p4305
+S'the mechanics knew the managers is old'
+p4306
+tp4307
+a(S'the mechanics knew the managers are young'
+p4308
+S'the mechanics knew the managers is young'
+p4309
+tp4310
+a(S'the mechanics knew the managers are short'
+p4311
+S'the mechanics knew the managers is short'
+p4312
+tp4313
+a(S'the mechanics knew the customers laugh'
+p4314
+S'the mechanics knew the customers laughs'
+p4315
+tp4316
+a(S'the mechanics knew the customers swim'
+p4317
+S'the mechanics knew the customers swims'
+p4318
+tp4319
+a(S'the mechanics knew the customers smile'
+p4320
+S'the mechanics knew the customers smiles'
+p4321
+tp4322
+a(S'the mechanics knew the customers are tall'
+p4323
+S'the mechanics knew the customers is tall'
+p4324
+tp4325
+a(S'the mechanics knew the customers are old'
+p4326
+S'the mechanics knew the customers is old'
+p4327
+tp4328
+a(S'the mechanics knew the customers are young'
+p4329
+S'the mechanics knew the customers is young'
+p4330
+tp4331
+a(S'the mechanics knew the customers are short'
+p4332
+S'the mechanics knew the customers is short'
+p4333
+tp4334
+a(S'the mechanics knew the officers laugh'
+p4335
+S'the mechanics knew the officers laughs'
+p4336
+tp4337
+a(S'the mechanics knew the officers swim'
+p4338
+S'the mechanics knew the officers swims'
+p4339
+tp4340
+a(S'the mechanics knew the officers smile'
+p4341
+S'the mechanics knew the officers smiles'
+p4342
+tp4343
+a(S'the mechanics knew the officers are tall'
+p4344
+S'the mechanics knew the officers is tall'
+p4345
+tp4346
+a(S'the mechanics knew the officers are old'
+p4347
+S'the mechanics knew the officers is old'
+p4348
+tp4349
+a(S'the mechanics knew the officers are young'
+p4350
+S'the mechanics knew the officers is young'
+p4351
+tp4352
+a(S'the mechanics knew the officers are short'
+p4353
+S'the mechanics knew the officers is short'
+p4354
+tp4355
+a(S'the mechanics knew the teachers laugh'
+p4356
+S'the mechanics knew the teachers laughs'
+p4357
+tp4358
+a(S'the mechanics knew the teachers swim'
+p4359
+S'the mechanics knew the teachers swims'
+p4360
+tp4361
+a(S'the mechanics knew the teachers smile'
+p4362
+S'the mechanics knew the teachers smiles'
+p4363
+tp4364
+a(S'the mechanics knew the teachers are tall'
+p4365
+S'the mechanics knew the teachers is tall'
+p4366
+tp4367
+a(S'the mechanics knew the teachers are old'
+p4368
+S'the mechanics knew the teachers is old'
+p4369
+tp4370
+a(S'the mechanics knew the teachers are young'
+p4371
+S'the mechanics knew the teachers is young'
+p4372
+tp4373
+a(S'the mechanics knew the teachers are short'
+p4374
+S'the mechanics knew the teachers is short'
+p4375
+tp4376
+a(S'the mechanics knew the senators laugh'
+p4377
+S'the mechanics knew the senators laughs'
+p4378
+tp4379
+a(S'the mechanics knew the senators swim'
+p4380
+S'the mechanics knew the senators swims'
+p4381
+tp4382
+a(S'the mechanics knew the senators smile'
+p4383
+S'the mechanics knew the senators smiles'
+p4384
+tp4385
+a(S'the mechanics knew the senators are tall'
+p4386
+S'the mechanics knew the senators is tall'
+p4387
+tp4388
+a(S'the mechanics knew the senators are old'
+p4389
+S'the mechanics knew the senators is old'
+p4390
+tp4391
+a(S'the mechanics knew the senators are young'
+p4392
+S'the mechanics knew the senators is young'
+p4393
+tp4394
+a(S'the mechanics knew the senators are short'
+p4395
+S'the mechanics knew the senators is short'
+p4396
+tp4397
+a(S'the mechanics knew the consultants laugh'
+p4398
+S'the mechanics knew the consultants laughs'
+p4399
+tp4400
+a(S'the mechanics knew the consultants swim'
+p4401
+S'the mechanics knew the consultants swims'
+p4402
+tp4403
+a(S'the mechanics knew the consultants smile'
+p4404
+S'the mechanics knew the consultants smiles'
+p4405
+tp4406
+a(S'the mechanics knew the consultants are tall'
+p4407
+S'the mechanics knew the consultants is tall'
+p4408
+tp4409
+a(S'the mechanics knew the consultants are old'
+p4410
+S'the mechanics knew the consultants is old'
+p4411
+tp4412
+a(S'the mechanics knew the consultants are young'
+p4413
+S'the mechanics knew the consultants is young'
+p4414
+tp4415
+a(S'the mechanics knew the consultants are short'
+p4416
+S'the mechanics knew the consultants is short'
+p4417
+tp4418
+a(S'the bankers said the authors laugh'
+p4419
+S'the bankers said the authors laughs'
+p4420
+tp4421
+a(S'the bankers said the authors swim'
+p4422
+S'the bankers said the authors swims'
+p4423
+tp4424
+a(S'the bankers said the authors smile'
+p4425
+S'the bankers said the authors smiles'
+p4426
+tp4427
+a(S'the bankers said the authors are tall'
+p4428
+S'the bankers said the authors is tall'
+p4429
+tp4430
+a(S'the bankers said the authors are old'
+p4431
+S'the bankers said the authors is old'
+p4432
+tp4433
+a(S'the bankers said the authors are young'
+p4434
+S'the bankers said the authors is young'
+p4435
+tp4436
+a(S'the bankers said the authors are short'
+p4437
+S'the bankers said the authors is short'
+p4438
+tp4439
+a(S'the bankers said the pilots laugh'
+p4440
+S'the bankers said the pilots laughs'
+p4441
+tp4442
+a(S'the bankers said the pilots swim'
+p4443
+S'the bankers said the pilots swims'
+p4444
+tp4445
+a(S'the bankers said the pilots smile'
+p4446
+S'the bankers said the pilots smiles'
+p4447
+tp4448
+a(S'the bankers said the pilots are tall'
+p4449
+S'the bankers said the pilots is tall'
+p4450
+tp4451
+a(S'the bankers said the pilots are old'
+p4452
+S'the bankers said the pilots is old'
+p4453
+tp4454
+a(S'the bankers said the pilots are young'
+p4455
+S'the bankers said the pilots is young'
+p4456
+tp4457
+a(S'the bankers said the pilots are short'
+p4458
+S'the bankers said the pilots is short'
+p4459
+tp4460
+a(S'the bankers said the surgeons laugh'
+p4461
+S'the bankers said the surgeons laughs'
+p4462
+tp4463
+a(S'the bankers said the surgeons swim'
+p4464
+S'the bankers said the surgeons swims'
+p4465
+tp4466
+a(S'the bankers said the surgeons smile'
+p4467
+S'the bankers said the surgeons smiles'
+p4468
+tp4469
+a(S'the bankers said the surgeons are tall'
+p4470
+S'the bankers said the surgeons is tall'
+p4471
+tp4472
+a(S'the bankers said the surgeons are old'
+p4473
+S'the bankers said the surgeons is old'
+p4474
+tp4475
+a(S'the bankers said the surgeons are young'
+p4476
+S'the bankers said the surgeons is young'
+p4477
+tp4478
+a(S'the bankers said the surgeons are short'
+p4479
+S'the bankers said the surgeons is short'
+p4480
+tp4481
+a(S'the bankers said the farmers laugh'
+p4482
+S'the bankers said the farmers laughs'
+p4483
+tp4484
+a(S'the bankers said the farmers swim'
+p4485
+S'the bankers said the farmers swims'
+p4486
+tp4487
+a(S'the bankers said the farmers smile'
+p4488
+S'the bankers said the farmers smiles'
+p4489
+tp4490
+a(S'the bankers said the farmers are tall'
+p4491
+S'the bankers said the farmers is tall'
+p4492
+tp4493
+a(S'the bankers said the farmers are old'
+p4494
+S'the bankers said the farmers is old'
+p4495
+tp4496
+a(S'the bankers said the farmers are young'
+p4497
+S'the bankers said the farmers is young'
+p4498
+tp4499
+a(S'the bankers said the farmers are short'
+p4500
+S'the bankers said the farmers is short'
+p4501
+tp4502
+a(S'the bankers said the managers laugh'
+p4503
+S'the bankers said the managers laughs'
+p4504
+tp4505
+a(S'the bankers said the managers swim'
+p4506
+S'the bankers said the managers swims'
+p4507
+tp4508
+a(S'the bankers said the managers smile'
+p4509
+S'the bankers said the managers smiles'
+p4510
+tp4511
+a(S'the bankers said the managers are tall'
+p4512
+S'the bankers said the managers is tall'
+p4513
+tp4514
+a(S'the bankers said the managers are old'
+p4515
+S'the bankers said the managers is old'
+p4516
+tp4517
+a(S'the bankers said the managers are young'
+p4518
+S'the bankers said the managers is young'
+p4519
+tp4520
+a(S'the bankers said the managers are short'
+p4521
+S'the bankers said the managers is short'
+p4522
+tp4523
+a(S'the bankers said the customers laugh'
+p4524
+S'the bankers said the customers laughs'
+p4525
+tp4526
+a(S'the bankers said the customers swim'
+p4527
+S'the bankers said the customers swims'
+p4528
+tp4529
+a(S'the bankers said the customers smile'
+p4530
+S'the bankers said the customers smiles'
+p4531
+tp4532
+a(S'the bankers said the customers are tall'
+p4533
+S'the bankers said the customers is tall'
+p4534
+tp4535
+a(S'the bankers said the customers are old'
+p4536
+S'the bankers said the customers is old'
+p4537
+tp4538
+a(S'the bankers said the customers are young'
+p4539
+S'the bankers said the customers is young'
+p4540
+tp4541
+a(S'the bankers said the customers are short'
+p4542
+S'the bankers said the customers is short'
+p4543
+tp4544
+a(S'the bankers said the officers laugh'
+p4545
+S'the bankers said the officers laughs'
+p4546
+tp4547
+a(S'the bankers said the officers swim'
+p4548
+S'the bankers said the officers swims'
+p4549
+tp4550
+a(S'the bankers said the officers smile'
+p4551
+S'the bankers said the officers smiles'
+p4552
+tp4553
+a(S'the bankers said the officers are tall'
+p4554
+S'the bankers said the officers is tall'
+p4555
+tp4556
+a(S'the bankers said the officers are old'
+p4557
+S'the bankers said the officers is old'
+p4558
+tp4559
+a(S'the bankers said the officers are young'
+p4560
+S'the bankers said the officers is young'
+p4561
+tp4562
+a(S'the bankers said the officers are short'
+p4563
+S'the bankers said the officers is short'
+p4564
+tp4565
+a(S'the bankers said the teachers laugh'
+p4566
+S'the bankers said the teachers laughs'
+p4567
+tp4568
+a(S'the bankers said the teachers swim'
+p4569
+S'the bankers said the teachers swims'
+p4570
+tp4571
+a(S'the bankers said the teachers smile'
+p4572
+S'the bankers said the teachers smiles'
+p4573
+tp4574
+a(S'the bankers said the teachers are tall'
+p4575
+S'the bankers said the teachers is tall'
+p4576
+tp4577
+a(S'the bankers said the teachers are old'
+p4578
+S'the bankers said the teachers is old'
+p4579
+tp4580
+a(S'the bankers said the teachers are young'
+p4581
+S'the bankers said the teachers is young'
+p4582
+tp4583
+a(S'the bankers said the teachers are short'
+p4584
+S'the bankers said the teachers is short'
+p4585
+tp4586
+a(S'the bankers said the senators laugh'
+p4587
+S'the bankers said the senators laughs'
+p4588
+tp4589
+a(S'the bankers said the senators swim'
+p4590
+S'the bankers said the senators swims'
+p4591
+tp4592
+a(S'the bankers said the senators smile'
+p4593
+S'the bankers said the senators smiles'
+p4594
+tp4595
+a(S'the bankers said the senators are tall'
+p4596
+S'the bankers said the senators is tall'
+p4597
+tp4598
+a(S'the bankers said the senators are old'
+p4599
+S'the bankers said the senators is old'
+p4600
+tp4601
+a(S'the bankers said the senators are young'
+p4602
+S'the bankers said the senators is young'
+p4603
+tp4604
+a(S'the bankers said the senators are short'
+p4605
+S'the bankers said the senators is short'
+p4606
+tp4607
+a(S'the bankers said the consultants laugh'
+p4608
+S'the bankers said the consultants laughs'
+p4609
+tp4610
+a(S'the bankers said the consultants swim'
+p4611
+S'the bankers said the consultants swims'
+p4612
+tp4613
+a(S'the bankers said the consultants smile'
+p4614
+S'the bankers said the consultants smiles'
+p4615
+tp4616
+a(S'the bankers said the consultants are tall'
+p4617
+S'the bankers said the consultants is tall'
+p4618
+tp4619
+a(S'the bankers said the consultants are old'
+p4620
+S'the bankers said the consultants is old'
+p4621
+tp4622
+a(S'the bankers said the consultants are young'
+p4623
+S'the bankers said the consultants is young'
+p4624
+tp4625
+a(S'the bankers said the consultants are short'
+p4626
+S'the bankers said the consultants is short'
+p4627
+tp4628
+a(S'the bankers thought the authors laugh'
+p4629
+S'the bankers thought the authors laughs'
+p4630
+tp4631
+a(S'the bankers thought the authors swim'
+p4632
+S'the bankers thought the authors swims'
+p4633
+tp4634
+a(S'the bankers thought the authors smile'
+p4635
+S'the bankers thought the authors smiles'
+p4636
+tp4637
+a(S'the bankers thought the authors are tall'
+p4638
+S'the bankers thought the authors is tall'
+p4639
+tp4640
+a(S'the bankers thought the authors are old'
+p4641
+S'the bankers thought the authors is old'
+p4642
+tp4643
+a(S'the bankers thought the authors are young'
+p4644
+S'the bankers thought the authors is young'
+p4645
+tp4646
+a(S'the bankers thought the authors are short'
+p4647
+S'the bankers thought the authors is short'
+p4648
+tp4649
+a(S'the bankers thought the pilots laugh'
+p4650
+S'the bankers thought the pilots laughs'
+p4651
+tp4652
+a(S'the bankers thought the pilots swim'
+p4653
+S'the bankers thought the pilots swims'
+p4654
+tp4655
+a(S'the bankers thought the pilots smile'
+p4656
+S'the bankers thought the pilots smiles'
+p4657
+tp4658
+a(S'the bankers thought the pilots are tall'
+p4659
+S'the bankers thought the pilots is tall'
+p4660
+tp4661
+a(S'the bankers thought the pilots are old'
+p4662
+S'the bankers thought the pilots is old'
+p4663
+tp4664
+a(S'the bankers thought the pilots are young'
+p4665
+S'the bankers thought the pilots is young'
+p4666
+tp4667
+a(S'the bankers thought the pilots are short'
+p4668
+S'the bankers thought the pilots is short'
+p4669
+tp4670
+a(S'the bankers thought the surgeons laugh'
+p4671
+S'the bankers thought the surgeons laughs'
+p4672
+tp4673
+a(S'the bankers thought the surgeons swim'
+p4674
+S'the bankers thought the surgeons swims'
+p4675
+tp4676
+a(S'the bankers thought the surgeons smile'
+p4677
+S'the bankers thought the surgeons smiles'
+p4678
+tp4679
+a(S'the bankers thought the surgeons are tall'
+p4680
+S'the bankers thought the surgeons is tall'
+p4681
+tp4682
+a(S'the bankers thought the surgeons are old'
+p4683
+S'the bankers thought the surgeons is old'
+p4684
+tp4685
+a(S'the bankers thought the surgeons are young'
+p4686
+S'the bankers thought the surgeons is young'
+p4687
+tp4688
+a(S'the bankers thought the surgeons are short'
+p4689
+S'the bankers thought the surgeons is short'
+p4690
+tp4691
+a(S'the bankers thought the farmers laugh'
+p4692
+S'the bankers thought the farmers laughs'
+p4693
+tp4694
+a(S'the bankers thought the farmers swim'
+p4695
+S'the bankers thought the farmers swims'
+p4696
+tp4697
+a(S'the bankers thought the farmers smile'
+p4698
+S'the bankers thought the farmers smiles'
+p4699
+tp4700
+a(S'the bankers thought the farmers are tall'
+p4701
+S'the bankers thought the farmers is tall'
+p4702
+tp4703
+a(S'the bankers thought the farmers are old'
+p4704
+S'the bankers thought the farmers is old'
+p4705
+tp4706
+a(S'the bankers thought the farmers are young'
+p4707
+S'the bankers thought the farmers is young'
+p4708
+tp4709
+a(S'the bankers thought the farmers are short'
+p4710
+S'the bankers thought the farmers is short'
+p4711
+tp4712
+a(S'the bankers thought the managers laugh'
+p4713
+S'the bankers thought the managers laughs'
+p4714
+tp4715
+a(S'the bankers thought the managers swim'
+p4716
+S'the bankers thought the managers swims'
+p4717
+tp4718
+a(S'the bankers thought the managers smile'
+p4719
+S'the bankers thought the managers smiles'
+p4720
+tp4721
+a(S'the bankers thought the managers are tall'
+p4722
+S'the bankers thought the managers is tall'
+p4723
+tp4724
+a(S'the bankers thought the managers are old'
+p4725
+S'the bankers thought the managers is old'
+p4726
+tp4727
+a(S'the bankers thought the managers are young'
+p4728
+S'the bankers thought the managers is young'
+p4729
+tp4730
+a(S'the bankers thought the managers are short'
+p4731
+S'the bankers thought the managers is short'
+p4732
+tp4733
+a(S'the bankers thought the customers laugh'
+p4734
+S'the bankers thought the customers laughs'
+p4735
+tp4736
+a(S'the bankers thought the customers swim'
+p4737
+S'the bankers thought the customers swims'
+p4738
+tp4739
+a(S'the bankers thought the customers smile'
+p4740
+S'the bankers thought the customers smiles'
+p4741
+tp4742
+a(S'the bankers thought the customers are tall'
+p4743
+S'the bankers thought the customers is tall'
+p4744
+tp4745
+a(S'the bankers thought the customers are old'
+p4746
+S'the bankers thought the customers is old'
+p4747
+tp4748
+a(S'the bankers thought the customers are young'
+p4749
+S'the bankers thought the customers is young'
+p4750
+tp4751
+a(S'the bankers thought the customers are short'
+p4752
+S'the bankers thought the customers is short'
+p4753
+tp4754
+a(S'the bankers thought the officers laugh'
+p4755
+S'the bankers thought the officers laughs'
+p4756
+tp4757
+a(S'the bankers thought the officers swim'
+p4758
+S'the bankers thought the officers swims'
+p4759
+tp4760
+a(S'the bankers thought the officers smile'
+p4761
+S'the bankers thought the officers smiles'
+p4762
+tp4763
+a(S'the bankers thought the officers are tall'
+p4764
+S'the bankers thought the officers is tall'
+p4765
+tp4766
+a(S'the bankers thought the officers are old'
+p4767
+S'the bankers thought the officers is old'
+p4768
+tp4769
+a(S'the bankers thought the officers are young'
+p4770
+S'the bankers thought the officers is young'
+p4771
+tp4772
+a(S'the bankers thought the officers are short'
+p4773
+S'the bankers thought the officers is short'
+p4774
+tp4775
+a(S'the bankers thought the teachers laugh'
+p4776
+S'the bankers thought the teachers laughs'
+p4777
+tp4778
+a(S'the bankers thought the teachers swim'
+p4779
+S'the bankers thought the teachers swims'
+p4780
+tp4781
+a(S'the bankers thought the teachers smile'
+p4782
+S'the bankers thought the teachers smiles'
+p4783
+tp4784
+a(S'the bankers thought the teachers are tall'
+p4785
+S'the bankers thought the teachers is tall'
+p4786
+tp4787
+a(S'the bankers thought the teachers are old'
+p4788
+S'the bankers thought the teachers is old'
+p4789
+tp4790
+a(S'the bankers thought the teachers are young'
+p4791
+S'the bankers thought the teachers is young'
+p4792
+tp4793
+a(S'the bankers thought the teachers are short'
+p4794
+S'the bankers thought the teachers is short'
+p4795
+tp4796
+a(S'the bankers thought the senators laugh'
+p4797
+S'the bankers thought the senators laughs'
+p4798
+tp4799
+a(S'the bankers thought the senators swim'
+p4800
+S'the bankers thought the senators swims'
+p4801
+tp4802
+a(S'the bankers thought the senators smile'
+p4803
+S'the bankers thought the senators smiles'
+p4804
+tp4805
+a(S'the bankers thought the senators are tall'
+p4806
+S'the bankers thought the senators is tall'
+p4807
+tp4808
+a(S'the bankers thought the senators are old'
+p4809
+S'the bankers thought the senators is old'
+p4810
+tp4811
+a(S'the bankers thought the senators are young'
+p4812
+S'the bankers thought the senators is young'
+p4813
+tp4814
+a(S'the bankers thought the senators are short'
+p4815
+S'the bankers thought the senators is short'
+p4816
+tp4817
+a(S'the bankers thought the consultants laugh'
+p4818
+S'the bankers thought the consultants laughs'
+p4819
+tp4820
+a(S'the bankers thought the consultants swim'
+p4821
+S'the bankers thought the consultants swims'
+p4822
+tp4823
+a(S'the bankers thought the consultants smile'
+p4824
+S'the bankers thought the consultants smiles'
+p4825
+tp4826
+a(S'the bankers thought the consultants are tall'
+p4827
+S'the bankers thought the consultants is tall'
+p4828
+tp4829
+a(S'the bankers thought the consultants are old'
+p4830
+S'the bankers thought the consultants is old'
+p4831
+tp4832
+a(S'the bankers thought the consultants are young'
+p4833
+S'the bankers thought the consultants is young'
+p4834
+tp4835
+a(S'the bankers thought the consultants are short'
+p4836
+S'the bankers thought the consultants is short'
+p4837
+tp4838
+a(S'the bankers knew the authors laugh'
+p4839
+S'the bankers knew the authors laughs'
+p4840
+tp4841
+a(S'the bankers knew the authors swim'
+p4842
+S'the bankers knew the authors swims'
+p4843
+tp4844
+a(S'the bankers knew the authors smile'
+p4845
+S'the bankers knew the authors smiles'
+p4846
+tp4847
+a(S'the bankers knew the authors are tall'
+p4848
+S'the bankers knew the authors is tall'
+p4849
+tp4850
+a(S'the bankers knew the authors are old'
+p4851
+S'the bankers knew the authors is old'
+p4852
+tp4853
+a(S'the bankers knew the authors are young'
+p4854
+S'the bankers knew the authors is young'
+p4855
+tp4856
+a(S'the bankers knew the authors are short'
+p4857
+S'the bankers knew the authors is short'
+p4858
+tp4859
+a(S'the bankers knew the pilots laugh'
+p4860
+S'the bankers knew the pilots laughs'
+p4861
+tp4862
+a(S'the bankers knew the pilots swim'
+p4863
+S'the bankers knew the pilots swims'
+p4864
+tp4865
+a(S'the bankers knew the pilots smile'
+p4866
+S'the bankers knew the pilots smiles'
+p4867
+tp4868
+a(S'the bankers knew the pilots are tall'
+p4869
+S'the bankers knew the pilots is tall'
+p4870
+tp4871
+a(S'the bankers knew the pilots are old'
+p4872
+S'the bankers knew the pilots is old'
+p4873
+tp4874
+a(S'the bankers knew the pilots are young'
+p4875
+S'the bankers knew the pilots is young'
+p4876
+tp4877
+a(S'the bankers knew the pilots are short'
+p4878
+S'the bankers knew the pilots is short'
+p4879
+tp4880
+a(S'the bankers knew the surgeons laugh'
+p4881
+S'the bankers knew the surgeons laughs'
+p4882
+tp4883
+a(S'the bankers knew the surgeons swim'
+p4884
+S'the bankers knew the surgeons swims'
+p4885
+tp4886
+a(S'the bankers knew the surgeons smile'
+p4887
+S'the bankers knew the surgeons smiles'
+p4888
+tp4889
+a(S'the bankers knew the surgeons are tall'
+p4890
+S'the bankers knew the surgeons is tall'
+p4891
+tp4892
+a(S'the bankers knew the surgeons are old'
+p4893
+S'the bankers knew the surgeons is old'
+p4894
+tp4895
+a(S'the bankers knew the surgeons are young'
+p4896
+S'the bankers knew the surgeons is young'
+p4897
+tp4898
+a(S'the bankers knew the surgeons are short'
+p4899
+S'the bankers knew the surgeons is short'
+p4900
+tp4901
+a(S'the bankers knew the farmers laugh'
+p4902
+S'the bankers knew the farmers laughs'
+p4903
+tp4904
+a(S'the bankers knew the farmers swim'
+p4905
+S'the bankers knew the farmers swims'
+p4906
+tp4907
+a(S'the bankers knew the farmers smile'
+p4908
+S'the bankers knew the farmers smiles'
+p4909
+tp4910
+a(S'the bankers knew the farmers are tall'
+p4911
+S'the bankers knew the farmers is tall'
+p4912
+tp4913
+a(S'the bankers knew the farmers are old'
+p4914
+S'the bankers knew the farmers is old'
+p4915
+tp4916
+a(S'the bankers knew the farmers are young'
+p4917
+S'the bankers knew the farmers is young'
+p4918
+tp4919
+a(S'the bankers knew the farmers are short'
+p4920
+S'the bankers knew the farmers is short'
+p4921
+tp4922
+a(S'the bankers knew the managers laugh'
+p4923
+S'the bankers knew the managers laughs'
+p4924
+tp4925
+a(S'the bankers knew the managers swim'
+p4926
+S'the bankers knew the managers swims'
+p4927
+tp4928
+a(S'the bankers knew the managers smile'
+p4929
+S'the bankers knew the managers smiles'
+p4930
+tp4931
+a(S'the bankers knew the managers are tall'
+p4932
+S'the bankers knew the managers is tall'
+p4933
+tp4934
+a(S'the bankers knew the managers are old'
+p4935
+S'the bankers knew the managers is old'
+p4936
+tp4937
+a(S'the bankers knew the managers are young'
+p4938
+S'the bankers knew the managers is young'
+p4939
+tp4940
+a(S'the bankers knew the managers are short'
+p4941
+S'the bankers knew the managers is short'
+p4942
+tp4943
+a(S'the bankers knew the customers laugh'
+p4944
+S'the bankers knew the customers laughs'
+p4945
+tp4946
+a(S'the bankers knew the customers swim'
+p4947
+S'the bankers knew the customers swims'
+p4948
+tp4949
+a(S'the bankers knew the customers smile'
+p4950
+S'the bankers knew the customers smiles'
+p4951
+tp4952
+a(S'the bankers knew the customers are tall'
+p4953
+S'the bankers knew the customers is tall'
+p4954
+tp4955
+a(S'the bankers knew the customers are old'
+p4956
+S'the bankers knew the customers is old'
+p4957
+tp4958
+a(S'the bankers knew the customers are young'
+p4959
+S'the bankers knew the customers is young'
+p4960
+tp4961
+a(S'the bankers knew the customers are short'
+p4962
+S'the bankers knew the customers is short'
+p4963
+tp4964
+a(S'the bankers knew the officers laugh'
+p4965
+S'the bankers knew the officers laughs'
+p4966
+tp4967
+a(S'the bankers knew the officers swim'
+p4968
+S'the bankers knew the officers swims'
+p4969
+tp4970
+a(S'the bankers knew the officers smile'
+p4971
+S'the bankers knew the officers smiles'
+p4972
+tp4973
+a(S'the bankers knew the officers are tall'
+p4974
+S'the bankers knew the officers is tall'
+p4975
+tp4976
+a(S'the bankers knew the officers are old'
+p4977
+S'the bankers knew the officers is old'
+p4978
+tp4979
+a(S'the bankers knew the officers are young'
+p4980
+S'the bankers knew the officers is young'
+p4981
+tp4982
+a(S'the bankers knew the officers are short'
+p4983
+S'the bankers knew the officers is short'
+p4984
+tp4985
+a(S'the bankers knew the teachers laugh'
+p4986
+S'the bankers knew the teachers laughs'
+p4987
+tp4988
+a(S'the bankers knew the teachers swim'
+p4989
+S'the bankers knew the teachers swims'
+p4990
+tp4991
+a(S'the bankers knew the teachers smile'
+p4992
+S'the bankers knew the teachers smiles'
+p4993
+tp4994
+a(S'the bankers knew the teachers are tall'
+p4995
+S'the bankers knew the teachers is tall'
+p4996
+tp4997
+a(S'the bankers knew the teachers are old'
+p4998
+S'the bankers knew the teachers is old'
+p4999
+tp5000
+a(S'the bankers knew the teachers are young'
+p5001
+S'the bankers knew the teachers is young'
+p5002
+tp5003
+a(S'the bankers knew the teachers are short'
+p5004
+S'the bankers knew the teachers is short'
+p5005
+tp5006
+a(S'the bankers knew the senators laugh'
+p5007
+S'the bankers knew the senators laughs'
+p5008
+tp5009
+a(S'the bankers knew the senators swim'
+p5010
+S'the bankers knew the senators swims'
+p5011
+tp5012
+a(S'the bankers knew the senators smile'
+p5013
+S'the bankers knew the senators smiles'
+p5014
+tp5015
+a(S'the bankers knew the senators are tall'
+p5016
+S'the bankers knew the senators is tall'
+p5017
+tp5018
+a(S'the bankers knew the senators are old'
+p5019
+S'the bankers knew the senators is old'
+p5020
+tp5021
+a(S'the bankers knew the senators are young'
+p5022
+S'the bankers knew the senators is young'
+p5023
+tp5024
+a(S'the bankers knew the senators are short'
+p5025
+S'the bankers knew the senators is short'
+p5026
+tp5027
+a(S'the bankers knew the consultants laugh'
+p5028
+S'the bankers knew the consultants laughs'
+p5029
+tp5030
+a(S'the bankers knew the consultants swim'
+p5031
+S'the bankers knew the consultants swims'
+p5032
+tp5033
+a(S'the bankers knew the consultants smile'
+p5034
+S'the bankers knew the consultants smiles'
+p5035
+tp5036
+a(S'the bankers knew the consultants are tall'
+p5037
+S'the bankers knew the consultants is tall'
+p5038
+tp5039
+a(S'the bankers knew the consultants are old'
+p5040
+S'the bankers knew the consultants is old'
+p5041
+tp5042
+a(S'the bankers knew the consultants are young'
+p5043
+S'the bankers knew the consultants is young'
+p5044
+tp5045
+a(S'the bankers knew the consultants are short'
+p5046
+S'the bankers knew the consultants is short'
+p5047
+tp5048
+as.

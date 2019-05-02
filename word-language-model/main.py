@@ -148,9 +148,11 @@ if args.test:
         test_ccg_data = []
 else:
     train_lm_data = batchify(corpus.train_lm, args.batch_size)
-    train_ccg_data = batchify(corpus.train_ccg, args.batch_size)
     val_lm_data = batchify(corpus.valid_lm, eval_batch_size)
+    train_ccg_data = batchify(corpus.train_ccg, args.batch_size)
     val_ccg_data = batchify(corpus.valid_ccg, eval_batch_size)
+    
+    
 
 ###############################################################################
 # Build/load the model
@@ -379,6 +381,8 @@ def evaluate(lm_data_source, ccg_data_source):
         curr_loss = len(data) * criterion(output_flat, targets).data
         total_loss += curr_loss
         hidden = repackage_hidden(hidden)
+    if len(ccg_data_source) == 0:
+        return total_loss / len(lm_data_source)
     return total_loss[0] / (len(lm_data_source)+len(ccg_data_source))
 
 

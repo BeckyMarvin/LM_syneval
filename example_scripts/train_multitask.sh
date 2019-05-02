@@ -13,4 +13,7 @@ python $lm_dir/main.py \
     --nlayers $nlayers \
     --batch_size $batch_size \
     --nhid $num_hid \
-    --lr $lr
+    --lr $lr \
+    --trainfname $train \
+    --validfname $valid \
+    --testfname $test

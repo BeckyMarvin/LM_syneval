@@ -1,0 +1,1408 @@
+(dp0
+S'plur_MS_ANPHR'
+p1
+(lp2
+(S'the authors hurt themselves'
+p3
+S'the authors hurt himself'
+p4
+tp5
+a(S'the authors hurt themselves'
+p6
+S'the authors hurt herself'
+p7
+tp8
+a(S'the authors injured themselves'
+p9
+S'the authors injured himself'
+p10
+tp11
+a(S'the authors injured themselves'
+p12
+S'the authors injured herself'
+p13
+tp14
+a(S'the authors congratulated themselves'
+p15
+S'the authors congratulated himself'
+p16
+tp17
+a(S'the authors congratulated themselves'
+p18
+S'the authors congratulated herself'
+p19
+tp20
+a(S'the authors embarrassed themselves'
+p21
+S'the authors embarrassed himself'
+p22
+tp23
+a(S'the authors embarrassed themselves'
+p24
+S'the authors embarrassed herself'
+p25
+tp26
+a(S'the authors disguised themselves'
+p27
+S'the authors disguised himself'
+p28
+tp29
+a(S'the authors disguised themselves'
+p30
+S'the authors disguised herself'
+p31
+tp32
+a(S'the authors hated themselves'
+p33
+S'the authors hated himself'
+p34
+tp35
+a(S'the authors hated themselves'
+p36
+S'the authors hated herself'
+p37
+tp38
+a(S'the authors doubted themselves'
+p39
+S'the authors doubted himself'
+p40
+tp41
+a(S'the authors doubted themselves'
+p42
+S'the authors doubted herself'
+p43
+tp44
+a(S'the pilots hurt themselves'
+p45
+S'the pilots hurt himself'
+p46
+tp47
+a(S'the pilots hurt themselves'
+p48
+S'the pilots hurt herself'
+p49
+tp50
+a(S'the pilots injured themselves'
+p51
+S'the pilots injured himself'
+p52
+tp53
+a(S'the pilots injured themselves'
+p54
+S'the pilots injured herself'
+p55
+tp56
+a(S'the pilots congratulated themselves'
+p57
+S'the pilots congratulated himself'
+p58
+tp59
+a(S'the pilots congratulated themselves'
+p60
+S'the pilots congratulated herself'
+p61
+tp62
+a(S'the pilots embarrassed themselves'
+p63
+S'the pilots embarrassed himself'
+p64
+tp65
+a(S'the pilots embarrassed themselves'
+p66
+S'the pilots embarrassed herself'
+p67
+tp68
+a(S'the pilots disguised themselves'
+p69
+S'the pilots disguised himself'
+p70
+tp71
+a(S'the pilots disguised themselves'
+p72
+S'the pilots disguised herself'
+p73
+tp74
+a(S'the pilots hated themselves'
+p75
+S'the pilots hated himself'
+p76
+tp77
+a(S'the pilots hated themselves'
+p78
+S'the pilots hated herself'
+p79
+tp80
+a(S'the pilots doubted themselves'
+p81
+S'the pilots doubted himself'
+p82
+tp83
+a(S'the pilots doubted themselves'
+p84
+S'the pilots doubted herself'
+p85
+tp86
+a(S'the surgeons hurt themselves'
+p87
+S'the surgeons hurt himself'
+p88
+tp89
+a(S'the surgeons hurt themselves'
+p90
+S'the surgeons hurt herself'
+p91
+tp92
+a(S'the surgeons injured themselves'
+p93
+S'the surgeons injured himself'
+p94
+tp95
+a(S'the surgeons injured themselves'
+p96
+S'the surgeons injured herself'
+p97
+tp98
+a(S'the surgeons congratulated themselves'
+p99
+S'the surgeons congratulated himself'
+p100
+tp101
+a(S'the surgeons congratulated themselves'
+p102
+S'the surgeons congratulated herself'
+p103
+tp104
+a(S'the surgeons embarrassed themselves'
+p105
+S'the surgeons embarrassed himself'
+p106
+tp107
+a(S'the surgeons embarrassed themselves'
+p108
+S'the surgeons embarrassed herself'
+p109
+tp110
+a(S'the surgeons disguised themselves'
+p111
+S'the surgeons disguised himself'
+p112
+tp113
+a(S'the surgeons disguised themselves'
+p114
+S'the surgeons disguised herself'
+p115
+tp116
+a(S'the surgeons hated themselves'
+p117
+S'the surgeons hated himself'
+p118
+tp119
+a(S'the surgeons hated themselves'
+p120
+S'the surgeons hated herself'
+p121
+tp122
+a(S'the surgeons doubted themselves'
+p123
+S'the surgeons doubted himself'
+p124
+tp125
+a(S'the surgeons doubted themselves'
+p126
+S'the surgeons doubted herself'
+p127
+tp128
+a(S'the farmers hurt themselves'
+p129
+S'the farmers hurt himself'
+p130
+tp131
+a(S'the farmers hurt themselves'
+p132
+S'the farmers hurt herself'
+p133
+tp134
+a(S'the farmers injured themselves'
+p135
+S'the farmers injured himself'
+p136
+tp137
+a(S'the farmers injured themselves'
+p138
+S'the farmers injured herself'
+p139
+tp140
+a(S'the farmers congratulated themselves'
+p141
+S'the farmers congratulated himself'
+p142
+tp143
+a(S'the farmers congratulated themselves'
+p144
+S'the farmers congratulated herself'
+p145
+tp146
+a(S'the farmers embarrassed themselves'
+p147
+S'the farmers embarrassed himself'
+p148
+tp149
+a(S'the farmers embarrassed themselves'
+p150
+S'the farmers embarrassed herself'
+p151
+tp152
+a(S'the farmers disguised themselves'
+p153
+S'the farmers disguised himself'
+p154
+tp155
+a(S'the farmers disguised themselves'
+p156
+S'the farmers disguised herself'
+p157
+tp158
+a(S'the farmers hated themselves'
+p159
+S'the farmers hated himself'
+p160
+tp161
+a(S'the farmers hated themselves'
+p162
+S'the farmers hated herself'
+p163
+tp164
+a(S'the farmers doubted themselves'
+p165
+S'the farmers doubted himself'
+p166
+tp167
+a(S'the farmers doubted themselves'
+p168
+S'the farmers doubted herself'
+p169
+tp170
+a(S'the managers hurt themselves'
+p171
+S'the managers hurt himself'
+p172
+tp173
+a(S'the managers hurt themselves'
+p174
+S'the managers hurt herself'
+p175
+tp176
+a(S'the managers injured themselves'
+p177
+S'the managers injured himself'
+p178
+tp179
+a(S'the managers injured themselves'
+p180
+S'the managers injured herself'
+p181
+tp182
+a(S'the managers congratulated themselves'
+p183
+S'the managers congratulated himself'
+p184
+tp185
+a(S'the managers congratulated themselves'
+p186
+S'the managers congratulated herself'
+p187
+tp188
+a(S'the managers embarrassed themselves'
+p189
+S'the managers embarrassed himself'
+p190
+tp191
+a(S'the managers embarrassed themselves'
+p192
+S'the managers embarrassed herself'
+p193
+tp194
+a(S'the managers disguised themselves'
+p195
+S'the managers disguised himself'
+p196
+tp197
+a(S'the managers disguised themselves'
+p198
+S'the managers disguised herself'
+p199
+tp200
+a(S'the managers hated themselves'
+p201
+S'the managers hated himself'
+p202
+tp203
+a(S'the managers hated themselves'
+p204
+S'the managers hated herself'
+p205
+tp206
+a(S'the managers doubted themselves'
+p207
+S'the managers doubted himself'
+p208
+tp209
+a(S'the managers doubted themselves'
+p210
+S'the managers doubted herself'
+p211
+tp212
+a(S'the customers hurt themselves'
+p213
+S'the customers hurt himself'
+p214
+tp215
+a(S'the customers hurt themselves'
+p216
+S'the customers hurt herself'
+p217
+tp218
+a(S'the customers injured themselves'
+p219
+S'the customers injured himself'
+p220
+tp221
+a(S'the customers injured themselves'
+p222
+S'the customers injured herself'
+p223
+tp224
+a(S'the customers congratulated themselves'
+p225
+S'the customers congratulated himself'
+p226
+tp227
+a(S'the customers congratulated themselves'
+p228
+S'the customers congratulated herself'
+p229
+tp230
+a(S'the customers embarrassed themselves'
+p231
+S'the customers embarrassed himself'
+p232
+tp233
+a(S'the customers embarrassed themselves'
+p234
+S'the customers embarrassed herself'
+p235
+tp236
+a(S'the customers disguised themselves'
+p237
+S'the customers disguised himself'
+p238
+tp239
+a(S'the customers disguised themselves'
+p240
+S'the customers disguised herself'
+p241
+tp242
+a(S'the customers hated themselves'
+p243
+S'the customers hated himself'
+p244
+tp245
+a(S'the customers hated themselves'
+p246
+S'the customers hated herself'
+p247
+tp248
+a(S'the customers doubted themselves'
+p249
+S'the customers doubted himself'
+p250
+tp251
+a(S'the customers doubted themselves'
+p252
+S'the customers doubted herself'
+p253
+tp254
+a(S'the officers hurt themselves'
+p255
+S'the officers hurt himself'
+p256
+tp257
+a(S'the officers hurt themselves'
+p258
+S'the officers hurt herself'
+p259
+tp260
+a(S'the officers injured themselves'
+p261
+S'the officers injured himself'
+p262
+tp263
+a(S'the officers injured themselves'
+p264
+S'the officers injured herself'
+p265
+tp266
+a(S'the officers congratulated themselves'
+p267
+S'the officers congratulated himself'
+p268
+tp269
+a(S'the officers congratulated themselves'
+p270
+S'the officers congratulated herself'
+p271
+tp272
+a(S'the officers embarrassed themselves'
+p273
+S'the officers embarrassed himself'
+p274
+tp275
+a(S'the officers embarrassed themselves'
+p276
+S'the officers embarrassed herself'
+p277
+tp278
+a(S'the officers disguised themselves'
+p279
+S'the officers disguised himself'
+p280
+tp281
+a(S'the officers disguised themselves'
+p282
+S'the officers disguised herself'
+p283
+tp284
+a(S'the officers hated themselves'
+p285
+S'the officers hated himself'
+p286
+tp287
+a(S'the officers hated themselves'
+p288
+S'the officers hated herself'
+p289
+tp290
+a(S'the officers doubted themselves'
+p291
+S'the officers doubted himself'
+p292
+tp293
+a(S'the officers doubted themselves'
+p294
+S'the officers doubted herself'
+p295
+tp296
+a(S'the teachers hurt themselves'
+p297
+S'the teachers hurt himself'
+p298
+tp299
+a(S'the teachers hurt themselves'
+p300
+S'the teachers hurt herself'
+p301
+tp302
+a(S'the teachers injured themselves'
+p303
+S'the teachers injured himself'
+p304
+tp305
+a(S'the teachers injured themselves'
+p306
+S'the teachers injured herself'
+p307
+tp308
+a(S'the teachers congratulated themselves'
+p309
+S'the teachers congratulated himself'
+p310
+tp311
+a(S'the teachers congratulated themselves'
+p312
+S'the teachers congratulated herself'
+p313
+tp314
+a(S'the teachers embarrassed themselves'
+p315
+S'the teachers embarrassed himself'
+p316
+tp317
+a(S'the teachers embarrassed themselves'
+p318
+S'the teachers embarrassed herself'
+p319
+tp320
+a(S'the teachers disguised themselves'
+p321
+S'the teachers disguised himself'
+p322
+tp323
+a(S'the teachers disguised themselves'
+p324
+S'the teachers disguised herself'
+p325
+tp326
+a(S'the teachers hated themselves'
+p327
+S'the teachers hated himself'
+p328
+tp329
+a(S'the teachers hated themselves'
+p330
+S'the teachers hated herself'
+p331
+tp332
+a(S'the teachers doubted themselves'
+p333
+S'the teachers doubted himself'
+p334
+tp335
+a(S'the teachers doubted themselves'
+p336
+S'the teachers doubted herself'
+p337
+tp338
+a(S'the senators hurt themselves'
+p339
+S'the senators hurt himself'
+p340
+tp341
+a(S'the senators hurt themselves'
+p342
+S'the senators hurt herself'
+p343
+tp344
+a(S'the senators injured themselves'
+p345
+S'the senators injured himself'
+p346
+tp347
+a(S'the senators injured themselves'
+p348
+S'the senators injured herself'
+p349
+tp350
+a(S'the senators congratulated themselves'
+p351
+S'the senators congratulated himself'
+p352
+tp353
+a(S'the senators congratulated themselves'
+p354
+S'the senators congratulated herself'
+p355
+tp356
+a(S'the senators embarrassed themselves'
+p357
+S'the senators embarrassed himself'
+p358
+tp359
+a(S'the senators embarrassed themselves'
+p360
+S'the senators embarrassed herself'
+p361
+tp362
+a(S'the senators disguised themselves'
+p363
+S'the senators disguised himself'
+p364
+tp365
+a(S'the senators disguised themselves'
+p366
+S'the senators disguised herself'
+p367
+tp368
+a(S'the senators hated themselves'
+p369
+S'the senators hated himself'
+p370
+tp371
+a(S'the senators hated themselves'
+p372
+S'the senators hated herself'
+p373
+tp374
+a(S'the senators doubted themselves'
+p375
+S'the senators doubted himself'
+p376
+tp377
+a(S'the senators doubted themselves'
+p378
+S'the senators doubted herself'
+p379
+tp380
+a(S'the consultants hurt themselves'
+p381
+S'the consultants hurt himself'
+p382
+tp383
+a(S'the consultants hurt themselves'
+p384
+S'the consultants hurt herself'
+p385
+tp386
+a(S'the consultants injured themselves'
+p387
+S'the consultants injured himself'
+p388
+tp389
+a(S'the consultants injured themselves'
+p390
+S'the consultants injured herself'
+p391
+tp392
+a(S'the consultants congratulated themselves'
+p393
+S'the consultants congratulated himself'
+p394
+tp395
+a(S'the consultants congratulated themselves'
+p396
+S'the consultants congratulated herself'
+p397
+tp398
+a(S'the consultants embarrassed themselves'
+p399
+S'the consultants embarrassed himself'
+p400
+tp401
+a(S'the consultants embarrassed themselves'
+p402
+S'the consultants embarrassed herself'
+p403
+tp404
+a(S'the consultants disguised themselves'
+p405
+S'the consultants disguised himself'
+p406
+tp407
+a(S'the consultants disguised themselves'
+p408
+S'the consultants disguised herself'
+p409
+tp410
+a(S'the consultants hated themselves'
+p411
+S'the consultants hated himself'
+p412
+tp413
+a(S'the consultants hated themselves'
+p414
+S'the consultants hated herself'
+p415
+tp416
+a(S'the consultants doubted themselves'
+p417
+S'the consultants doubted himself'
+p418
+tp419
+a(S'the consultants doubted themselves'
+p420
+S'the consultants doubted herself'
+p421
+tp422
+asS'sing_MS_ANPHR'
+p423
+(lp424
+(S'the author hurt himself'
+p425
+S'the author hurt themselves'
+p426
+tp427
+a(S'the author hurt herself'
+p428
+S'the author hurt themselves'
+p429
+tp430
+a(S'the author injured himself'
+p431
+S'the author injured themselves'
+p432
+tp433
+a(S'the author injured herself'
+p434
+S'the author injured themselves'
+p435
+tp436
+a(S'the author congratulated himself'
+p437
+S'the author congratulated themselves'
+p438
+tp439
+a(S'the author congratulated herself'
+p440
+S'the author congratulated themselves'
+p441
+tp442
+a(S'the author embarrassed himself'
+p443
+S'the author embarrassed themselves'
+p444
+tp445
+a(S'the author embarrassed herself'
+p446
+S'the author embarrassed themselves'
+p447
+tp448
+a(S'the author disguised himself'
+p449
+S'the author disguised themselves'
+p450
+tp451
+a(S'the author disguised herself'
+p452
+S'the author disguised themselves'
+p453
+tp454
+a(S'the author hated himself'
+p455
+S'the author hated themselves'
+p456
+tp457
+a(S'the author hated herself'
+p458
+S'the author hated themselves'
+p459
+tp460
+a(S'the author doubted himself'
+p461
+S'the author doubted themselves'
+p462
+tp463
+a(S'the author doubted herself'
+p464
+S'the author doubted themselves'
+p465
+tp466
+a(S'the pilot hurt himself'
+p467
+S'the pilot hurt themselves'
+p468
+tp469
+a(S'the pilot hurt herself'
+p470
+S'the pilot hurt themselves'
+p471
+tp472
+a(S'the pilot injured himself'
+p473
+S'the pilot injured themselves'
+p474
+tp475
+a(S'the pilot injured herself'
+p476
+S'the pilot injured themselves'
+p477
+tp478
+a(S'the pilot congratulated himself'
+p479
+S'the pilot congratulated themselves'
+p480
+tp481
+a(S'the pilot congratulated herself'
+p482
+S'the pilot congratulated themselves'
+p483
+tp484
+a(S'the pilot embarrassed himself'
+p485
+S'the pilot embarrassed themselves'
+p486
+tp487
+a(S'the pilot embarrassed herself'
+p488
+S'the pilot embarrassed themselves'
+p489
+tp490
+a(S'the pilot disguised himself'
+p491
+S'the pilot disguised themselves'
+p492
+tp493
+a(S'the pilot disguised herself'
+p494
+S'the pilot disguised themselves'
+p495
+tp496
+a(S'the pilot hated himself'
+p497
+S'the pilot hated themselves'
+p498
+tp499
+a(S'the pilot hated herself'
+p500
+S'the pilot hated themselves'
+p501
+tp502
+a(S'the pilot doubted himself'
+p503
+S'the pilot doubted themselves'
+p504
+tp505
+a(S'the pilot doubted herself'
+p506
+S'the pilot doubted themselves'
+p507
+tp508
+a(S'the surgeon hurt himself'
+p509
+S'the surgeon hurt themselves'
+p510
+tp511
+a(S'the surgeon hurt herself'
+p512
+S'the surgeon hurt themselves'
+p513
+tp514
+a(S'the surgeon injured himself'
+p515
+S'the surgeon injured themselves'
+p516
+tp517
+a(S'the surgeon injured herself'
+p518
+S'the surgeon injured themselves'
+p519
+tp520
+a(S'the surgeon congratulated himself'
+p521
+S'the surgeon congratulated themselves'
+p522
+tp523
+a(S'the surgeon congratulated herself'
+p524
+S'the surgeon congratulated themselves'
+p525
+tp526
+a(S'the surgeon embarrassed himself'
+p527
+S'the surgeon embarrassed themselves'
+p528
+tp529
+a(S'the surgeon embarrassed herself'
+p530
+S'the surgeon embarrassed themselves'
+p531
+tp532
+a(S'the surgeon disguised himself'
+p533
+S'the surgeon disguised themselves'
+p534
+tp535
+a(S'the surgeon disguised herself'
+p536
+S'the surgeon disguised themselves'
+p537
+tp538
+a(S'the surgeon hated himself'
+p539
+S'the surgeon hated themselves'
+p540
+tp541
+a(S'the surgeon hated herself'
+p542
+S'the surgeon hated themselves'
+p543
+tp544
+a(S'the surgeon doubted himself'
+p545
+S'the surgeon doubted themselves'
+p546
+tp547
+a(S'the surgeon doubted herself'
+p548
+S'the surgeon doubted themselves'
+p549
+tp550
+a(S'the farmer hurt himself'
+p551
+S'the farmer hurt themselves'
+p552
+tp553
+a(S'the farmer hurt herself'
+p554
+S'the farmer hurt themselves'
+p555
+tp556
+a(S'the farmer injured himself'
+p557
+S'the farmer injured themselves'
+p558
+tp559
+a(S'the farmer injured herself'
+p560
+S'the farmer injured themselves'
+p561
+tp562
+a(S'the farmer congratulated himself'
+p563
+S'the farmer congratulated themselves'
+p564
+tp565
+a(S'the farmer congratulated herself'
+p566
+S'the farmer congratulated themselves'
+p567
+tp568
+a(S'the farmer embarrassed himself'
+p569
+S'the farmer embarrassed themselves'
+p570
+tp571
+a(S'the farmer embarrassed herself'
+p572
+S'the farmer embarrassed themselves'
+p573
+tp574
+a(S'the farmer disguised himself'
+p575
+S'the farmer disguised themselves'
+p576
+tp577
+a(S'the farmer disguised herself'
+p578
+S'the farmer disguised themselves'
+p579
+tp580
+a(S'the farmer hated himself'
+p581
+S'the farmer hated themselves'
+p582
+tp583
+a(S'the farmer hated herself'
+p584
+S'the farmer hated themselves'
+p585
+tp586
+a(S'the farmer doubted himself'
+p587
+S'the farmer doubted themselves'
+p588
+tp589
+a(S'the farmer doubted herself'
+p590
+S'the farmer doubted themselves'
+p591
+tp592
+a(S'the manager hurt himself'
+p593
+S'the manager hurt themselves'
+p594
+tp595
+a(S'the manager hurt herself'
+p596
+S'the manager hurt themselves'
+p597
+tp598
+a(S'the manager injured himself'
+p599
+S'the manager injured themselves'
+p600
+tp601
+a(S'the manager injured herself'
+p602
+S'the manager injured themselves'
+p603
+tp604
+a(S'the manager congratulated himself'
+p605
+S'the manager congratulated themselves'
+p606
+tp607
+a(S'the manager congratulated herself'
+p608
+S'the manager congratulated themselves'
+p609
+tp610
+a(S'the manager embarrassed himself'
+p611
+S'the manager embarrassed themselves'
+p612
+tp613
+a(S'the manager embarrassed herself'
+p614
+S'the manager embarrassed themselves'
+p615
+tp616
+a(S'the manager disguised himself'
+p617
+S'the manager disguised themselves'
+p618
+tp619
+a(S'the manager disguised herself'
+p620
+S'the manager disguised themselves'
+p621
+tp622
+a(S'the manager hated himself'
+p623
+S'the manager hated themselves'
+p624
+tp625
+a(S'the manager hated herself'
+p626
+S'the manager hated themselves'
+p627
+tp628
+a(S'the manager doubted himself'
+p629
+S'the manager doubted themselves'
+p630
+tp631
+a(S'the manager doubted herself'
+p632
+S'the manager doubted themselves'
+p633
+tp634
+a(S'the customer hurt himself'
+p635
+S'the customer hurt themselves'
+p636
+tp637
+a(S'the customer hurt herself'
+p638
+S'the customer hurt themselves'
+p639
+tp640
+a(S'the customer injured himself'
+p641
+S'the customer injured themselves'
+p642
+tp643
+a(S'the customer injured herself'
+p644
+S'the customer injured themselves'
+p645
+tp646
+a(S'the customer congratulated himself'
+p647
+S'the customer congratulated themselves'
+p648
+tp649
+a(S'the customer congratulated herself'
+p650
+S'the customer congratulated themselves'
+p651
+tp652
+a(S'the customer embarrassed himself'
+p653
+S'the customer embarrassed themselves'
+p654
+tp655
+a(S'the customer embarrassed herself'
+p656
+S'the customer embarrassed themselves'
+p657
+tp658
+a(S'the customer disguised himself'
+p659
+S'the customer disguised themselves'
+p660
+tp661
+a(S'the customer disguised herself'
+p662
+S'the customer disguised themselves'
+p663
+tp664
+a(S'the customer hated himself'
+p665
+S'the customer hated themselves'
+p666
+tp667
+a(S'the customer hated herself'
+p668
+S'the customer hated themselves'
+p669
+tp670
+a(S'the customer doubted himself'
+p671
+S'the customer doubted themselves'
+p672
+tp673
+a(S'the customer doubted herself'
+p674
+S'the customer doubted themselves'
+p675
+tp676
+a(S'the officer hurt himself'
+p677
+S'the officer hurt themselves'
+p678
+tp679
+a(S'the officer hurt herself'
+p680
+S'the officer hurt themselves'
+p681
+tp682
+a(S'the officer injured himself'
+p683
+S'the officer injured themselves'
+p684
+tp685
+a(S'the officer injured herself'
+p686
+S'the officer injured themselves'
+p687
+tp688
+a(S'the officer congratulated himself'
+p689
+S'the officer congratulated themselves'
+p690
+tp691
+a(S'the officer congratulated herself'
+p692
+S'the officer congratulated themselves'
+p693
+tp694
+a(S'the officer embarrassed himself'
+p695
+S'the officer embarrassed themselves'
+p696
+tp697
+a(S'the officer embarrassed herself'
+p698
+S'the officer embarrassed themselves'
+p699
+tp700
+a(S'the officer disguised himself'
+p701
+S'the officer disguised themselves'
+p702
+tp703
+a(S'the officer disguised herself'
+p704
+S'the officer disguised themselves'
+p705
+tp706
+a(S'the officer hated himself'
+p707
+S'the officer hated themselves'
+p708
+tp709
+a(S'the officer hated herself'
+p710
+S'the officer hated themselves'
+p711
+tp712
+a(S'the officer doubted himself'
+p713
+S'the officer doubted themselves'
+p714
+tp715
+a(S'the officer doubted herself'
+p716
+S'the officer doubted themselves'
+p717
+tp718
+a(S'the teacher hurt himself'
+p719
+S'the teacher hurt themselves'
+p720
+tp721
+a(S'the teacher hurt herself'
+p722
+S'the teacher hurt themselves'
+p723
+tp724
+a(S'the teacher injured himself'
+p725
+S'the teacher injured themselves'
+p726
+tp727
+a(S'the teacher injured herself'
+p728
+S'the teacher injured themselves'
+p729
+tp730
+a(S'the teacher congratulated himself'
+p731
+S'the teacher congratulated themselves'
+p732
+tp733
+a(S'the teacher congratulated herself'
+p734
+S'the teacher congratulated themselves'
+p735
+tp736
+a(S'the teacher embarrassed himself'
+p737
+S'the teacher embarrassed themselves'
+p738
+tp739
+a(S'the teacher embarrassed herself'
+p740
+S'the teacher embarrassed themselves'
+p741
+tp742
+a(S'the teacher disguised himself'
+p743
+S'the teacher disguised themselves'
+p744
+tp745
+a(S'the teacher disguised herself'
+p746
+S'the teacher disguised themselves'
+p747
+tp748
+a(S'the teacher hated himself'
+p749
+S'the teacher hated themselves'
+p750
+tp751
+a(S'the teacher hated herself'
+p752
+S'the teacher hated themselves'
+p753
+tp754
+a(S'the teacher doubted himself'
+p755
+S'the teacher doubted themselves'
+p756
+tp757
+a(S'the teacher doubted herself'
+p758
+S'the teacher doubted themselves'
+p759
+tp760
+a(S'the senator hurt himself'
+p761
+S'the senator hurt themselves'
+p762
+tp763
+a(S'the senator hurt herself'
+p764
+S'the senator hurt themselves'
+p765
+tp766
+a(S'the senator injured himself'
+p767
+S'the senator injured themselves'
+p768
+tp769
+a(S'the senator injured herself'
+p770
+S'the senator injured themselves'
+p771
+tp772
+a(S'the senator congratulated himself'
+p773
+S'the senator congratulated themselves'
+p774
+tp775
+a(S'the senator congratulated herself'
+p776
+S'the senator congratulated themselves'
+p777
+tp778
+a(S'the senator embarrassed himself'
+p779
+S'the senator embarrassed themselves'
+p780
+tp781
+a(S'the senator embarrassed herself'
+p782
+S'the senator embarrassed themselves'
+p783
+tp784
+a(S'the senator disguised himself'
+p785
+S'the senator disguised themselves'
+p786
+tp787
+a(S'the senator disguised herself'
+p788
+S'the senator disguised themselves'
+p789
+tp790
+a(S'the senator hated himself'
+p791
+S'the senator hated themselves'
+p792
+tp793
+a(S'the senator hated herself'
+p794
+S'the senator hated themselves'
+p795
+tp796
+a(S'the senator doubted himself'
+p797
+S'the senator doubted themselves'
+p798
+tp799
+a(S'the senator doubted herself'
+p800
+S'the senator doubted themselves'
+p801
+tp802
+a(S'the consultant hurt himself'
+p803
+S'the consultant hurt themselves'
+p804
+tp805
+a(S'the consultant hurt herself'
+p806
+S'the consultant hurt themselves'
+p807
+tp808
+a(S'the consultant injured himself'
+p809
+S'the consultant injured themselves'
+p810
+tp811
+a(S'the consultant injured herself'
+p812
+S'the consultant injured themselves'
+p813
+tp814
+a(S'the consultant congratulated himself'
+p815
+S'the consultant congratulated themselves'
+p816
+tp817
+a(S'the consultant congratulated herself'
+p818
+S'the consultant congratulated themselves'
+p819
+tp820
+a(S'the consultant embarrassed himself'
+p821
+S'the consultant embarrassed themselves'
+p822
+tp823
+a(S'the consultant embarrassed herself'
+p824
+S'the consultant embarrassed themselves'
+p825
+tp826
+a(S'the consultant disguised himself'
+p827
+S'the consultant disguised themselves'
+p828
+tp829
+a(S'the consultant disguised herself'
+p830
+S'the consultant disguised themselves'
+p831
+tp832
+a(S'the consultant hated himself'
+p833
+S'the consultant hated themselves'
+p834
+tp835
+a(S'the consultant hated herself'
+p836
+S'the consultant hated themselves'
+p837
+tp838
+a(S'the consultant doubted himself'
+p839
+S'the consultant doubted themselves'
+p840
+tp841
+a(S'the consultant doubted herself'
+p842
+S'the consultant doubted themselves'
+p843
+tp844
+as.

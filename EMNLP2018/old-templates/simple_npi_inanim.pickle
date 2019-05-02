@@ -1,0 +1,1016 @@
+(dp0
+S'past'
+p1
+(lp2
+(S'no movies have ever been seen'
+p3
+S'the movies have ever been seen'
+p4
+S'most movies have ever been seen'
+p5
+tp6
+a(S'no movies have ever been appreciated'
+p7
+S'the movies have ever been appreciated'
+p8
+S'most movies have ever been appreciated'
+p9
+tp10
+a(S'no movies have ever been ignored'
+p11
+S'the movies have ever been ignored'
+p12
+S'most movies have ever been ignored'
+p13
+tp14
+a(S'no movies have ever gotten old'
+p15
+S'the movies have ever gotten old'
+p16
+S'most movies have ever gotten old'
+p17
+tp18
+a(S'no books have ever been seen'
+p19
+S'the books have ever been seen'
+p20
+S'most books have ever been seen'
+p21
+tp22
+a(S'no books have ever been appreciated'
+p23
+S'the books have ever been appreciated'
+p24
+S'most books have ever been appreciated'
+p25
+tp26
+a(S'no books have ever been ignored'
+p27
+S'the books have ever been ignored'
+p28
+S'most books have ever been ignored'
+p29
+tp30
+a(S'no books have ever gotten old'
+p31
+S'the books have ever gotten old'
+p32
+S'most books have ever gotten old'
+p33
+tp34
+a(S'no games have ever been seen'
+p35
+S'the games have ever been seen'
+p36
+S'most games have ever been seen'
+p37
+tp38
+a(S'no games have ever been appreciated'
+p39
+S'the games have ever been appreciated'
+p40
+S'most games have ever been appreciated'
+p41
+tp42
+a(S'no games have ever been ignored'
+p43
+S'the games have ever been ignored'
+p44
+S'most games have ever been ignored'
+p45
+tp46
+a(S'no games have ever gotten old'
+p47
+S'the games have ever gotten old'
+p48
+S'most games have ever gotten old'
+p49
+tp50
+a(S'no songs have ever been seen'
+p51
+S'the songs have ever been seen'
+p52
+S'most songs have ever been seen'
+p53
+tp54
+a(S'no songs have ever been appreciated'
+p55
+S'the songs have ever been appreciated'
+p56
+S'most songs have ever been appreciated'
+p57
+tp58
+a(S'no songs have ever been ignored'
+p59
+S'the songs have ever been ignored'
+p60
+S'most songs have ever been ignored'
+p61
+tp62
+a(S'no songs have ever gotten old'
+p63
+S'the songs have ever gotten old'
+p64
+S'most songs have ever gotten old'
+p65
+tp66
+a(S'no pictures have ever been seen'
+p67
+S'the pictures have ever been seen'
+p68
+S'most pictures have ever been seen'
+p69
+tp70
+a(S'no pictures have ever been appreciated'
+p71
+S'the pictures have ever been appreciated'
+p72
+S'most pictures have ever been appreciated'
+p73
+tp74
+a(S'no pictures have ever been ignored'
+p75
+S'the pictures have ever been ignored'
+p76
+S'most pictures have ever been ignored'
+p77
+tp78
+a(S'no pictures have ever gotten old'
+p79
+S'the pictures have ever gotten old'
+p80
+S'most pictures have ever gotten old'
+p81
+tp82
+a(S'no paintings have ever been seen'
+p83
+S'the paintings have ever been seen'
+p84
+S'most paintings have ever been seen'
+p85
+tp86
+a(S'no paintings have ever been appreciated'
+p87
+S'the paintings have ever been appreciated'
+p88
+S'most paintings have ever been appreciated'
+p89
+tp90
+a(S'no paintings have ever been ignored'
+p91
+S'the paintings have ever been ignored'
+p92
+S'most paintings have ever been ignored'
+p93
+tp94
+a(S'no paintings have ever gotten old'
+p95
+S'the paintings have ever gotten old'
+p96
+S'most paintings have ever gotten old'
+p97
+tp98
+a(S'no novels have ever been seen'
+p99
+S'the novels have ever been seen'
+p100
+S'most novels have ever been seen'
+p101
+tp102
+a(S'no novels have ever been appreciated'
+p103
+S'the novels have ever been appreciated'
+p104
+S'most novels have ever been appreciated'
+p105
+tp106
+a(S'no novels have ever been ignored'
+p107
+S'the novels have ever been ignored'
+p108
+S'most novels have ever been ignored'
+p109
+tp110
+a(S'no novels have ever gotten old'
+p111
+S'the novels have ever gotten old'
+p112
+S'most novels have ever gotten old'
+p113
+tp114
+a(S'no poems have ever been seen'
+p115
+S'the poems have ever been seen'
+p116
+S'most poems have ever been seen'
+p117
+tp118
+a(S'no poems have ever been appreciated'
+p119
+S'the poems have ever been appreciated'
+p120
+S'most poems have ever been appreciated'
+p121
+tp122
+a(S'no poems have ever been ignored'
+p123
+S'the poems have ever been ignored'
+p124
+S'most poems have ever been ignored'
+p125
+tp126
+a(S'no poems have ever gotten old'
+p127
+S'the poems have ever gotten old'
+p128
+S'most poems have ever gotten old'
+p129
+tp130
+a(S'no shows have ever been seen'
+p131
+S'the shows have ever been seen'
+p132
+S'most shows have ever been seen'
+p133
+tp134
+a(S'no shows have ever been appreciated'
+p135
+S'the shows have ever been appreciated'
+p136
+S'most shows have ever been appreciated'
+p137
+tp138
+a(S'no shows have ever been ignored'
+p139
+S'the shows have ever been ignored'
+p140
+S'most shows have ever been ignored'
+p141
+tp142
+a(S'no shows have ever gotten old'
+p143
+S'the shows have ever gotten old'
+p144
+S'most shows have ever gotten old'
+p145
+tp146
+a(S'few movies have ever been seen'
+p147
+S'some movies have ever been seen'
+p148
+S'many movies have ever been seen'
+p149
+tp150
+a(S'few movies have ever been appreciated'
+p151
+S'some movies have ever been appreciated'
+p152
+S'many movies have ever been appreciated'
+p153
+tp154
+a(S'few movies have ever been ignored'
+p155
+S'some movies have ever been ignored'
+p156
+S'many movies have ever been ignored'
+p157
+tp158
+a(S'few movies have ever gotten old'
+p159
+S'some movies have ever gotten old'
+p160
+S'many movies have ever gotten old'
+p161
+tp162
+a(S'few books have ever been seen'
+p163
+S'some books have ever been seen'
+p164
+S'many books have ever been seen'
+p165
+tp166
+a(S'few books have ever been appreciated'
+p167
+S'some books have ever been appreciated'
+p168
+S'many books have ever been appreciated'
+p169
+tp170
+a(S'few books have ever been ignored'
+p171
+S'some books have ever been ignored'
+p172
+S'many books have ever been ignored'
+p173
+tp174
+a(S'few books have ever gotten old'
+p175
+S'some books have ever gotten old'
+p176
+S'many books have ever gotten old'
+p177
+tp178
+a(S'few games have ever been seen'
+p179
+S'some games have ever been seen'
+p180
+S'many games have ever been seen'
+p181
+tp182
+a(S'few games have ever been appreciated'
+p183
+S'some games have ever been appreciated'
+p184
+S'many games have ever been appreciated'
+p185
+tp186
+a(S'few games have ever been ignored'
+p187
+S'some games have ever been ignored'
+p188
+S'many games have ever been ignored'
+p189
+tp190
+a(S'few games have ever gotten old'
+p191
+S'some games have ever gotten old'
+p192
+S'many games have ever gotten old'
+p193
+tp194
+a(S'few songs have ever been seen'
+p195
+S'some songs have ever been seen'
+p196
+S'many songs have ever been seen'
+p197
+tp198
+a(S'few songs have ever been appreciated'
+p199
+S'some songs have ever been appreciated'
+p200
+S'many songs have ever been appreciated'
+p201
+tp202
+a(S'few songs have ever been ignored'
+p203
+S'some songs have ever been ignored'
+p204
+S'many songs have ever been ignored'
+p205
+tp206
+a(S'few songs have ever gotten old'
+p207
+S'some songs have ever gotten old'
+p208
+S'many songs have ever gotten old'
+p209
+tp210
+a(S'few pictures have ever been seen'
+p211
+S'some pictures have ever been seen'
+p212
+S'many pictures have ever been seen'
+p213
+tp214
+a(S'few pictures have ever been appreciated'
+p215
+S'some pictures have ever been appreciated'
+p216
+S'many pictures have ever been appreciated'
+p217
+tp218
+a(S'few pictures have ever been ignored'
+p219
+S'some pictures have ever been ignored'
+p220
+S'many pictures have ever been ignored'
+p221
+tp222
+a(S'few pictures have ever gotten old'
+p223
+S'some pictures have ever gotten old'
+p224
+S'many pictures have ever gotten old'
+p225
+tp226
+a(S'few paintings have ever been seen'
+p227
+S'some paintings have ever been seen'
+p228
+S'many paintings have ever been seen'
+p229
+tp230
+a(S'few paintings have ever been appreciated'
+p231
+S'some paintings have ever been appreciated'
+p232
+S'many paintings have ever been appreciated'
+p233
+tp234
+a(S'few paintings have ever been ignored'
+p235
+S'some paintings have ever been ignored'
+p236
+S'many paintings have ever been ignored'
+p237
+tp238
+a(S'few paintings have ever gotten old'
+p239
+S'some paintings have ever gotten old'
+p240
+S'many paintings have ever gotten old'
+p241
+tp242
+a(S'few novels have ever been seen'
+p243
+S'some novels have ever been seen'
+p244
+S'many novels have ever been seen'
+p245
+tp246
+a(S'few novels have ever been appreciated'
+p247
+S'some novels have ever been appreciated'
+p248
+S'many novels have ever been appreciated'
+p249
+tp250
+a(S'few novels have ever been ignored'
+p251
+S'some novels have ever been ignored'
+p252
+S'many novels have ever been ignored'
+p253
+tp254
+a(S'few novels have ever gotten old'
+p255
+S'some novels have ever gotten old'
+p256
+S'many novels have ever gotten old'
+p257
+tp258
+a(S'few poems have ever been seen'
+p259
+S'some poems have ever been seen'
+p260
+S'many poems have ever been seen'
+p261
+tp262
+a(S'few poems have ever been appreciated'
+p263
+S'some poems have ever been appreciated'
+p264
+S'many poems have ever been appreciated'
+p265
+tp266
+a(S'few poems have ever been ignored'
+p267
+S'some poems have ever been ignored'
+p268
+S'many poems have ever been ignored'
+p269
+tp270
+a(S'few poems have ever gotten old'
+p271
+S'some poems have ever gotten old'
+p272
+S'many poems have ever gotten old'
+p273
+tp274
+a(S'few shows have ever been seen'
+p275
+S'some shows have ever been seen'
+p276
+S'many shows have ever been seen'
+p277
+tp278
+a(S'few shows have ever been appreciated'
+p279
+S'some shows have ever been appreciated'
+p280
+S'many shows have ever been appreciated'
+p281
+tp282
+a(S'few shows have ever been ignored'
+p283
+S'some shows have ever been ignored'
+p284
+S'many shows have ever been ignored'
+p285
+tp286
+a(S'few shows have ever gotten old'
+p287
+S'some shows have ever gotten old'
+p288
+S'many shows have ever gotten old'
+p289
+tp290
+asS'future'
+p291
+(lp292
+(S'no movies will ever be seen'
+p293
+S'the movies will ever be seen'
+p294
+S'most movies will ever be seen'
+p295
+tp296
+a(S'no movies will ever be appreciated'
+p297
+S'the movies will ever be appreciated'
+p298
+S'most movies will ever be appreciated'
+p299
+tp300
+a(S'no movies will ever be ignored'
+p301
+S'the movies will ever be ignored'
+p302
+S'most movies will ever be ignored'
+p303
+tp304
+a(S'no movies will ever get old'
+p305
+S'the movies will ever get old'
+p306
+S'most movies will ever get old'
+p307
+tp308
+a(S'no books will ever be seen'
+p309
+S'the books will ever be seen'
+p310
+S'most books will ever be seen'
+p311
+tp312
+a(S'no books will ever be appreciated'
+p313
+S'the books will ever be appreciated'
+p314
+S'most books will ever be appreciated'
+p315
+tp316
+a(S'no books will ever be ignored'
+p317
+S'the books will ever be ignored'
+p318
+S'most books will ever be ignored'
+p319
+tp320
+a(S'no books will ever get old'
+p321
+S'the books will ever get old'
+p322
+S'most books will ever get old'
+p323
+tp324
+a(S'no games will ever be seen'
+p325
+S'the games will ever be seen'
+p326
+S'most games will ever be seen'
+p327
+tp328
+a(S'no games will ever be appreciated'
+p329
+S'the games will ever be appreciated'
+p330
+S'most games will ever be appreciated'
+p331
+tp332
+a(S'no games will ever be ignored'
+p333
+S'the games will ever be ignored'
+p334
+S'most games will ever be ignored'
+p335
+tp336
+a(S'no games will ever get old'
+p337
+S'the games will ever get old'
+p338
+S'most games will ever get old'
+p339
+tp340
+a(S'no songs will ever be seen'
+p341
+S'the songs will ever be seen'
+p342
+S'most songs will ever be seen'
+p343
+tp344
+a(S'no songs will ever be appreciated'
+p345
+S'the songs will ever be appreciated'
+p346
+S'most songs will ever be appreciated'
+p347
+tp348
+a(S'no songs will ever be ignored'
+p349
+S'the songs will ever be ignored'
+p350
+S'most songs will ever be ignored'
+p351
+tp352
+a(S'no songs will ever get old'
+p353
+S'the songs will ever get old'
+p354
+S'most songs will ever get old'
+p355
+tp356
+a(S'no pictures will ever be seen'
+p357
+S'the pictures will ever be seen'
+p358
+S'most pictures will ever be seen'
+p359
+tp360
+a(S'no pictures will ever be appreciated'
+p361
+S'the pictures will ever be appreciated'
+p362
+S'most pictures will ever be appreciated'
+p363
+tp364
+a(S'no pictures will ever be ignored'
+p365
+S'the pictures will ever be ignored'
+p366
+S'most pictures will ever be ignored'
+p367
+tp368
+a(S'no pictures will ever get old'
+p369
+S'the pictures will ever get old'
+p370
+S'most pictures will ever get old'
+p371
+tp372
+a(S'no paintings will ever be seen'
+p373
+S'the paintings will ever be seen'
+p374
+S'most paintings will ever be seen'
+p375
+tp376
+a(S'no paintings will ever be appreciated'
+p377
+S'the paintings will ever be appreciated'
+p378
+S'most paintings will ever be appreciated'
+p379
+tp380
+a(S'no paintings will ever be ignored'
+p381
+S'the paintings will ever be ignored'
+p382
+S'most paintings will ever be ignored'
+p383
+tp384
+a(S'no paintings will ever get old'
+p385
+S'the paintings will ever get old'
+p386
+S'most paintings will ever get old'
+p387
+tp388
+a(S'no novels will ever be seen'
+p389
+S'the novels will ever be seen'
+p390
+S'most novels will ever be seen'
+p391
+tp392
+a(S'no novels will ever be appreciated'
+p393
+S'the novels will ever be appreciated'
+p394
+S'most novels will ever be appreciated'
+p395
+tp396
+a(S'no novels will ever be ignored'
+p397
+S'the novels will ever be ignored'
+p398
+S'most novels will ever be ignored'
+p399
+tp400
+a(S'no novels will ever get old'
+p401
+S'the novels will ever get old'
+p402
+S'most novels will ever get old'
+p403
+tp404
+a(S'no poems will ever be seen'
+p405
+S'the poems will ever be seen'
+p406
+S'most poems will ever be seen'
+p407
+tp408
+a(S'no poems will ever be appreciated'
+p409
+S'the poems will ever be appreciated'
+p410
+S'most poems will ever be appreciated'
+p411
+tp412
+a(S'no poems will ever be ignored'
+p413
+S'the poems will ever be ignored'
+p414
+S'most poems will ever be ignored'
+p415
+tp416
+a(S'no poems will ever get old'
+p417
+S'the poems will ever get old'
+p418
+S'most poems will ever get old'
+p419
+tp420
+a(S'no shows will ever be seen'
+p421
+S'the shows will ever be seen'
+p422
+S'most shows will ever be seen'
+p423
+tp424
+a(S'no shows will ever be appreciated'
+p425
+S'the shows will ever be appreciated'
+p426
+S'most shows will ever be appreciated'
+p427
+tp428
+a(S'no shows will ever be ignored'
+p429
+S'the shows will ever be ignored'
+p430
+S'most shows will ever be ignored'
+p431
+tp432
+a(S'no shows will ever get old'
+p433
+S'the shows will ever get old'
+p434
+S'most shows will ever get old'
+p435
+tp436
+a(S'few movies will ever be seen'
+p437
+S'some movies will ever be seen'
+p438
+S'many movies will ever be seen'
+p439
+tp440
+a(S'few movies will ever be appreciated'
+p441
+S'some movies will ever be appreciated'
+p442
+S'many movies will ever be appreciated'
+p443
+tp444
+a(S'few movies will ever be ignored'
+p445
+S'some movies will ever be ignored'
+p446
+S'many movies will ever be ignored'
+p447
+tp448
+a(S'few movies will ever get old'
+p449
+S'some movies will ever get old'
+p450
+S'many movies will ever get old'
+p451
+tp452
+a(S'few books will ever be seen'
+p453
+S'some books will ever be seen'
+p454
+S'many books will ever be seen'
+p455
+tp456
+a(S'few books will ever be appreciated'
+p457
+S'some books will ever be appreciated'
+p458
+S'many books will ever be appreciated'
+p459
+tp460
+a(S'few books will ever be ignored'
+p461
+S'some books will ever be ignored'
+p462
+S'many books will ever be ignored'
+p463
+tp464
+a(S'few books will ever get old'
+p465
+S'some books will ever get old'
+p466
+S'many books will ever get old'
+p467
+tp468
+a(S'few games will ever be seen'
+p469
+S'some games will ever be seen'
+p470
+S'many games will ever be seen'
+p471
+tp472
+a(S'few games will ever be appreciated'
+p473
+S'some games will ever be appreciated'
+p474
+S'many games will ever be appreciated'
+p475
+tp476
+a(S'few games will ever be ignored'
+p477
+S'some games will ever be ignored'
+p478
+S'many games will ever be ignored'
+p479
+tp480
+a(S'few games will ever get old'
+p481
+S'some games will ever get old'
+p482
+S'many games will ever get old'
+p483
+tp484
+a(S'few songs will ever be seen'
+p485
+S'some songs will ever be seen'
+p486
+S'many songs will ever be seen'
+p487
+tp488
+a(S'few songs will ever be appreciated'
+p489
+S'some songs will ever be appreciated'
+p490
+S'many songs will ever be appreciated'
+p491
+tp492
+a(S'few songs will ever be ignored'
+p493
+S'some songs will ever be ignored'
+p494
+S'many songs will ever be ignored'
+p495
+tp496
+a(S'few songs will ever get old'
+p497
+S'some songs will ever get old'
+p498
+S'many songs will ever get old'
+p499
+tp500
+a(S'few pictures will ever be seen'
+p501
+S'some pictures will ever be seen'
+p502
+S'many pictures will ever be seen'
+p503
+tp504
+a(S'few pictures will ever be appreciated'
+p505
+S'some pictures will ever be appreciated'
+p506
+S'many pictures will ever be appreciated'
+p507
+tp508
+a(S'few pictures will ever be ignored'
+p509
+S'some pictures will ever be ignored'
+p510
+S'many pictures will ever be ignored'
+p511
+tp512
+a(S'few pictures will ever get old'
+p513
+S'some pictures will ever get old'
+p514
+S'many pictures will ever get old'
+p515
+tp516
+a(S'few paintings will ever be seen'
+p517
+S'some paintings will ever be seen'
+p518
+S'many paintings will ever be seen'
+p519
+tp520
+a(S'few paintings will ever be appreciated'
+p521
+S'some paintings will ever be appreciated'
+p522
+S'many paintings will ever be appreciated'
+p523
+tp524
+a(S'few paintings will ever be ignored'
+p525
+S'some paintings will ever be ignored'
+p526
+S'many paintings will ever be ignored'
+p527
+tp528
+a(S'few paintings will ever get old'
+p529
+S'some paintings will ever get old'
+p530
+S'many paintings will ever get old'
+p531
+tp532
+a(S'few novels will ever be seen'
+p533
+S'some novels will ever be seen'
+p534
+S'many novels will ever be seen'
+p535
+tp536
+a(S'few novels will ever be appreciated'
+p537
+S'some novels will ever be appreciated'
+p538
+S'many novels will ever be appreciated'
+p539
+tp540
+a(S'few novels will ever be ignored'
+p541
+S'some novels will ever be ignored'
+p542
+S'many novels will ever be ignored'
+p543
+tp544
+a(S'few novels will ever get old'
+p545
+S'some novels will ever get old'
+p546
+S'many novels will ever get old'
+p547
+tp548
+a(S'few poems will ever be seen'
+p549
+S'some poems will ever be seen'
+p550
+S'many poems will ever be seen'
+p551
+tp552
+a(S'few poems will ever be appreciated'
+p553
+S'some poems will ever be appreciated'
+p554
+S'many poems will ever be appreciated'
+p555
+tp556
+a(S'few poems will ever be ignored'
+p557
+S'some poems will ever be ignored'
+p558
+S'many poems will ever be ignored'
+p559
+tp560
+a(S'few poems will ever get old'
+p561
+S'some poems will ever get old'
+p562
+S'many poems will ever get old'
+p563
+tp564
+a(S'few shows will ever be seen'
+p565
+S'some shows will ever be seen'
+p566
+S'many shows will ever be seen'
+p567
+tp568
+a(S'few shows will ever be appreciated'
+p569
+S'some shows will ever be appreciated'
+p570
+S'many shows will ever be appreciated'
+p571
+tp572
+a(S'few shows will ever be ignored'
+p573
+S'some shows will ever be ignored'
+p574
+S'many shows will ever be ignored'
+p575
+tp576
+a(S'few shows will ever get old'
+p577
+S'some shows will ever get old'
+p578
+S'many shows will ever get old'
+p579
+tp580
+as.

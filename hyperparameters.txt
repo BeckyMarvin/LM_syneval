@@ -4,7 +4,7 @@
 #######################################################
 
 # Main working directory
-workdir=/path/to/this/repo
+workdir=/home/rmarvin/external/LM_syneval
 
 # Directory where the Pytorch word language model code lives (with modifications for the multitask LMs)
 lm_dir=$workdir/word-language-model
@@ -12,9 +12,9 @@ lm_dir=$workdir/word-language-model
 # Paths to LM & CCG data
 lm_data_dir=$workdir/data/lm_data
 ccg_data_dir=$workdir/data/ccg_data
-train=train.txt
-valid=valid.txt
-test=test.txt
+train=train.small.txt
+valid=valid.small.txt
+test=test.small.txt
 
 # Path to save the model
 model_dir=$workdir/models
